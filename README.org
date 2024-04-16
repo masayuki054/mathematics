@@ -1,0 +1,6 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+* 数理のひろがり 2024
+
+

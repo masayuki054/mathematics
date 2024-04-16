@@ -1,0 +1,168 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* 1st
+** 講義について
+*** 関連ページ
+**** 数理科学基礎 東京大学
+*** 質問・相談方法
+面談は，図書館2階の学修支援コーナーに来てください。
+学期中の木曜日と金曜日 14時から17時に在席しています。
+
+Webclass のメッセージでも受付けます。
+
+メールでの質問・相談にもできるかぎり応じます。
+suzuki@iwate-u.ac.jp 宛にメールしてください
+
+*** キーワード
+
+- 集合，論理，関数，関係，
+- グラフと思考と理解，論理的思考法・発想法・GTD
+- 微分，積分，微分方程式
+- ベクトルと行列
+
+*** 授業の目的
+
+- 大学で学ぶ数学分野で用いられる基礎的な概念と言葉を知ること。
+- 数学の言葉として，集合，論理，関係，関数，グラフを知ること。
+- 論理的思考法について，関係とグラフを用いて，捉えること。
+- 関数とその変化を表す微積分の考え方を知ること。多変数その変化を表す微
+  積分の考え方を知ること。
+- 多変数の方程式の解法について，行列とベクトルで考えること。
+
+あわせて，数学的ICT (情報処理技術) の考え方と技術を学ぶこと。
+
+*** 到達目標
+
+- 自然科学を記述するための数理論理学の表現方法とその意味について理解する
+  こと。それらは，論理，集合，関数，関係，グラフなど。
+
+- 論理的思考技術について，論理，集合，関数，関係，グラフを用いて，考えら
+  れるようになること。
+
+- 状態や関係およびその変化を，微分や積分を用いて，理解できるようになる
+  こと。
+
+- 多変数の場合についても同様に，行列とベクトルを用いた表現を，理解でき
+  るようになること。
+
+*** 授業の概要
+
+- まず，集合，関数，関係，グラフについて学びます。
+  これらに関しては，オンラインコンテンツを提示しますの
+  で，それを手元のノートパソコンで閲覧してください。
+
+- 次に，論理的思考とグラフについて考えます。これには，講師による過去の放
+  送大学での講義コンテンツを用います。
+
+- 微積分，微分方程式，線形代数については，それぞれの科目の教科書を参考
+  にしてください。講師による図的な説明も行います。
+
+- 受講に必要と思われる情報処理技術 (ICT) は，情報基礎の進行を考慮して，
+  毎回，序々に進めていくつもりです。
+
+  具体的な内容は，皆さんの様子に合せて，決めていきたいと思います。大切
+  なことは，ウェブの閲覧技術，作業記録を残す技術，数理情報文書作成技術，
+  だと思います。
+
+*** 授業形式
+
+下記のことを毎回行なう予定です：
+
+- 教材 (オンラインコンテンツ) の講師による講義形式の説明，
+- 教材の学生自身での学び，
+- Web検索等による確かめ，
+- 講師と学生自身でのまとめの作成，
+- 毎回少しの時間を取り，持ち込みパソコンを使って，数理ICT入門を行なう
+  予定 (講義室のネットワーク環境に依存しますが)
+
+*** 授業外学修
+- 毎回の受講して得た知識を復習し，パソコンで適切なアプリを使って，まと
+  めてください。
+
+*** 成績評価方法
+
+*** 評価の基準
+- 数学的知識の構造化ができているか
+- 数学的知識の構造化を適切に表現できるか (構造的文書，マインドマップ，
+  図，グラフなどを用いて)
+
+*** 履修における留意点
+- ノートパソコンを持ち込んでください。
+- 教室のWifiインターネット環境は，多人数同時使用の実績がないそうです。
+  実際に使ってみないとわからない状態です。状況によっては講義形式が変る
+  かもしれません。
+
+** Web上の教科書
+
+*** 離散系の数学
+
+[[https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/][離散数学及び演習-2013 | Courses]]
+- [[https://ocw.nagoya-u.jp/files/16/lec01.pdf][集合・命題・関数 - lec01.pdf]]
+   - [[https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB][形式体系 - Wikipedia]]
+   - [[https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%AB%96%E8%A6%8F%E5%89%87][推論規則 - Wikipedia]]
+- [[https://ocw.nagoya-u.jp/files/16/lec02.pdf][関係・順序 -  lec02.pdf]]
+  - [[https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E3%81%AE%E5%85%AC%E7%90%86][ペアノの公理 - Wikipedia]]
+- [[https://ocw.nagoya-u.jp/files/16/lec03.pdf][集合の計数 - lec03.pdf]]
+
+
+*** グラフ関連
+- [[http://dopal.cs.uec.ac.jp/okamotoy/lect/2019/gn/#material][グラフとネットワーク (2019年度前学期)]]
+- [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95][グラフ - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96][グラフ理論 - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0][ダイアグラム - Wikipedia]]
+
+*** 論理的思考とグラフ， 数理ICT入門 (Mindmap)
+- [[https://masayuki054.github.io/tools_for_thinking_and_memo/talk.html][メモと思考とデジタルツール]]
+- [[https://www.riken.jp/press/2023/20230417_2/index.html][グラフが論理的思考力を高める | 理化学研究所]]
+  
+*** 微分積分準備講座
+[[https://masayuki054.hatenablog.com/entry/2024/04/09/225336][微分積分準備講座 2024 - masayuki054's diary]]
+[[https://drive.google.com/drive/folders/1fYNIqpHaGYXFeuLxqppoT9cEUCEcmbXp][2024-微分積分補助講義 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/14bUoy6J-weof2b63u42K6Fb5RnmtFgPq][黒板-2022 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1lY6qb2Z02iAD_WdesHNMpmsGecY3ynDa][図 - Google ドライブ]]
+
+*** 詳細計画
+
+1. ガイダンス，集合と論理，数理ICT入門 (Webと検索, xmind)
+2. 集合と論理，数理ICT入門 (デジタルノート, xmind)
+3. 集合と関数，数理ICT入門 (デジタルノート，URL)
+4. 集合と関係，数理ICT入門 (デジタルノート, 共有)
+5. 関係とグラフ，数理ICT入門 (Mindmap)
+6. 論理的思考とグラフ， 数理ICT入門 (Mindmap)
+7. 1変数関数の微分,  数理ICT入門 (数式処理)<
+8. 1変数関数の微分，数理ICT入門 (数式処理)
+9. 1変数関数の積分，数理ICT入門 (数式処理)
+10. 多変数関数とベクトル，数理ICT入門 (数式処理)
+11. 多変数関数の微分，数理ICT入門 (数式処理)
+12. 多変数関数の微分，数理ICT入門 (数式処理)c
+13. 多変数関数の積分，数理ICT入門 (数式処理)
+14. ベクトルと行列，数理ICT入門 (数式処理)
+15. 講義全体のまとめ，デジタルノートの提出
+
+
+
+** ICT
+- ブラウザでブックマークする
+  - IA
+  - hatena
+
+- 講義に関する Web ページを作る
+    
+- xmind を試す
+  - [[https://xmind.ai/?utm_source=ggsem&utm_campaign=jp&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU3usolHEFnahVK37lH5k7nYWeaaDh42XFEItL-vD9KzbdMyKfbXuo4aAhTpEALw_wcB][Xmind AI：AIによるブレインストーミング＆マインドマップでのリアルタ
+    イム協働]]
+
+   web app., idが必要，
+
+  - [[https://jp.xmind.net/][Xmind のマッピングソフトウェア]]
+
+- 講義メモを取るアプリ
+
+- alpha, geogebra, ...
+
+- ruby, python, ... 
+  

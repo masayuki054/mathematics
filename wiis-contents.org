@@ -1,0 +1,1463 @@
+<<show-hide-header>>
+
+** [[/][WIIS]]
+:PROPERTIES:
+:CUSTOM_ID: wiis
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+[[data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZS1mb250LWljb24tc3ZnIGUtZWljb24tbWVudS1iYXIiIHZpZXdib3g9IjAgMCAxMDAwIDEwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwNCAzMzNIODk2QzkyOSAzMzMgOTU4IDMwNCA5NTggMjcxUzkyOSAyMDggODk2IDIwOEgxMDRDNzEgMjA4IDQyIDIzNyA0MiAyNzFTNzEgMzMzIDEwNCAzMzNaTTEwNCA1ODNIODk2QzkyOSA1ODMgOTU4IDU1NCA5NTggNTIxUzkyOSA0NTggODk2IDQ1OEgxMDRDNzEgNDU4IDQyIDQ4NyA0MiA1MjFTNzEgNTgzIDEwNCA1ODNaTTEwNCA4MzNIODk2QzkyOSA4MzMgOTU4IDgwNCA5NTggNzcxUzkyOSA3MDggODk2IDcwOEgxMDRDNzEgNzA4IDQyIDczNyA0MiA3NzFTNzEgODMzIDEwNCA4MzNaIj48L3BhdGg+PC9zdmc+]]
+[[data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZS1mb250LWljb24tc3ZnIGUtZWljb24tY2xvc2UiIHZpZXdib3g9IjAgMCAxMDAwIDEwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc0MiAxNjdMNTAwIDQwOCAyNTggMTY3QzI0NiAxNTQgMjMzIDE1MCAyMTcgMTUwIDE5NiAxNTAgMTc5IDE1OCAxNjcgMTY3IDE1NCAxNzkgMTUwIDE5NiAxNTAgMjEyIDE1MCAyMjkgMTU0IDI0MiAxNzEgMjU0TDQwOCA1MDAgMTY3IDc0MkMxMzggNzcxIDEzOCA4MDAgMTY3IDgyOSAxOTYgODU4IDIyNSA4NTggMjU0IDgyOUw0OTYgNTg3IDczOCA4MjlDNzUwIDg0MiA3NjcgODQ2IDc4MyA4NDYgODAwIDg0NiA4MTcgODQyIDgyOSA4MjkgODQyIDgxNyA4NDYgODA0IDg0NiA3ODMgODQ2IDc2NyA4NDIgNzUwIDgyOSA3MzdMNTg4IDUwMCA4MzMgMjU4Qzg2MyAyMjkgODYzIDIwMCA4MzMgMTcxIDgwNCAxMzcgNzc1IDEzNyA3NDIgMTY3WiI+PC9wYXRoPjwvc3ZnPg==]]
+
+<<menubar-389>>
+- 
+
+  <<e-n-menu-title-3891>>
+
+  数学
+
+- 
+
+  <<e-n-menu-title-3892>>
+
+  経済学
+
+- 
+
+  <<e-n-menu-title-3893>>
+
+  [[https://wiis.info/groups/][フォーラム]]
+
+<<e-n-menu-content-3891>>
+
+** [[#math][数学のコース]]
+:PROPERTIES:
+:CUSTOM_ID: 数学のコース
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[https://wiis.info/math/logic/propositional-logic/][命題論理]]
+- [[https://wiis.info/math/logic/predicate-logic/][述語論理]]
+
+- [[https://wiis.info/math/set/set/][集合]]
+- [[https://wiis.info/math/set/mapping/][写像]]
+- [[https://wiis.info/math/set/relation/][関係]]
+- [[https://wiis.info/math/set/potency/][集合の濃度]]
+- [[https://wiis.info/math/set/ordered-set/][順序集合]]
+
+- [[https://wiis.info/math/real-number/definition-of-real-number/][実数の定義]]
+- [[https://wiis.info/math/real-number/convergent-sequence/][数列]]
+- [[https://wiis.info/math/real-number/topology/][数直線の位相]]
+- [[https://wiis.info/math/real-number/function/][1変数関数]]
+- [[https://wiis.info/math/real-number/series/][級数]]
+- [[https://wiis.info/math/real-number/sequence-of-functions/][関数列]]
+- [[https://wiis.info/math/real-number/extended-real-line/][拡大実数系]]
+
+- [[https://wiis.info/math/euclidean-space/euclidean-space/][ユークリッド空間の定義]]
+- [[https://wiis.info/math/euclidean-space/sequence/][ユークリッド空間上の点列]]
+- [[https://wiis.info/math/euclidean-space/topology/][ユークリッド位相]]
+- [[https://wiis.info/math/euclidean-space/curve/][ベクトル値関数]]
+- [[https://wiis.info/math/euclidean-space/scalar-field/][多変数関数]]
+- [[https://wiis.info/math/euclidean-space/vector-field/][多変数のベクトル値関数]]
+
+- [[https://wiis.info/math/metric-space/metric-space/][距離空間の定義]]
+- [[https://wiis.info/math/metric-space/sequence/][距離空間上の点列]]
+- [[https://wiis.info/math/metric-space/topology/][距離空間の位相]]
+- [[https://wiis.info/math/metric-space/mapping/][距離空間上の写像]]
+
+- [[https://wiis.info/math/calculus/differentiation-of-functions/][1変数関数の微分]]
+- [[https://wiis.info/math/calculus/differentiation-of-curve/][ベクトル値関数の微分]]
+- [[https://wiis.info/math/calculus/differentiation-of-scalar-field/][多変数関数の微分]]
+- [[https://wiis.info/math/calculus/differentiation-of-vector-field/][多変数ベクトル値関数の微分]]
+- [[https://wiis.info/math/calculus/integral-of-functions/][1変数関数の積分]]
+- [[https://wiis.info/math/calculus/integral-of-curve/][ベクトル値関数の積分]]
+- [[https://wiis.info/math/calculus/integral-of-scalar-field/][多変数関数の積分]]
+- [[https://wiis.info/math/calculus/optimization/][関数の最適化]]
+- [[https://wiis.info/math/calculus/application-of-calculus/][微分積分の応用例]]
+
+- [[https://wiis.info/math/linear-algebra/vector/][ベクトル]]
+- [[https://wiis.info/math/linear-algebra/matrix/][行列]]
+- [[https://wiis.info/math/linear-algebra/determinant/][行列式]]
+- [[https://wiis.info/math/linear-algebra/linear-mapping/][実ベクトル空間上の線型写像]]
+- [[https://wiis.info/math/linear-algebra/system-of-linear-equations/][連立1次方程式]]
+- [[https://wiis.info/math/linear-algebra/eigenvalue/][固有値と固有ベクトル]]
+- [[https://wiis.info/math/linear-algebra/vector-space/][ベクトル空間]]
+- [[https://wiis.info/math/linear-algebra/linear-mapping-between-vector-spaces/][線形写像]]
+
+- [[https://wiis.info/math/convex-analysis/convex-set/][凸集合]]
+- [[https://wiis.info/math/convex-analysis/convex-function/][凸関数]]
+- [[https://wiis.info/math/convex-analysis/quasiconvex-function/][準凸関数]]
+- [[https://wiis.info/math/convex-analysis/convex-optimization/][凸最適化]]
+
+- [[https://wiis.info/math/correnspondence/correspondence/][対応]]
+
+- [[https://wiis.info/math/measure/lebesgue-measure/][ルベーグ測度]]
+- [[https://wiis.info/math/measure/measurable-function/][ルベーグ可測関数]]
+- [[https://wiis.info/math/measure/lebesgue-integral/][ルベーグ積分]]
+- [[https://wiis.info/math/measure/dini-derivative/][ディニ微分]]
+
+- [[https://wiis.info/math/probability/probability/][確率]]
+- [[https://wiis.info/math/probability/random-variable/][確率変数]]
+- [[https://wiis.info/math/probability/discrete-probability-distribution/][離散型確率分布]]
+- [[https://wiis.info/math/probability/continuous-probability-distribution/][連続型確率分布]]
+- [[https://wiis.info/math/probability/probability-distributions/][代表的な確率分布]]
+- [[https://wiis.info/math/probability/asymptotic-theory/][漸近理論]]
+
+<<e-n-menu-content-3892>>
+
+** [[#math][経済学のコース]]
+:PROPERTIES:
+:CUSTOM_ID: 経済学のコース
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[https://wiis.info/economics/microeconomics/consumer-theory/][消費者理論]]
+- [[https://wiis.info/economics/microeconomics/producer-theory/][生産者理論]]
+- [[https://wiis.info/economics/microeconomics/imperfect-competition/][不完全競争市場]]
+- [[https://wiis.info/economics/microeconomics/choice-under-uncertainty/][不確実性下の意思決定]]
+
+- [[https://wiis.info/economics/game-theory/game/][ゲーム理論におけるゲームの定義と分類]]
+- [[https://wiis.info/economics/game-theory/static-games-of-complete-information/][完備情報の静学ゲーム]]
+- [[https://wiis.info/economics/game-theory/static-games-of-incomplete-information/][不完備情報の静学ゲーム]]
+- [[https://wiis.info/economics/game-theory/dynamic-games-of-complete-information/][完備情報の動学ゲーム]]
+- [[https://wiis.info/economics/game-theory/examples-of-games/][ゲーム理論におけるゲームの具体例]]
+
+- [[https://wiis.info/economics/auction-theory/single-object-auction/][単一財オークション]]
+- [[https://wiis.info/economics/auction-theory/combinatorial-auction/][組合せオークション]]
+
+- [[https://wiis.info/economics/matching-theory/exchange-economy-with-indivisible-goods/][非分割財の交換問題（シャプレー・スカーフの住宅市場）]]
+- [[https://wiis.info/economics/matching-theory/one-to-one-matching-problem/][1対1のマッチング問題（安定結婚問題）]]
+
+[[data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZS1mb250LWljb24tc3ZnIGUtZWljb24tbWVudS1iYXIiIHZpZXdib3g9IjAgMCAxMDAwIDEwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwNCAzMzNIODk2QzkyOSAzMzMgOTU4IDMwNCA5NTggMjcxUzkyOSAyMDggODk2IDIwOEgxMDRDNzEgMjA4IDQyIDIzNyA0MiAyNzFTNzEgMzMzIDEwNCAzMzNaTTEwNCA1ODNIODk2QzkyOSA1ODMgOTU4IDU1NCA5NTggNTIxUzkyOSA0NTggODk2IDQ1OEgxMDRDNzEgNDU4IDQyIDQ4NyA0MiA1MjFTNzEgNTgzIDEwNCA1ODNaTTEwNCA4MzNIODk2QzkyOSA4MzMgOTU4IDgwNCA5NTggNzcxUzkyOSA3MDggODk2IDcwOEgxMDRDNzEgNzA4IDQyIDczNyA0MiA3NzFTNzEgODMzIDEwNCA4MzNaIj48L3BhdGg+PC9zdmc+]]
+[[data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZS1mb250LWljb24tc3ZnIGUtZWljb24tY2xvc2UiIHZpZXdib3g9IjAgMCAxMDAwIDEwMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc0MiAxNjdMNTAwIDQwOCAyNTggMTY3QzI0NiAxNTQgMjMzIDE1MCAyMTcgMTUwIDE5NiAxNTAgMTc5IDE1OCAxNjcgMTY3IDE1NCAxNzkgMTUwIDE5NiAxNTAgMjEyIDE1MCAyMjkgMTU0IDI0MiAxNzEgMjU0TDQwOCA1MDAgMTY3IDc0MkMxMzggNzcxIDEzOCA4MDAgMTY3IDgyOSAxOTYgODU4IDIyNSA4NTggMjU0IDgyOUw0OTYgNTg3IDczOCA4MjlDNzUwIDg0MiA3NjcgODQ2IDc4MyA4NDYgODAwIDg0NiA4MTcgODQyIDgyOSA4MjkgODQyIDgxNyA4NDYgODA0IDg0NiA3ODMgODQ2IDc2NyA4NDIgNzUwIDgyOSA3MzdMNTg4IDUwMCA4MzMgMjU4Qzg2MyAyMjkgODYzIDIwMCA4MzMgMTcxIDgwNCAxMzcgNzc1IDEzNyA3NDIgMTY3WiI+PC9wYXRoPjwvc3ZnPg==]]
+
+<<menubar-345>>
+- 
+
+  <<e-n-menu-title-3451>>
+
+  [[/about/][ワイズについて]]
+
+- 
+
+  <<e-n-menu-title-3452>>
+
+  [[/register/][会員登録]]
+
+- 
+
+  <<e-n-menu-title-3453>>
+
+  アカウント
+
+<<e-n-menu-content-3453>>
+
+** [[#math][アカウント]]
+:PROPERTIES:
+:CUSTOM_ID: アカウント
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/login/][ログイン]]
+- [[https://wiis.info/start/][スタートページ]]
+
+- [[https://wiis.info/browse/][閲覧履歴]]
+- [[https://wiis.info/economics/game-theory/static-games-of-incomplete-information/][後で読むリスト]]
+- [[https://wiis.info/member/me/profile/][プロフィール]]
+- [[https://wiis.info/account/subscriptions/][アカウント情報]]
+
+- [[https://wiis.info/member/me/forums/engagements/][関わったフォーラムトピック]]
+- [[https://wiis.info/member/me/forums/favorites/][お気に入りのフォーラムトピック]]
+- [[https://wiis.info/member/me/forums/subscriptions/][購読中のフォーラムトピック]]
+- [[https://wiis.info/member/me/groups/][参加中のグループ]]
+- [[https://wiis.info/member/me/notifications/][メッセージボックス]]
+
+検索
+
+[[data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZmEgZmEtc2VhcmNoIGUtZm9udC1pY29uLXN2ZyBlLWZhcy1zZWFyY2giIHZpZXdib3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik01MDUgNDQyLjdMNDA1LjMgMzQzYy00LjUtNC41LTEwLjYtNy0xNy03SDM3MmMyNy42LTM1LjMgNDQtNzkuNyA0NC0xMjhDNDE2IDkzLjEgMzIyLjkgMCAyMDggMFMwIDkzLjEgMCAyMDhzOTMuMSAyMDggMjA4IDIwOGM0OC4zIDAgOTIuNy0xNi40IDEyOC00NHYxNi4zYzAgNi40IDIuNSAxMi41IDcgMTdsOTkuNyA5OS43YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDI4LjMtMjguM2M5LjQtOS40IDkuNC0yNC42LjEtMzR6TTIwOCAzMzZjLTcwLjcgMC0xMjgtNTcuMi0xMjgtMTI4IDAtNzAuNyA1Ny4yLTEyOCAxMjgtMTI4IDcwLjcgMCAxMjggNTcuMiAxMjggMTI4IDAgNzAuNy01Ny4yIDEyOC0xMjggMTI4eiI+PC9wYXRoPjwvc3ZnPg==]]
+
+検索
+
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0icHJlc2VudGF0aW9uIiBjbGFzcz0iZWxlbWVudG9yLW1lbnUtdG9nZ2xlX19pY29uLS1vcGVuIGUtZm9udC1pY29uLXN2ZyBlLWVpY29uLW1lbnUtYmFyIiB2aWV3Ym94PSIwIDAgMTAwMCAxMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMDQgMzMzSDg5NkM5MjkgMzMzIDk1OCAzMDQgOTU4IDI3MVM5MjkgMjA4IDg5NiAyMDhIMTA0QzcxIDIwOCA0MiAyMzcgNDIgMjcxUzcxIDMzMyAxMDQgMzMzWk0xMDQgNTgzSDg5NkM5MjkgNTgzIDk1OCA1NTQgOTU4IDUyMVM5MjkgNDU4IDg5NiA0NThIMTA0QzcxIDQ1OCA0MiA0ODcgNDIgNTIxUzcxIDU4MyAxMDQgNTgzWk0xMDQgODMzSDg5NkM5MjkgODMzIDk1OCA4MDQgOTU4IDc3MVM5MjkgNzA4IDg5NiA3MDhIMTA0QzcxIDcwOCA0MiA3MzcgNDIgNzcxUzcxIDgzMyAxMDQgODMzWiI+PC9wYXRoPjwvc3ZnPg==]][[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0icHJlc2VudGF0aW9uIiBjbGFzcz0iZWxlbWVudG9yLW1lbnUtdG9nZ2xlX19pY29uLS1jbG9zZSBlLWZvbnQtaWNvbi1zdmcgZS1laWNvbi1jbG9zZSIgdmlld2JveD0iMCAwIDEwMDAgMTAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNzQyIDE2N0w1MDAgNDA4IDI1OCAxNjdDMjQ2IDE1NCAyMzMgMTUwIDIxNyAxNTAgMTk2IDE1MCAxNzkgMTU4IDE2NyAxNjcgMTU0IDE3OSAxNTAgMTk2IDE1MCAyMTIgMTUwIDIyOSAxNTQgMjQyIDE3MSAyNTRMNDA4IDUwMCAxNjcgNzQyQzEzOCA3NzEgMTM4IDgwMCAxNjcgODI5IDE5NiA4NTggMjI1IDg1OCAyNTQgODI5TDQ5NiA1ODcgNzM4IDgyOUM3NTAgODQyIDc2NyA4NDYgNzgzIDg0NiA4MDAgODQ2IDgxNyA4NDIgODI5IDgyOSA4NDIgODE3IDg0NiA4MDQgODQ2IDc4MyA4NDYgNzY3IDg0MiA3NTAgODI5IDczN0w1ODggNTAwIDgzMyAyNThDODYzIDIyOSA4NjMgMjAwIDgzMyAxNzEgODA0IDEzNyA3NzUgMTM3IDc0MiAxNjdaIj48L3BhdGg+PC9zdmc+]]
+メニュー
+
+- [[https://wiis.info/login/][ログイン]]
+- [[/][ホーム]]
+- [[https://wiis.info/about/][ワイズについて]]
+- [[https://wiis.info/register/][会員登録]]
+- 数学の教材
+  - [[https://wiis.info/math/logic/][論理]]
+  - [[https://wiis.info/math/set/][集合]]
+  - [[https://wiis.info/math/real-number/][実数]]
+  - [[https://wiis.info/math/euclidean-space/][ユークリッド空間]]
+  - [[https://wiis.info/math/metric-space/][距離空間]]
+  - [[https://wiis.info/math/calculus/][微分積分]]
+  - [[https://wiis.info/math/linear-algebra/][線形代数]]
+  - [[https://wiis.info/math/convex-optimization/][凸最適化]]
+  - [[https://wiis.info/math/correnspondence/][対応]]
+  - [[https://wiis.info/math/measure/][測度]]
+  - [[https://wiis.info/math/probability/][確率と統計]]
+- 経済学の教材
+  - [[https://wiis.info/economics/microeconomics/][ミクロ経済学]]
+  - [[https://wiis.info/economics/game-theory/][ゲーム理論]]
+  - [[https://wiis.info/economics/auction-theory/][オークション理論]]
+  - [[https://wiis.info/economics/matching-theory/][マッチング理論]]
+- フォーラム
+  - [[https://wiis.info/forums/forum/group/][グループ]]
+  - [[https://wiis.info/forums/forum/comment/][教材]]
+- 機能
+  - [[https://wiis.info/login/][ログイン]]
+  - [[https://wiis.info/browse/][閲覧履歴]]
+  - [[https://wiis.info/favorites/][最新の教材]]
+  - [[https://wiis.info/blog/][お知らせ・ブログ]]
+- プロフィール
+- アカウント
+  - [[https://wiis.info/register/][ユーザー登録]]
+  - [[https://wiis.info/account/subscriptions/][会員登録]]
+  - [[https://wiis.info/faq/][よくある質問]]
+  - [[https://wiis.info/contact/][お問い合わせ]]
+
+** [[/][WIIS]]
+:PROPERTIES:
+:CUSTOM_ID: wiis-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1zZWFyY2giIHZpZXdib3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik01MDUgNDQyLjdMNDA1LjMgMzQzYy00LjUtNC41LTEwLjYtNy0xNy03SDM3MmMyNy42LTM1LjMgNDQtNzkuNyA0NC0xMjhDNDE2IDkzLjEgMzIyLjkgMCAyMDggMFMwIDkzLjEgMCAyMDhzOTMuMSAyMDggMjA4IDIwOGM0OC4zIDAgOTIuNy0xNi40IDEyOC00NHYxNi4zYzAgNi40IDIuNSAxMi41IDcgMTdsOTkuNyA5OS43YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDI4LjMtMjguM2M5LjQtOS40IDkuNC0yNC42LjEtMzR6TTIwOCAzMzZjLTcwLjcgMC0xMjgtNTcuMi0xMjgtMTI4IDAtNzAuNyA1Ny4yLTEyOCAxMjgtMTI4IDcwLjcgMCAxMjggNTcuMiAxMjggMTI4IDAgNzAuNy01Ny4yIDEyOC0xMjggMTI4eiI+PC9wYXRoPjwvc3ZnPg==]]
+
+検索
+
+検索
+
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWVpY29uLWNsb3NlIiB2aWV3Ym94PSIwIDAgMTAwMCAxMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik03NDIgMTY3TDUwMCA0MDggMjU4IDE2N0MyNDYgMTU0IDIzMyAxNTAgMjE3IDE1MCAxOTYgMTUwIDE3OSAxNTggMTY3IDE2NyAxNTQgMTc5IDE1MCAxOTYgMTUwIDIxMiAxNTAgMjI5IDE1NCAyNDIgMTcxIDI1NEw0MDggNTAwIDE2NyA3NDJDMTM4IDc3MSAxMzggODAwIDE2NyA4MjkgMTk2IDg1OCAyMjUgODU4IDI1NCA4MjlMNDk2IDU4NyA3MzggODI5Qzc1MCA4NDIgNzY3IDg0NiA3ODMgODQ2IDgwMCA4NDYgODE3IDg0MiA4MjkgODI5IDg0MiA4MTcgODQ2IDgwNCA4NDYgNzgzIDg0NiA3NjcgODQyIDc1MCA4MjkgNzM3TDU4OCA1MDAgODMzIDI1OEM4NjMgMjI5IDg2MyAyMDAgODMzIDE3MSA4MDQgMTM3IDc3NSAxMzcgNzQyIDE2N1oiPjwvcGF0aD48L3N2Zz4=]]
+Close this search box.
+
+<<math>>
+
+** COURSE
+:PROPERTIES:
+:CUSTOM_ID: course
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+MATHEMATICS
+
+** 数学
+:PROPERTIES:
+:CUSTOM_ID: 数学
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+数学のコース一覧です
+
+[[https://wiis.info/search/][ 教材の詳細検索 ]]
+
+<<logic>>
+
+*** 論理
+:PROPERTIES:
+:CUSTOM_ID: 論理
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+LOGIC
+
+- [[#math][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#set][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+論理は数学的思考の土台です。数学的な主張を正確に表現し、厳密に理解し、その真偽を正しく判定するためには論理のルールを身につける必要があります。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+なし 0%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/pl-05-1024x576.jpg]]
+
+*** [[https://wiis.info/math/logic/propositional-logic/][命題論理]]
+:PROPERTIES:
+:CUSTOM_ID: 命題論理
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+命題論理の基本単位は「真または偽のどちらか一方であるような主張」であり、これを命題変数と呼びます。その上で、より複雑な主張を生成する操作を命題変数どうしを組み合わせる操作として定式化します。
+
+[[https://wiis.info/math/logic/propositional-logic/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/pl-07-1024x576.jpg]]
+
+*** [[https://wiis.info/math/logic/predicate-logic/][述語論理]]
+:PROPERTIES:
+:CUSTOM_ID: 述語論理
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+命題論理の基本単位が命題変数であったのに対し、述語論理では命題関数と呼ばれる概念が基本単位となります。それにより扱うことのできる言明の範囲が広がるとともに、量化と呼ばれる操作が可能になります。
+
+[[https://wiis.info/math/logic/predicate-logic/][ 詳細を見る ]]
+
+<<set>>
+
+*** 論理
+:PROPERTIES:
+:CUSTOM_ID: 論理-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+SET
+
+- [[#logic][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#rn][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+集合論は現代数学の土台です。様々な数学的概念が集合を用いて記述されます。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/set-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/set/set/][集合]]
+:PROPERTIES:
+:CUSTOM_ID: 集合
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+集合論は数学の土台です。あらゆる数学的概念は集合を用いて記述できます。ここでは集合を定義した上で、集合演算とその性質について学び、さらには集合族や直積集合、関係などについて学びます。
+
+[[https://wiis.info/math/set/set/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/mapping-05-1024x576.jpg]]
+
+*** [[https://wiis.info/math/set/mapping/][写像]]
+:PROPERTIES:
+:CUSTOM_ID: 写像
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+写像とは集合のそれぞれの要素に対して別の集合の要素を1つずつ定める規則のことです。関数を一般化した概念が写像です。
+
+[[https://wiis.info/math/set/mapping/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/relation-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/set/relation/][関係]]
+:PROPERTIES:
+:CUSTOM_ID: 関係
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+複数の物事が互いに関わり合っている状態を「関係」と呼びますが、これは数学的には2つの集合の直積の部分集合として定義されます。関係や二項関係、同値関係、順序関係など代表的な関係について解説します。
+
+[[https://wiis.info/math/set/relation/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/cardinals-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/set/potency/][集合の濃度]]
+:PROPERTIES:
+:CUSTOM_ID: 集合の濃度
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+集合の濃度とは要素の個数を一般化した概念であり、これを用いることにより無限どうしを比較できるようになります。
+
+[[https://wiis.info/math/set/potency/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/05/ors-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/set/ordered-set/][順序集合]]
+:PROPERTIES:
+:CUSTOM_ID: 順序集合
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+順序集合や整列集合、ツォルンの補題などについて解説します。
+
+[[https://wiis.info/math/set/ordered-set/][ 詳細を見る ]]
+
+<<rn>>
+
+*** 実数
+:PROPERTIES:
+:CUSTOM_ID: 実数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+REAL NUMBER
+
+- [[#set][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#es][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+実数の公理系から出発して、実数空間上に定義された演算、順序、そして実数の連続性などについて議論します。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-2
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/rn-07-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/definition-of-real-number/][実数の定義]]
+:PROPERTIES:
+:CUSTOM_ID: 実数の定義
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+実数を無限小数として定義する場合、実数に関する議論はすべて無限小数に関する議論として行うことになり面倒です。そこで代替的な方法として公理主義的なアプローチのもとで実数を定義します。ここでは実数を特徴づける公理について解説します。
+
+[[https://wiis.info/math/real-number/definition-of-real-number/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/sonum-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/convergent-sequence/][数列]]
+:PROPERTIES:
+:CUSTOM_ID: 数列
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+実数を順番に並べたものを数列や実数列と呼びます。数列の項が先に進むにつれてある実数に限りなく近づく場合には、その数列は収束すると言い、その実数を数列の極限と呼びます。
+
+[[https://wiis.info/math/real-number/convergent-sequence/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/torl-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/topology/][数直線の位相]]
+:PROPERTIES:
+:CUSTOM_ID: 数直線の位相
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+実数空間すなわち数直線の位相に関するテキストと演習問題です。実数空間上の開集合や閉集合など、位相を規定する概念について解説します。
+
+[[https://wiis.info/math/real-number/topology/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/03/function-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/function/][1変数関数]]
+:PROPERTIES:
+:CUSTOM_ID: 変数関数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+関数に関するテキストと演習問題です。実数の点集合上に定義され実数を値としてとる関数について、収束の概念や連続性の概念を中心に解説します。
+
+[[https://wiis.info/math/real-number/function/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/10/arc-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/series/][級数]]
+:PROPERTIES:
+:CUSTOM_ID: 級数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+数列とは無限個の実数を順番に並べたものですが、その無限個の実数を足すことで得られる和を無限級数と呼びます。ただ、実際に無限個の実数を足すことはできないため、無限級数の値として部分和の極限を採用します。
+
+[[https://wiis.info/math/real-number/series/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/01/sof-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/sequence-of-functions/][関数列]]
+:PROPERTIES:
+:CUSTOM_ID: 関数列
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+定義域を共有する無限個の数列を順番に並べたものを関数列と呼びます。関数列およびその収束可能性について解説します。
+
+[[https://wiis.info/math/real-number/sequence-of-functions/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/07/erl-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/real-number/extended-real-line/][拡大実数系]]
+:PROPERTIES:
+:CUSTOM_ID: 拡大実数系
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+すべての実数に正の無限大と負の無限大を加えることにより得られる集合を拡大実数系と呼びます。拡大実数系の位相や拡大実数列、拡大実数値関数などについて解説します。
+
+[[https://wiis.info/math/real-number/extended-real-line/][ 詳細を見る ]]
+
+<<es>>
+
+*** ユークリッド空間
+:PROPERTIES:
+:CUSTOM_ID: ユークリッド空間
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+EUCLIDEAN SPACE
+
+- [[#rn][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#metric][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+ユークリッド空間を定義した上で、そこでの点列や位相の性質および各種の写像（ベクトル値関数・多変数関数・多変数のベクトル値関数）の極限や連続性などについて解説します。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-3
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+実数 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/ec-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/euclidean-space/][ユークリッド空間の定義]]
+:PROPERTIES:
+:CUSTOM_ID: ユークリッド空間の定義
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+n
+次元空間上にベクトル加法やスカラー乗法などの演算や大小関係を定義すると、実順序ベクトル空間になります。実順序ベクトル空間上にユークリッド距離と呼ばれる概念を定義したものがユークリッド空間です。
+
+[[https://wiis.info/math/euclidean-space/euclidean-space/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/sop-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/sequence/][ユークリッド空間上の点列]]
+:PROPERTIES:
+:CUSTOM_ID: ユークリッド空間上の点列
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ユークリッド空間上の無限個の点を順番に並べたものを点列と呼びます。点列は実数列を一般化した概念です。ここでは点列が収束することの意味を定義した上で、収束点列の性質について解説します。
+
+[[https://wiis.info/math/euclidean-space/sequence/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/et-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/topology/][ユークリッド位相]]
+:PROPERTIES:
+:CUSTOM_ID: ユークリッド位相
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ユークリッド距離をもとにユークリッド空間上の開集合と呼ばれる概念を定義した上で、その性質や、関連する概念などについて解説します。
+
+[[https://wiis.info/math/euclidean-space/topology/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/08/cuv-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/curve/][ベクトル値関数（曲線）]]
+:PROPERTIES:
+:CUSTOM_ID: ベクトル値関数曲線
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+実数空間もしくはその部分集合を定義とし、ユークリッド空間を終集合とする写像を曲線やベクトル値関数などと呼びます。ここでは曲線の収束や連続性などについて解説します。
+
+[[https://wiis.info/math/euclidean-space/curve/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/sf-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/scalar-field/][多変数関数（スカラー場）]]
+:PROPERTIES:
+:CUSTOM_ID: 多変数関数スカラー場
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+多変数関数（スカラー場）という概念を定義するとともに、多変数関数が有限な実数へ収束すること、および連続であることの意味を定義した上で、連続な多変数関数の性質について解説します。
+
+[[https://wiis.info/math/euclidean-space/scalar-field/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/09/vf-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/euclidean-space/vector-field/][多変数のベクトル値関数（ベクトル場）]]
+:PROPERTIES:
+:CUSTOM_ID: 多変数のベクトル値関数ベクトル場
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+本節では多変数のベクトル値関数（ベクトル場）が収束することの意味や、連続であることの意味を解説します。本節で得られる知識は後に多変数のベクトル値関数の微分について学ぶ際の前提知識となります。
+
+[[https://wiis.info/math/euclidean-space/vector-field/][ 詳細を見る ]]
+
+<<metric>>
+
+*** 距離空間
+:PROPERTIES:
+:CUSTOM_ID: 距離空間
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+METRIC SPACE
+
+- [[#es][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#calculus][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+私たちが一般に想像する「距離」とはユークリッド距離ですが、公理主義にもとづいて距離という概念を定義する場合、ユークリッド距離は数ある距離概念の中の1つに過ぎません。公理主義の立場から距離空間と呼ばれる概念を定義します。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-4
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+実数 50%
+
+ユークリッド空間 50%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/11/ms-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/metric-space/metric-space/][距離空間の定義]]
+:PROPERTIES:
+:CUSTOM_ID: 距離空間の定義
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+私たちが一般に想像する「距離」とはユークリッド距離ですが、公理主義にもとづいて距離という概念を定義する場合、ユークリッド距離は数ある距離概念の中の1つに過ぎません。公理主義の立場から距離空間と呼ばれる概念を定義します。
+
+[[https://wiis.info/math/metric-space/metric-space/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/11/sqm-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/metric-space/sequence/][距離空間上の点列]]
+:PROPERTIES:
+:CUSTOM_ID: 距離空間上の点列
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+距離空間に属する無限個の点を順番に並べたものを点列と呼びます。点列を定義するとともに、その極限など、基本的な概念について解説します。
+
+[[https://wiis.info/math/metric-space/sequence/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/12/tms-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/metric-space/topology/][距離空間の位相]]
+:PROPERTIES:
+:CUSTOM_ID: 距離空間の位相
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+距離空間上の点の近傍を出発点に、開集合や閉集合などの諸概念を定義し、それらの概念が満たす性質について解説します。
+
+[[https://wiis.info/math/metric-space/topology/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/12/mpm-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/metric-space/mapping/][距離空間上の写像]]
+:PROPERTIES:
+:CUSTOM_ID: 距離空間上の写像
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+定義域と終集合がいずれも距離空間であるような写像について、その極限や連続性など、基本的な性質について解説します。
+
+[[https://wiis.info/math/metric-space/mapping/][ 詳細を見る ]]
+
+<<calculus>>
+
+*** 微分積分
+:PROPERTIES:
+:CUSTOM_ID: 微分積分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+CALCULUS
+
+- [[#metric][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#la][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+微分は「変化」に関する学問です。微分を学べば物事や現象の「変化」を定量的に記述できるようになるだけでなく、変化がもたらす影響を評価したり、変化が起きる場での最適な状態を特定できるようになります。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-5
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+実数 80%
+
+ユークリッド空間 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/dof-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/differentiation-of-functions/][1変数関数の微分]]
+:PROPERTIES:
+:CUSTOM_ID: 変数関数の微分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+1変数関数の微分の概念を定義した上で、微分の基本性質や初等関数の微分、平均値の定理、高階の微分、テイラーの定理などについて学びます。これらの知識は後に1変数関数を目的関数とする最適化について学ぶ上での基盤になります。
+
+[[https://wiis.info/math/calculus/differentiation-of-functions/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/11/doc-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/differentiation-of-curve/][ベクトル値関数の微分]]
+:PROPERTIES:
+:CUSTOM_ID: ベクトル値関数の微分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+曲線（1変数のベクトル値関数）について、その微分を定義した上で、微分に関して成り立つ様々な性質を解説します。
+
+[[https://wiis.info/math/calculus/differentiation-of-curve/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/dosf-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/differentiation-of-scalar-field/][多変数関数の微分]]
+:PROPERTIES:
+:CUSTOM_ID: 多変数関数の微分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+多変数関数（スカラー場）について、偏微分、方向微分、全微分などの様々な微分概念を定義するとともに、これらの微分概念の性質について解説します。
+
+[[https://wiis.info/math/calculus/differentiation-of-scalar-field/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/01/dov-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/differentiation-of-vector-field/][多変数ベクトル値関数の微分]]
+:PROPERTIES:
+:CUSTOM_ID: 多変数ベクトル値関数の微分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+多変数のベクトル値関数（ベクトル場）の偏微分や方向微分、全微分などの概念について解説します。
+
+[[https://wiis.info/math/calculus/differentiation-of-vector-field/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/04/itg-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/integral-of-functions/][1変数関数の積分]]
+:PROPERTIES:
+:CUSTOM_ID: 変数関数の積分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+1変数関数のリーマン積分について学びます。具体的には、積分の概念を定義した上で、積分の基本性質や初等関数の積分、微分と積分の関係、関連する諸定理について学びます。
+
+[[https://wiis.info/math/calculus/integral-of-functions/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/02/ioc-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/integral-of-curve/][ベクトル値関数の積分]]
+:PROPERTIES:
+:CUSTOM_ID: ベクトル値関数の積分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+1変数のベクトル値関数（曲線）について、そのリーマン積分を定義した上で、積分に関して成り立つ様々な性質を解説します。
+
+[[https://wiis.info/math/calculus/integral-of-curve/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/02/ios-05-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/integral-of-scalar-field/][多変数関数の積分]]
+:PROPERTIES:
+:CUSTOM_ID: 多変数関数の積分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+多変数関数について、そのリーマン積分を定義した上で、積分に関して成り立つ様々な性質を解説します。
+
+[[https://wiis.info/math/calculus/integral-of-scalar-field/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/08/opt-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/optimization/][関数の最適化]]
+:PROPERTIES:
+:CUSTOM_ID: 関数の最適化
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+与えられた制約条件のもとで関数の値を最大化または最小化する変数の値を求めることを最適化と呼びます。ここでは微分可能な関数を対象とする様々な最適化問題の解法を解説します。
+
+[[https://wiis.info/math/calculus/optimization/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/08/apc-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/calculus/application-of-calculus/][微分積分の応用例]]
+:PROPERTIES:
+:CUSTOM_ID: 微分積分の応用例
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+微分積分の現実社会における具体的な応用例について解説します。
+
+[[https://wiis.info/math/calculus/application-of-calculus/][ 詳細を見る
+]]
+
+<<la>>
+
+*** 線形代数
+:PROPERTIES:
+:CUSTOM_ID: 線形代数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+LINEAR ALGEBRA
+
+- [[#calculus][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#convex][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+ベクトルや行列などの概念を学んだ上で、連立1次方程式の解法を一般的な形で整理します。さらに、より抽象的なベクトルと呼ばれる概念について学びます。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-6
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/09/ve-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/vector/][ベクトル]]
+:PROPERTIES:
+:CUSTOM_ID: ベクトル
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+「大きさ」と「方向」という2種類の情報によって表現される量をベクトルと呼びます。ベクトルを定式化するとともに、その性質について解説します。
+
+[[https://wiis.info/math/linear-algebra/vector/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/10/la-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/matrix/][行列]]
+:PROPERTIES:
+:CUSTOM_ID: 行列
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+実数を長方形に配列したものを行列と呼びます。ここでは行列とそれについて定義される代数的演算について学びます。
+
+[[https://wiis.info/math/linear-algebra/matrix/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/10/la-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/determinant/][行列式]]
+:PROPERTIES:
+:CUSTOM_ID: 行列式
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+連立1次方程式の解を求める問題は行列式の理論と深い関係があります。ここでは行列式の定義および性質を確認した上で、連立1次方程式との関係を議論します。
+
+[[https://wiis.info/math/linear-algebra/determinant/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/03/lm-06-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/linear-mapping/][実ベクトル空間上の線形写像（線型変換）]]
+:PROPERTIES:
+:CUSTOM_ID: 実ベクトル空間上の線形写像線型変換
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+線形写像と呼ばれるタイプの写像について解説します。
+
+[[https://wiis.info/math/linear-algebra/linear-mapping/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/03/sole-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/system-of-linear-equations/][連立1次方程式]]
+:PROPERTIES:
+:CUSTOM_ID: 連立1次方程式
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ベクトルや行列に関する知識を活用して連立1次方程式を分析するとともに、解を具体的に求める方法を解説します。
+
+[[https://wiis.info/math/linear-algebra/system-of-linear-equations/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/10/pn-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/linear-algebra/vector-space/][ベクトル空間]]
+:PROPERTIES:
+:CUSTOM_ID: ベクトル空間
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+体と非空の集合上に定義されたベクトル加法とスカラー乗法と呼ばれる演算がベクトル空間の公理を満たす場合、そのような集合をベクトル空間と呼びます。ここではベクトル空間を定義した上で、その基本的な性質を確認します。
+
+[[https://wiis.info/math/linear-algebra/vector-space/][ 詳細を見る ]]
+
+<<convex>>
+
+*** 凸解析
+:PROPERTIES:
+:CUSTOM_ID: 凸解析
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+CONVEX ANALYSIS
+
+- [[#la][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#correspondence][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+凸最適化（凸計画法）および凹最適化（凹計画法）と呼ばれる最適化問題を定義するとともに、様々な凸最適化ないし凹最適化問題の解法を解説します。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-7
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+実数 60%
+
+ユークリッド空間 60%
+
+微分積分 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/convex-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/convex-analysis/convex-set/][凸集合]]
+:PROPERTIES:
+:CUSTOM_ID: 凸集合
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+凸集合と呼ばれる概念を定義した上で、凸集合どうしの集合演算に関して成立する性質や凸集合の位相的性質について解説します。
+
+[[https://wiis.info/math/convex-analysis/convex-set/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/cf-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/convex-analysis/convex-function/][凸関数・凹関数]]
+:PROPERTIES:
+:CUSTOM_ID: 凸関数凹関数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+凸関数（凹関数）と呼ばれる関数を定義するとともに、与えられた関数が凸関数（凹関数）であることを判定する方法や、凸関数（凹関数）の基本的な性質について解説します。
+
+[[https://wiis.info/math/convex-analysis/convex-function/][ 詳細を見る
+]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/02/qc-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/convex-analysis/quasiconvex-function/][準凸関数・準凹関数]]
+:PROPERTIES:
+:CUSTOM_ID: 準凸関数準凹関数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+準凸関数（準凹関数）と呼ばれる関数を定義するとともに、与えられた関数が準凸関数（準凹関数）であることを判定する方法や、準凸関数（準凹関数）の基本的な性質について解説します。
+
+[[https://wiis.info/math/convex-analysis/quasiconvex-function/][
+詳細を見る ]]
+
+<<correspondence>>
+
+*** 対応
+:PROPERTIES:
+:CUSTOM_ID: 対応
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+CORRESPONDENCE
+
+- [[#convex][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#measure][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+集合のそれぞれの要素に対して別の集合の部分集合を1つずつ定める規則を対応と呼びます。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-8
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+集合 80%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/12/crsp-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/correnspondence/correspondence/][対応]]
+:PROPERTIES:
+:CUSTOM_ID: 対応-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+集合のそれぞれの要素に対して別の集合の部分集合を1つずつ定める規則を対応と呼びます。ここでは対応、対応による像、逆像（上逆像・下逆像）、逆対応、対応の連続性（上連続性・下連続性）、ベルジュの最大値定理、および不動点定理などについて解説します。
+
+[[https://wiis.info/math/correnspondence/correspondence/][ 詳細を見る ]]
+
+<<measure>>
+
+*** 測度
+:PROPERTIES:
+:CUSTOM_ID: 測度
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+MEASURE
+
+- [[#correspondence][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#probability][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+長さや面積、体積などはいずれも同一種類の小さい量を加え合わせることでより大きな量をつくることができるという意味において外延的な量です。一般に、外延量は測度と呼ばれる概念として一般化されます。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-9
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/lm-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/measure/lebesgue-measure/][ルベーグ測度]]
+:PROPERTIES:
+:CUSTOM_ID: ルベーグ測度
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+長さや面積、体積などはいずれも同一種類の小さい量を加え合わせることでより大きな量をつくることができるという意味において外延的な量です。一般に、外延量は測度と呼ばれる概念として一般化されます。ここでは実数空間（数直線）の部分集合を測定対象とするルベーグ測度について解説します。
+
+[[https://wiis.info/math/measure/lebesgue-measure/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/09/lf-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/measure/measurable-function/][ルベーグ可測関数]]
+:PROPERTIES:
+:CUSTOM_ID: ルベーグ可測関数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ルベーグ集合上に定義された関数によるボレル集合の逆像がルベーグ可測であることが保証される場合、そのような関数をルベーグ可測関数と呼びます。代表的な可測関数について、その性質を解説します。
+
+[[https://wiis.info/math/measure/measurable-function/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/07/li-03-1024x576.jpg]]
+
+*** [[https://wiis.info/math/measure/lebesgue-integral/][ルベーグ積分]]
+:PROPERTIES:
+:CUSTOM_ID: ルベーグ積分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ルベーグ積分とは測度論を用いてより一般的な関数に対して積分を定義する手法です。ルベーグ積分を用いることにより、リーマン積分では積分できなかった様々な関数が積分可能になります。
+
+[[https://wiis.info/math/measure/lebesgue-integral/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/08/dini-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/measure/dini-derivative/][ディニ微分]]
+:PROPERTIES:
+:CUSTOM_ID: ディニ微分
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+微分を一般化したディニ微分と呼ばれる微分概念を導入するとともに、ルベーグ積分との関係について解説します。
+
+[[https://wiis.info/math/measure/dini-derivative/][ 詳細を見る ]]
+
+<<probability>>
+
+*** 確率と統計
+:PROPERTIES:
+:CUSTOM_ID: 確率と統計
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+PROBABILITY AND STATISTICS
+
+- [[#measure][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS11cCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMjU2QzggMTE5IDExOSA4IDI1NiA4czI0OCAxMTEgMjQ4IDI0OC0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTZ6bTIzMS0xMTMuOUwxMDMuNSAyNzcuNmMtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlsMTcgMTdjOS40IDkuNCAyNC42IDkuNCAzMy45IDBMMjU2IDIyNi45bDEwMS42IDEwMS42YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDE3LTE3YzkuNC05LjQgOS40LTI0LjYgMC0zMy45TDI3MyAxNDIuMWMtOS40LTkuNC0yNC42LTkuNC0zNCAweiI+PC9wYXRoPjwvc3ZnPg==]]
+  ]]
+- [[#econ][
+  [[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1kb3duIiB2aWV3Ym94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNTA0IDI1NmMwIDEzNy0xMTEgMjQ4LTI0OCAyNDhTOCAzOTMgOCAyNTYgMTE5IDggMjU2IDhzMjQ4IDExMSAyNDggMjQ4ek0yNzMgMzY5LjlsMTM1LjUtMTM1LjVjOS40LTkuNCA5LjQtMjQuNiAwLTMzLjlsLTE3LTE3Yy05LjQtOS40LTI0LjYtOS40LTMzLjkgMEwyNTYgMjg1LjEgMTU0LjQgMTgzLjVjLTkuNC05LjQtMjQuNi05LjQtMzMuOSAwbC0xNyAxN2MtOS40IDkuNC05LjQgMjQuNiAwIDMzLjlMMjM5IDM2OS45YzkuNCA5LjQgMjQuNiA5LjQgMzQgMHoiPjwvcGF0aD48L3N2Zz4=]]
+  ]]
+
+起こり得るすべての結果は分かっていても、その中のどの結果が実際に起こるかを前もって完全に予測てきない状況をランダムネスと呼びます。確率論とはランダムネスを分析対象とする学問です。
+
+*** 前提知識
+:PROPERTIES:
+:CUSTOM_ID: 前提知識-10
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+論理 100%
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2021/04/pb-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/probability/][確率]]
+:PROPERTIES:
+:CUSTOM_ID: 確率
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+公理主義的な確率論について解説します。具体的には、確率空間や確率関数などの概念を定義した上で、確率空間の公理をもとに、確率空間が満たす基本的な性質を証明します。
+
+[[https://wiis.info/math/probability/probability/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/06/rv-06-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/random-variable/][確率変数]]
+:PROPERTIES:
+:CUSTOM_ID: 確率変数
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+それぞれの標本点に対して実数を1つずつ割り当てる写像を確率変数と呼びます。確率変数の概念を定義するとともに、その性質を解説します。
+
+[[https://wiis.info/math/probability/random-variable/][ 詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/11/drv-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/discrete-probability-distribution/][離散型の確率分布]]
+:PROPERTIES:
+:CUSTOM_ID: 離散型の確率分布
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+確率に関して定量的な分析を行うために確率変数を用いて標本点を数値化します。特に、試行において起こり得る結果が有限個ないし可算個である場合には離散型の確率変数を利用します。
+
+[[https://wiis.info/math/probability/discrete-probability-distribution/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/11/cpd-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/continuous-probability-distribution/][連続型の確率分布]]
+:PROPERTIES:
+:CUSTOM_ID: 連続型の確率分布
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+確率に関して定量的な分析を行うために確率変数を用いて標本点を数値化します。特に、試行において起こり得る結果が非可算個である場合には連続型の確率変数を利用します。
+
+[[https://wiis.info/math/probability/continuous-probability-distribution/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2022/12/rpb-01-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/probability-distributions/][代表的な確率分布]]
+:PROPERTIES:
+:CUSTOM_ID: 代表的な確率分布
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+代表的な確率分布を紹介するとともに、その性質を解説します。
+
+[[https://wiis.info/math/probability/probability-distributions/][
+詳細を見る ]]
+
+[[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJAAQMAAAApW4aWAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GIk8AAbOpTZoAAAAASUVORK5CYII=]]
+[[https://wiis.info/wp-content/uploads/2023/01/ast-02-1024x576.jpg]]
+
+*** [[https://wiis.info/math/probability/asymptotic-theory/][漸近理論]]
+:PROPERTIES:
+:CUSTOM_ID: 漸近理論
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+漸近理論について解説します。
+
+[[https://wiis.info/math/probability/asymptotic-theory/][ 詳細を見る ]]
+
+[[/about/][ABOUT]]
+
+*** [[/about/][ワイズについて]]
+:PROPERTIES:
+:CUSTOM_ID: ワイズについて
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+ワイズの理念とサービス
+
+[[/about/][
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1hbmdsZS1yaWdodCIgdmlld2JveD0iMCAwIDI1NiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyNC4zIDI3M2wtMTM2IDEzNmMtOS40IDkuNC0yNC42IDkuNC0zMy45IDBsLTIyLjYtMjIuNmMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlsOTYuNC05Ni40LTk2LjQtOTYuNGMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlMNTQuMyAxMDNjOS40LTkuNCAyNC42LTkuNCAzMy45IDBsMTM2IDEzNmM5LjUgOS40IDkuNSAyNC42LjEgMzR6Ij48L3BhdGg+PC9zdmc+]]
+詳細はこちらから ]]
+
+REGISTER
+
+*** [[/register/][会員登録]]
+:PROPERTIES:
+:CUSTOM_ID: 会員登録
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+プレミアム会員登録
+
+[[/register/][
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1hbmdsZS1yaWdodCIgdmlld2JveD0iMCAwIDI1NiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyNC4zIDI3M2wtMTM2IDEzNmMtOS40IDkuNC0yNC42IDkuNC0zMy45IDBsLTIyLjYtMjIuNmMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlsOTYuNC05Ni40LTk2LjQtOTYuNGMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlMNTQuMyAxMDNjOS40LTkuNCAyNC42LTkuNCAzMy45IDBsMTM2IDEzNmM5LjUgOS40IDkuNSAyNC42LjEgMzR6Ij48L3BhdGg+PC9zdmc+]]
+詳細はこちらから ]]
+
+CONTACT
+
+*** [[/contact/][お問い合わせ]]
+:PROPERTIES:
+:CUSTOM_ID: お問い合わせ
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+メールフォーム
+
+[[/contact/][
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1hbmdsZS1yaWdodCIgdmlld2JveD0iMCAwIDI1NiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyNC4zIDI3M2wtMTM2IDEzNmMtOS40IDkuNC0yNC42IDkuNC0zMy45IDBsLTIyLjYtMjIuNmMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlsOTYuNC05Ni40LTk2LjQtOTYuNGMtOS40LTkuNC05LjQtMjQuNiAwLTMzLjlMNTQuMyAxMDNjOS40LTkuNCAyNC42LTkuNCAzMy45IDBsMTM2IDEzNmM5LjUgOS40IDkuNSAyNC42LjEgMzR6Ij48L3BhdGg+PC9zdmc+]]
+詳細はこちらから ]]
+
+*** LEARN MORE
+:PROPERTIES:
+:CUSTOM_ID: learn-more
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+*** さらに深く学びたい人のための会員サービス
+:PROPERTIES:
+:CUSTOM_ID: さらに深く学びたい人のための会員サービス
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+[[/register/][
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1yaWdodCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI1NiA4YzEzNyAwIDI0OCAxMTEgMjQ4IDI0OFMzOTMgNTA0IDI1NiA1MDQgOCAzOTMgOCAyNTYgMTE5IDggMjU2IDh6bTExMy45IDIzMUwyMzQuNCAxMDMuNWMtOS40LTkuNC0yNC42LTkuNC0zMy45IDBsLTE3IDE3Yy05LjQgOS40LTkuNCAyNC42IDAgMzMuOUwyODUuMSAyNTYgMTgzLjUgMzU3LjZjLTkuNCA5LjQtOS40IDI0LjYgMCAzMy45bDE3IDE3YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwTDM2OS45IDI3M2M5LjQtOS40IDkuNC0yNC42IDAtMzR6Ij48L3BhdGg+PC9zdmc+]]
+会員登録 ]]
+
+有料プレミアム会員は質問・コメントの投稿と閲覧、命題の証明の閲覧、演習問題とその解答への閲覧が可能になります。
+
+[[/faq/][
+[[data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImUtZm9udC1pY29uLXN2ZyBlLWZhcy1jaGV2cm9uLWNpcmNsZS1yaWdodCIgdmlld2JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI1NiA4YzEzNyAwIDI0OCAxMTEgMjQ4IDI0OFMzOTMgNTA0IDI1NiA1MDQgOCAzOTMgOCAyNTYgMTE5IDggMjU2IDh6bTExMy45IDIzMUwyMzQuNCAxMDMuNWMtOS40LTkuNC0yNC42LTkuNC0zMy45IDBsLTE3IDE3Yy05LjQgOS40LTkuNCAyNC42IDAgMzMuOUwyODUuMSAyNTYgMTgzLjUgMzU3LjZjLTkuNCA5LjQtOS40IDI0LjYgMCAzMy45bDE3IDE3YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwTDM2OS45IDI3M2M5LjQtOS40IDkuNC0yNC42IDAtMzR6Ij48L3BhdGg+PC9zdmc+]]
+よくある質問 ]]
+
+皆さまからよく頂く質問への回答をまとめました。こちらに解決方法が見つからない場合にはお問い合わせください。
+
+[[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]]
+[[https://wiis.info/wp-content/uploads/2020/11/wiis-logo-03.svg]]
+
+- [[mailto:info@wiis.info][MAIL. info@wiis.info]]
+- [[https://wiis.info][URL. https://wiis.info]]
+- [[/about/][ワイズについて]]
+- [[/register/][プレミアム会員登録]]
+- [[/faq/][よくあるご質問]]
+- [[/contact/][お問い合わせ]]
+- [[/terms/][利用規約]]
+- [[/privacy-policy/][個人情報保護方針]]
+- [[/scta/][特定商取引法に基づく表記]]
+
+*** [[/math/logic/][論理]]
+:PROPERTIES:
+:CUSTOM_ID: 論理-2
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/logic/propositional-logic/][命題論理]]
+- [[/math/logic/predicate-logic/][述語論理]]
+
+*** [[/math/set/][集合]]
+:PROPERTIES:
+:CUSTOM_ID: 集合-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/set/set/][集合]]
+- [[/math/set/mapping/][写像]]
+- [[/math/set/equivalence-relation/][同値関係]]
+- [[/math/set/potency/][集合の濃度]]
+
+*** [[/math/real-number/][実数]]
+:PROPERTIES:
+:CUSTOM_ID: 実数-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/real-number/definition-of-real-number/][実数の定義]]
+- [[/math/real-number/convergent-sequence/][数列]]
+- [[/math/real-number/topology/][数直線の位相]]
+- [[/math/real-number/function/][関数]]
+
+*** [[/math/euclidean-space/][ユークリッド空間]]
+:PROPERTIES:
+:CUSTOM_ID: ユークリッド空間-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/euclidean-space/euclidean-space/][ユークリッド空間]]
+- [[/math/euclidean-space/sequence/][点列]]
+- [[/math/euclidean-space/topology/][ユークリッド位相]]
+- [[/math/euclidean-space/curve/][ベクトル値関数]]
+- [[/math/euclidean-space/scalar-field/][多変数関数]]
+
+*** [[/math/calculus/][微分積分]]
+:PROPERTIES:
+:CUSTOM_ID: 微分積分-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/calculus/differentiation-of-functions/][関数の微分]]
+- [[/math/calculus/differentiation-of-scalar-field/][多変数関数の微分]]
+
+*** [[/math/measure/][測度]]
+:PROPERTIES:
+:CUSTOM_ID: 測度-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/logic/propositional-logic/][ルベーグ測度]]
+
+*** [[/math/measure/][確率]]
+:PROPERTIES:
+:CUSTOM_ID: 確率-1
+:CLASS: elementor-heading-title elementor-size-default
+:END:
+
+- [[/math/probability/probability/][確率]]
+- [[/math/probability/probabilty-distribution/][確率分布]]
+
+ミクロ経済学
+
+- [[/economics/microeconomics/consumer-theory/][消費者理論]]
+- [[/economics/microeconomics/producer-theory/][生産者理論]]
+- 市場均衡理論
+- [[/economics/microeconomics/imperfect-competition/][不完全競争市場]]
+
+[[/economics/game-theory/][ゲーム理論]]
+
+- [[/economics/game-theory/game/][ゲーム理論とは何か]]
+- [[/economics/game-theory/static-games-of-complete-information/][完備情報の静学ゲーム]]
+- [[/economics/game-theory/static-games-of-complete-information/][不完備情報の静学ゲーム]]
+- [[/economics/game-theory/dynamic-games-of-complete-information/][完備情報の動学ゲーム]]
+- 不完備情報の動学ゲーム
+- 協力ゲーム
+- [[/economics/game-theory/examples-of-games/][ゲームの例]]
+
+[[/economics/auction-theory/][オークション理論]]
+
+- [[/economics/auction-theory/single-object-auction/][単一財オークション]]
+
+[[/economics/matching-theory/][マッチング理論]]
+
+- [[/economics/matching-theory/exchange-economy-with-indivisible-goods/][非分割財の交換経済]]
+
+思想
+
+歴史
