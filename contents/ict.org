@@ -1,0 +1,33 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* tools
+
+** Web ブラウザ
+
+- ブラウザでブックマークする
+  - IA
+  - hatena
+
+** 
+- 講義に関する Web ページを作る
+   
+** Mindmap 
+
+*** xmind アプリ
+
+**** try
+ - [[https://xmind.ai/?utm_source=ggsem&utm_campaign=jp&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU3usolHEFnahVK37lH5k7nYWeaaDh42XFEItL-vD9KzbdMyKfbXuo4aAhTpEALw_wcB][Xmind AI：AIによるブレインストーミング＆マインドマップでのリアルタ
+    イム協働]]
+
+   web app., idが必要，
+
+  - [[https://jp.xmind.net/][Xmind のマッピングソフトウェア]]
+
+***** 
+- 講義メモを取るアプリ
+
+- alpha, geogebra, ...
+
+- ruby, python, ... 

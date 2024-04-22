@@ -1,0 +1,155 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+*
+
+* ZFC 集合論 (公理的集合論)
+[[https://kopende.com/math/set-zfc/][公理的集合論のZFCを、論理記号抜きで噛み砕いて解説。｜KOPENDE]]
+
+* 論理
+
+[[https://kopende.com/math/logic-proposition/][命題とは？数学に必要な論理のことば（または、ならば、すべてのなど）の使い方｜KOPENDE]]
+
+
+
+
+* [[https://examist.jp/category/mathematics/mathmatome/][高校数学分野別基本事項まとめ（試験直前最終確認用）]]
+
+- [[https://examist.jp/mathematics/mathmatome/koukousuugaku-benkyouhou/][高校数学の勉強法（定期試験対策と外部模試・大学入試対策）]]
+- [[https://examist.jp/mathematics/mathmatome/graph/][グラフや図形の正しい描き方と綺麗な円を描く裏技]]
+- [[https://examist.jp/mathematics/mathmatome/kazutosiki1/][数学I 数と式(整式の計算・因数分解・実数) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kazutosiki2/][数学I 数と式(方程式と不等式) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/syugoronrimatome/][数学I 集合と論理 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/nijikansu-matome1/][数学I 2次関数(グラフと最大･最小) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/nijikansu-matome2/][数学I 2次関数(2次方程式と2次不等式) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/sankakuhi-matome/][数学I 三角比と図形の計量 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/data-matome/][数学I データの分析 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/baainokazu-matome/][数学A 場合の数 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kakuritu-matome/][数学A 確率 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/futeihouteisiki-matome/][数学A 整数(不定方程式) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/seisuu-matome/][数学A 整数(不定方程式以外) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/zukeinoseisitu-matome/][数学A 図形の性質(平面図形と空間図形) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/sikitosyoumei-matome/][数学Ⅱ 式と証明 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/fukusosuu-matome/][数学Ⅱ 複素数と方程式 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/figure-line-matome/][数学Ⅱ 図形と方程式(直線) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/figure-circle-matome/][数学Ⅱ 図形と方程式(円) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kiseki-ryouiki-matome/][数学Ⅱ 図形と方程式(軌跡と領域) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/sankakukansuu-matome/][数学Ⅱ 三角関数 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/exp-log-matome/][数学Ⅱ 指数関数と対数関数 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/seisikinobibun-matome/][数学Ⅱ 整式の微分 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/seisikinosekibun-matome/][数学Ⅱ 整式の積分 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/suuretu-matome1/][数学B 数列 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/suuretu-matome2/][数学B 数列(漸化式と数学的帰納法) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kakuritutoukei-matome/][数学B 確率分布と統計的な推測まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kansuu-matome/][数学Ⅲ 分数関数・無理関数・逆関数・合成関数 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/kyokugen-matome/][数学Ⅲ 極限 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/bibunkeisan-matome/][数学Ⅲ 微分法(計算) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/sekibunkeisan-matome/][数学Ⅲ 積分法(計算) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/heimen-vector-matome/][数学C 平面ベクトルと平面図形 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/space-vector-matome/][数学C 空間ベクトルと空間図形、空間の方程式 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/nijikyokusen-matome/][数学C 2次曲線(放物線・楕円・双曲線) 基本事項まとめ]]
+- [[https://examist.jp/mathematics/mathmatome/fukusosuuheimen-matome/][数学C 複素数平面 基本事項まとめ]]
+
+
+* 数学I 集合と論理 基本事項まとめ
+
+数学の論理では「仮定」が何で、「結論」が何かということがとても大切です。
+これを間違えると全てが破綻してしまうこともあります。ここでは数学の論理
+関係の問題を解く時に必要になることについて説明していきたいと思います。
+
+**** 命題と条件
+
+- 命題 :: 式や文で表されていて正しいか間違っているかがはっきりと決
+まるもののことです。
+
+- 論理 :: では、この命題を与えられて、その真偽や証明がよく出題されます。
+
+- 数学の論理での「条件」:: 命題と違って正しいか間違っているかが決まる
+  わけではないもののことです。
+
+  𝑝という条件と𝑞という条件があったとすると、
+  「𝑝ならば𝑞である」というのが命題です。このように条件が組み合わさって
+  命題ができています。
+
+**** 必要条件と十分条件
+
+条件𝑝、𝑞について、命題「𝑝ならば𝑞である」は「𝑝⇒𝑞」と表されます。命題
+「𝑝⇒𝑞」が真であるとき、「𝑝は𝑞の十分条件である」といい、「𝑞は𝑝の必要条
+件である」といいます。また、命題「𝑝⇒𝑞」と命題「𝑞⇒𝑝」がともに真である
+とき、「𝑝は𝑞の必要十分条件である」といいます。
+
+**** 逆、裏、対偶
+
+命題「𝑝⇒𝑞」の「逆」は「𝑞⇒𝑝」、「裏」は「𝑝¯⇒𝑞¯」、「対偶」は「𝑞¯⇒𝑝¯」
+です。ここで、𝑝¯は条件𝑝の否定を表しています。この3つの中で大切なのは対
+偶です。対偶に関しては
+
+命題「𝑝⇒𝑞」の真偽は、その対偶「𝑞¯⇒𝑝¯」の真偽と一致する。
+
+という重要な定理があります。逆、裏にはそのような定理はなく、もとの命題
+が真だからといって、逆や裏が真とはかぎりません。
+
+**** 背理法
+
+背理法は数学の証明の手法の1つです。ある命題𝑃を証明するために、𝑃ではな
+いと仮定して、矛盾を導き、𝑃ではないという仮定が間違っていることを証明
+することによって、命題𝑃の証明をするという方法です。主に「√2は無理数で
+ある」などの事実を証明する時に使います。
+
+**** よくある例題
+
+***** 例題　(命題の真偽)
+
+次の命題の真偽を調べよ
+①実数𝑥について、𝑥=1ならば𝑥2=1
+②実数𝑥について、𝑥2=1ならば𝑥=1
+
+***** 解答
+
+①𝑥=1の時、𝑥2を計算すると𝑥2=12=1です。よってこの命題は正しいので真です。
+②𝑥2=1の時、𝑥は𝑥=±1ですので、𝑥2=1だからといって𝑥=1とはかぎりません。𝑥=−1という反例があるため、この命題は偽です。
+
+***** 例題　(命題の証明)
+
+実数𝑥、𝑦について、𝑥+𝑦>0ならば𝑥>0または𝑦>0であることを証明せよ。
+解答
+
+この問題は与えられた命題の真偽と命題の対偶の真偽が一致することを使って証明を行います。
+与えられた命題の対偶は「𝑥≤0かつ𝑦≤0ならば𝑥+𝑦≤0である。」です。負の数と負の数を足して0以下になるのは明らかなので、与えられた命題の対偶は真です。命題の真偽とその対偶の真偽は一致するので、与えられた命題は真です。
+
+***** 例題　(背理法)
+
+2‾√は無理数であることを示せ。ただし、𝑛を自然数とする時、𝑛2が2の倍数ならば、𝑛は2の倍数であることを用いてよいものとする。
+
+***** 解答
+
+根号のついた数が無理数であるこのと証明は背理法を使います。
+まず、2‾√が無理数でないと仮定します。そうすると、2‾√は分数で表すことができるので、1以外に正の公約数をもたない自然数𝑎、𝑏を使って、
+2‾√=𝑎𝑏
+と表せます。この時、
+𝑎=2‾√𝑏
+両辺を2乗すると、
+𝑎2=2𝑏2
+これより、𝑎2が2の倍数であるので𝑎も2の倍数である。よって、ある自然数𝑐を使って、𝑎=2𝑐と表せる。これを代入すると、
+4𝑐2=2𝑏2
+𝑏2=2𝑐2
+よって、𝑏2は2の倍数であるので𝑏も2の倍数です。
+よって、𝑎、𝑏は両方とも2の倍数です。これは𝑎、𝑏が1以外に公約数をもたないことに矛盾します。
+よって2‾√は無理数です。
+
+***** 苦手克服法
+
+****** よくある悩み
+
+数学の論理が苦手な人に多いのが、条件や対偶などを考えるときに、よく分からなくなってしまう人です。十分条件と必要条件がどっちかわからなくなってしまったり、命題の対偶を間違えてしまったりといろいろありますね。一番ミスをしやすいのが「かつ」と「または」についてのミスだと思います。
+
+****** そんなあなたは
+
+数学の論理の問題が苦手な人は、頭で考えるだけでなく、整理しやすいように書いていくといいでしょう。書くと条件や対偶などはミスしづらくなります。さらに「かつ」と「または」のようによく間違えるところは決まっているので、与えられた命題について否定や対偶を考えるときにチェックするポイントを自分で決めておくといいですね。
+
+****** 分からなくなってきたら
+
+この論理という単元では与えられた命題の否定を考えたり、逆を考えたりと頭だけで考えていると途中で分からなくなってしまいます。また、問題に解答するためには、与えられた命題に関して整理し考えていく必要があるので少し手間はかかりますが書いて整理するといいですよ。
+
+

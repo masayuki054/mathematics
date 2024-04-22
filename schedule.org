@@ -1,0 +1,70 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+* 講義計画
+
+皆さんの反応，講義環境，ICT環境と知識によって，進行具合，重み，やり方
+も変っていくと思いますが，一応，下記のように考えました。
+** 計画
+
+*** 1. ガイダンス，集合と論理，数理ICT入門 (Webと検索)
+- web資料 : [[https://ocw.ilas.nagoya-u.ac.jp/index.php?lang=ja&mode=c&id=16&page_type=materials][講義資料 | 離散数学及び演習 | 工学部・工学研究科 | 名大の  授業 (NU OCW)]]
+- 参考書 : 野崎さんの離散系の数学
+- [[file:memo/集合と論理.org]]
+- ブラウザ，URL, ページ
+
+  
+- NHK高校講座 命題 [[https://www.nhk.or.jp/kokokoza/suugaku1/assets/memo/memo_0000004159.pdf][memo_0000004159.pdf]]
+
+*** 2. 集合と論理，数理ICT入門 (デジタルノート)
+- web資料 : [[https://ocw.ilas.nagoya-u.ac.jp/index.php?lang=ja&mode=c&id=16&page_type=materials][講義資料 | 離散数学及び演習 | 工学部・工学研究科 | 名大の  授業 (NU OCW)]]
+- 参考書 : 野崎さんの離散系の数学
+
+*** 3. 集合と関数，数理ICT入門 (デジタルノート，URL)
+- web資料 : [[https://ocw.ilas.nagoya-u.ac.jp/index.php?lang=ja&mode=c&id=16&page_type=materials][講義資料 | 離散数学及び演習 | 工学部・工学研究科 | 名大の  授業 (NU OCW)]]
+- 参考書 : 野崎さんの離散系の数学
+
+
+*** 4. 集合と関係，数理ICT入門 (デジタルノート, 共有)
+- web資料 : [[https://ocw.ilas.nagoya-u.ac.jp/index.php?lang=ja&mode=c&id=16&page_type=materials][講義資料 | 離散数学及び演習 | 工学部・工学研究科 | 名大の  授業 (NU OCW)]]
+- 参考書 : 野崎さんの離散系の数学
+
+*** 5. 関係とグラフ，数理ICT入門 (Mindmap)
+- 参考書 : 野崎さんの離散系の数学 グラフ
+- [[http://dopal.cs.uec.ac.jp/okamotoy/lect/2019/gn/#material][グラフとネットワーク (2019年度前学期)]]
+- [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95][グラフ - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96][グラフ理論 - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0][ダイアグラム - Wikipedia]]
+
+*** 6. 論理的思考とグラフ， 数理ICT入門 (Mindmap)
+- 参考書 : 野崎さんの離散系の数学 グラフ
+- Web資料 : 鈴木のメモと思考とデジタル技術
+
+  [[https://www.riken.jp/press/2023/20230417_2/index.html][グラフが論理的思考力を高める | 理化学研究所]]
+
+  [[https://masayuki054.github.io/tools_for_thinking_and_memo/talk.html][メモと思考とデジタルツール]]
+
+  hatena 鈴木のメモと思考とデジタル技術 
+
+*** 7. 1変数関数の微分,  数理ICT入門 (数式処理)
+
+*** 8. 1変数関数の微分，数理ICT入門 (数式処理)
+
+*** 9. 1変数関数の積分，数理ICT入門 (数式処理)
+
+*** 10. 多変数関数とベクトル，数理ICT入門 (数式処理)
+
+*** 11. 多変数関数の微分，数理ICT入門 (数式処理)
+
+*** 12. 多変数関数の微分，数理ICT入門 (数式処理)c
+
+*** 13. 多変数関数の積分，数理ICT入門 (数式処理)
+
+*** 14. ベクトルと行列，数理ICT入門 (数式処理)
+
+*** 15. 講義全体のまとめ，デジタルノートの提出
+
+*** 
+
+*** 形式体系 wiki
+
