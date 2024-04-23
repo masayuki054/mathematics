@@ -196,3 +196,8 @@ python にしました。
 
 [[https://qiita.com/taruto1215/items/df754a395e53834e17e4][Jupyter notebookの使い方[超基礎] #Python - Qiita]]
 
+** github
+
+数式が書けるかな？
+
+$ \int_a^b \frac{1}{x^6+1} \rm{dx} $
