@@ -1,0 +1,32 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+* Web上の教科書
+*** 離散系の数学
+
+[[https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/][離散数学及び演習-2013 | Courses]]
+- [[https://ocw.nagoya-u.jp/files/16/lec01.pdf][集合・命題・関数 - lec01.pdf]]
+   - [[https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB][形式体系 - Wikipedia]]
+   - [[https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%AB%96%E8%A6%8F%E5%89%87][推論規則 - Wikipedia]]
+- [[https://ocw.nagoya-u.jp/files/16/lec02.pdf][関係・順序 -  lec02.pdf]]
+  - [[https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E3%81%AE%E5%85%AC%E7%90%86][ペアノの公理 - Wikipedia]]
+- [[https://ocw.nagoya-u.jp/files/16/lec03.pdf][集合の計数 - lec03.pdf]]
+
+*** グラフ関連
+- [[http://dopal.cs.uec.ac.jp/okamotoy/lect/2019/gn/#material][グラフとネットワーク (2019年度前学期)]]
+- [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95][グラフ - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96][グラフ理論 - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0][ダイアグラム - Wikipedia]]
+
+*** 論理的思考とグラフ， 数理ICT入門 (Mindmap)
+- [[https://masayuki054.github.io/tools_for_thinking_and_memo/talk.html][メモと思考とデジタルツール]]
+- [[https://www.riken.jp/press/2023/20230417_2/index.html][グラフが論理的思考力を高める | 理化学研究所]]
+  
+*** 微分積分準備講座
+[[https://masayuki054.hatenablog.com/entry/2024/04/09/225336][微分積分準備講座 2024 - masayuki054's diary]]
+[[https://drive.google.com/drive/folders/1fYNIqpHaGYXFeuLxqppoT9cEUCEcmbXp][2024-微分積分補助講義 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/14bUoy6J-weof2b63u42K6Fb5RnmtFgPq][黒板-2022 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1lY6qb2Z02iAD_WdesHNMpmsGecY3ynDa][図 - Google ドライブ]]
+

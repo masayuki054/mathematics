@@ -1,0 +1,31 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+
+
+python 部分集合
+
+[[https://www.javadrive.jp/python/][Python入門 ～Pythonのインストール方法やPythonを使ったプログラミングの方法について解説します～ | Let'sプログラミング]]
+
+[[https://www.javadrive.jp/python/set/index5.html][Python | 集合と他の集合との関係を調べる(等しいかどうか、部分集合かどうかなど)]]
+
+#+begin_src python :session python :results output
+my_set1 = {"A", "B", "C"}
+my_set2 = {"B", "C", "A"}
+print (my_set1 == my_set2)
+
+print ( my_set1 == my_set2 )
+
+print( {"A", "B", "C"} == {"B", "C", "A"} )
+
+print (my_set1.issubset(my_set2))
+
+
+#+end_src
+
+#+RESULTS:
+: True
+: True
+: True
+: True

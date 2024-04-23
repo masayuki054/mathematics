@@ -128,9 +128,12 @@ python にしました。
 [[./contents/ict.org]]
 
 
-* 01-離散系数学 (集合)
+* 02-離散系数学 (集合)
 
 数学的対象のまとまり
+
+
+[2024-04-25 木] は集合について説明します。
 
 ** 講義内容
 
@@ -144,14 +147,29 @@ python にしました。
 - [[http://www.kogures.com/hitoshi/webtext/stat-ronri/index.html][論理学の基礎＜統計・確率＜Ｗｅｂ教材＜木暮仁]]
 
 ** 集合
-
 ** 集合と関数
 
 ** 集合と論理
 
+
 * 02-知的思考術
 
-* 01-数理情報処理
+** Todo MindMap アプリ
+あると便利なので，是非インストールしましょう。
+[[https://xmind.app/jp/download-beta/][ダウンロード -ベータ版- Xmind - マインドマッピングアプリ]]
+
+** Todo [[https://masayuki054.github.io/ict_literacy_for_thinking_and_memo/#outline-container-orgd833c9b][メモと思考のためのICTの活用]] [0/8]
+- [ ] 序
+- [ ] 1. わかるとは
+- [ ] 2-Mindmapアプリ
+- [ ] 3-関係を見る・作る
+- [ ] 4-情報リテラシーと思考とメモ
+- [ ] 5-批判的思考とアウトライナ
+- [ ] 6-思考を継続するための思考とメモの技術
+- [ ] 7-新情報リテラシー
+
+
+* 02-数理情報処理
 
 ** ブラウザによる情報収集
 - 履歴の確認
@@ -169,6 +187,12 @@ python にしました。
 
 ** cocalc を (とりあえず)デジタルノートにしてみよう
 
+色んな事ができそうですが，日本語との相性が悪そうです。
+もうすこし調査が必要そうです。
+
+** jupyter ノートブックの使い方
+
 [[https://qiita.com/namoshika/items/63db972bfd1030f8264a][Jupyter Notebook で数式を美しく書く #Jupyter - Qiita]]
 
 [[https://qiita.com/taruto1215/items/df754a395e53834e17e4][Jupyter notebookの使い方[超基礎] #Python - Qiita]]
+
