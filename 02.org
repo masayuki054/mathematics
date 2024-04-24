@@ -127,7 +127,13 @@ python にしました。
 ** ICT
 [[./contents/ict.org]]
 
+* 02-お知らせ
 
+- 5/15,16 東北6県シニア70歳リーグ大会 (@秋田市)出場のため，
+  online (自習)講義にさせてください。
+- 一回目のレポート課題をWebclassで出題しました。連休明けをメドに
+  提出してください。
+  
 * 02-離散系数学 (集合)
 
 数学的対象のまとまり
@@ -155,10 +161,12 @@ python にしました。
 * 02-知的思考術
 
 ** Todo MindMap アプリ
+SCHEDULED: <2024-04-24 水>
 あると便利なので，是非インストールしましょう。
 [[https://xmind.app/jp/download-beta/][ダウンロード -ベータ版- Xmind - マインドマッピングアプリ]]
 
 ** Todo [[https://masayuki054.github.io/ict_literacy_for_thinking_and_memo/#outline-container-orgd833c9b][メモと思考のためのICTの活用]] [0/8]
+SCHEDULED: <2024-04-24 水>
 - [ ] 序
 - [ ] 1. わかるとは
 - [ ] 2-Mindmapアプリ
@@ -168,36 +176,44 @@ python にしました。
 - [ ] 6-思考を継続するための思考とメモの技術
 - [ ] 7-新情報リテラシー
 
-
 * 02-数理情報処理
 
-** ブラウザによる情報収集
-- 履歴の確認
-- ブックマークする
-- 文書中にリンクを埋め込む
-- 作成した文書をどこに置く？
+** ブラウザによる情報収集 [0/5]
+- [ ] 履歴の確認
+- [ ] ブックマークする
+- [ ] 文書中にリンクを埋め込む
+- [ ] 作成した文書をどこに置く？ [0/4]
+  - [ ] Google Drive
+  - [ ] colabo ノート
+  - [ ] Google Docs
+  - [ ] Webclass レポート
 
-** colabo ノート と python 入門
+** Todo colabo ノート と python 入門 [0/2]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://www.python.jp/train/experience/colab.html][Google Colab の準備: ゼロからのPython入門講座 - python.jp]]
 
-[[https://www.python.jp/train/experience/colab.html][Google Colab の準備: ゼロからのPython入門講座 - python.jp]]
+** Todo python で集合を使う [0/2]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python -  Qiita]]
 
-** python で集合を使う
-
-[[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python - Qiita]]
-
-** cocalc を (とりあえず)デジタルノートにしてみよう
+** Someday cocalc を (とりあえず)デジタルノートにしてみよう
+CLOSED: [2024-04-24 水 14:47]
 
 色んな事ができそうですが，日本語との相性が悪そうです。
 もうすこし調査が必要そうです。
 
-** jupyter ノートブックの使い方
+** Someday jupyter ノートブックの使い方
+CLOSED: [2024-04-24 水 14:47]
 
 [[https://qiita.com/namoshika/items/63db972bfd1030f8264a][Jupyter Notebook で数式を美しく書く #Jupyter - Qiita]]
 
 [[https://qiita.com/taruto1215/items/df754a395e53834e17e4][Jupyter notebookの使い方[超基礎] #Python - Qiita]]
 
-** github
+** Someday github
+CLOSED: [2024-04-24 水 14:47]
 
 数式が書けるかな？
 
 $ \int_a^b \frac{1}{x^6+1} \rm{dx} $
+
+\( \int_a^b \frac{1}{x^6+1} \rm{dx} \)

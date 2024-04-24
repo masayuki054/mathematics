@@ -1,0 +1,7 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* python で集合を使う
+
+[[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python - Qiita]]
