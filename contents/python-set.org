@@ -2,6 +2,45 @@
 #+title:
 #+author masayuki
 
+
 * python で集合を使う
 
-[[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python - Qiita]]
+** [[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python - Qiita]]
+#+begin_src python :session *python* :result output
+type({1,2,3})
+#+end_src
+
+#+RESULTS:
+: <class 'set'>
+
+#+begin_src python :session *python* :result output
+type(set([1,2,3]))
+#+end_src
+
+#+RESULTS:
+: <class 'set'>
+
+#+begin_src python :session *python* :result output
+set
+#+end_src
+
+#+RESULTS:
+: <class 'set'>
+
+
+** [[https://atmarkit.itmedia.co.jp/ait/articles/1906/25/news015.html#set][［Python入門］集合：Python入門（1/4 ページ） - ＠IT]]
+
+* python 関数 IT
+
+#+begin_src python :session *python* :result output
+def fact(n):
+    if n==1:
+       return 1
+    else:
+       return n*fact(n-1)
+
+fact(100)
+#+end_src
+
+#+RESULTS:
+: 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000

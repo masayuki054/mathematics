@@ -30,4 +30,34 @@
 
 - alpha, geogebra, ...
 
-- ruby, python, ... 
+
+
+* someday
+** Someday cocalc を (とりあえず)デジタルノートにしてみよう
+CLOSED: [2024-04-24 水 14:47]
+
+デジタルノートには何がいいか模索中です。
+
+講師のデジタルノートは，Emacs org-mode です。
+
+cocalc は，色んな事ができそうですが，日本語との相性が悪そうです。
+もうすこし調査が必要そうです。
+
+** Someday jupyter ノートブックの使い方
+CLOSED: [2024-04-24 水 14:47]
+
+[[https://qiita.com/namoshika/items/63db972bfd1030f8264a][Jupyter Notebook で数式を美しく書く #Jupyter - Qiita]]
+
+[[https://qiita.com/taruto1215/items/df754a395e53834e17e4][Jupyter notebookの使い方[超基礎] #Python - Qiita]]
+
+** Someday github
+CLOSED: [2024-04-24 水 14:47]
+
+もしかしたら，github の文書で，数式がかければ，
+
+
+数式が書けるかな？
+
+$ \int_a^b \frac{1}{x^6+1} \rm{dx} $
+
+\( \int_a^b \frac{1}{x^6+1} \rm{dx} \)

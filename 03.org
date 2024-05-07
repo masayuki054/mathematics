@@ -1,0 +1,206 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+
+* 03 2024-05-08.org
+
+- Webclass で出席登録してください。
+- 出席登録できない人は，レスポンスカードにその旨，書いてください。
+- 先週の出席登録，確認してください。
+
+** Done 講義のねらい
+CLOSED: [2024-05-07 火 16:26]
+
+*** 知っておきたかった数学のこと (前回説明済)
+
+- 「数学は言葉」だということ
+- 集合と無限 (位相空間)
+- 数学基礎論の存在 (数理論理学)
+- 離散系の数学
+- 図の数学
+- 直観的な微分と積分の理解
+- ベクトルと行列の意味
+
+*** 大学数学ことはじめ
+
+- [[https://www.utp.or.jp/book/b437932.html][大学数学ことはじめ - 東京大学出版会]]
+
+*** 考えることとその数学的解釈 (前回説明済)
+
+- 論理的思考方法の数学的視点
+- 知的思考の7つのステップ
+- アイディアのつくり方
+- わかるとはどういうことか
+- 新説情報リテラシー
+- マインドマップ
+
+*** 数理情報処理の紹介
+コンピュータによる数学支援，情報処理支援
+
+**** Webページ閲覧
+
+**** プログラミング言語と数学
+python にしました。
+
+皆さんは Googleアカウントを持っているので，
+
+[[https://colab.research.google.com/drive/1zeEsqVCK_Xmmiy0jlR5iTluFyu6FAiB1][python-tutorial.ipynb - Colaboratory]]
+
+**** 数学ソフトウェア
+- wolfram alpha
+
+  [[https://ja.wolframalpha.com/][Wolfram|Alpha 日本語版：計算知能]]
+  
+- cocalc/sagemath on the Web
+
+  [[https://cocalc.com/][Collaborative Calculation and Data Science]]
+
+  すばらしい，Linux, 各種プログラミング言語(システム)，
+  確率統計，数式処理，。。。 いろんなことができるし，
+  自分のノートブックにもできそう。
+
+  講師自身もこれから勉強してみたいと思います。
+
+**** Mindmap 
+
+*** デジタルノート
+次のどちらかにしようと思います:
+
+- [[https://colab.research.google.com/][Colaboratory へようこそ - Colab]] にしようと思います。
+
+- [[https://cocalc.com/][Collaborative Calculation and Data Science]]
+
+*** 持ち込み PC の目的 (再確認)
+
+- 自身での講義ページの表示，
+- 自身での講義内容の検索，
+- ノートではなく，デジタルなメモ
+
+手書き入力機能があれば，
+- ノートテイキングは，手書きがいいと思いますが
+- リンクが貼り付けられるものがいいと思います。
+  
+**** まとめとレポート作成用
+数学的文書の作成
+- jupyter note book
+- Visual Studio Code (VSCode)
+- テキストエディタ 各種
+  markdown, LaTeX, ...
+  
+** Done 教科書・参考書 
+CLOSED: [2024-05-07 火 16:27]
+
+[[./texts/text.org]]
+
+** Done 詳細計画
+CLOSED: [2024-05-07 火 16:27]
+[[./schedule.org]]
+
+** Done 数理情報処理
+CLOSED: [2024-05-07 火 16:27]
+[[./contents/ict.org]]
+
+* 03-お知らせ
+
+- 5/15,16 東北6県シニア70歳リーグ大会 (@秋田市)出場予定です。
+
+- 5/15 (水) の講義は課題のページを用意しますので，
+  自主学習でお願いします。
+
+- 一回目のレポート課題をWebclassで出題しました。連休明けをメドに
+  提出してください。
+
+- 昨日の時点での提出者 ./reports/01/01.org
+  
+
+  
+* 03rd-確認
+-
+- Mindmap をダウンロード出来た人の確認
+
+
+* 03-予定
+
+
+* 03-離散系数学 (集合と関数，論理)
+
+数学的対象のまとまり
+
+
+[2024-04-25 木] は集合について説明します。
+
+** 講義内容
+
+[[https://ocw.nagoya-u.jp/courses/0016-%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E3%81%B3%E6%BC%94%E7%BF%92-2013/][離散数学及び演習-2013 | Courses]]
+- [[https://ocw.nagoya-u.jp/files/16/lec01.pdf][集合・命題・関数 - lec01.pdf]]
+- 講義ノート (Webclass からダウンロードしてください)
+  
+数学的記述方法  
+- [[https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB][形式体系 - Wikipedia]]
+- [[https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%AB%96%E8%A6%8F%E5%89%87][推論規則 - Wikipedia]]
+- [[http://www.kogures.com/hitoshi/webtext/stat-ronri/index.html][論理学の基礎＜統計・確率＜Ｗｅｂ教材＜木暮仁]]
+
+*** 集合と関数
+*** 集合と論理
+
+
+* 03-知的思考術
+
+** Todo MindMap アプリ
+SCHEDULED: <2024-04-24 水>
+あると便利なので，是非インストールしましょう。
+[[https://xmind.app/jp/download-beta/][ダウンロード -ベータ版- Xmind - マインドマッピングアプリ]]
+
+** Todo [[https://masayuki054.github.io/ict_literacy_for_thinking_and_memo/#outline-container-orgd833c9b][メモと思考のためのICTの活用]] [0/8]
+SCHEDULED: <2024-04-24 水>
+- [ ] 序
+- [ ] 1. わかるとは
+- [ ] 2-Mindmapアプリ
+- [ ] 3-関係を見る・作る
+- [ ] 4-情報リテラシーと思考とメモ
+- [ ] 5-批判的思考とアウトライナ
+- [ ] 6-思考を継続するための思考とメモの技術
+- [ ] 7-新情報リテラシー
+
+
+* 03-数理情報処理
+
+** ブラウザによる情報収集 [0/5]
+- [ ] 履歴の確認
+- [ ] ブックマークする
+- [ ] 文書中にリンクを埋め込む
+- [ ] 作成した文書をどこに置く？ [0/4]
+  - [ ] Google Drive
+  - [ ] colabo ノート
+  - [ ] Google Docs
+  - [ ] Webclass レポート
+
+** Todo colabo ノート と python 入門 [0/2]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/introduction/terms-of-use/][HWBの概要 | はいぱーワークブック]]
+  - 東京大学の情報リテラシ教育の自習書
+  - 情報基礎に相当する
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/information/text/colab/][Colabを使った演習 | はいぱーワークブック]]
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/][LaTeX | はいぱーワークブック]]
+  - [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/5min/][Colabで数式を書く | はいぱーワークブック]]
+  - [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/math/][数式の書き方 (1) | はいぱーワークブック]]
+  
+** python入門 (1) [0/2]
+- [ ] [[https://www.python.jp/][プログラミング言語 Python 総合情報サイト - python.jp]]
+- [ ]  [[https://www.python.jp/pages/about.html][プログラミング言語 Pythonの紹介 - python.jp]]
+    
+*** [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]] [0/9]
+- [ ] [[https://www.python.jp/train/experience/index.html][Python初体験: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/colab.html][Google Colab の準備: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/exec-python1.html][はじめてのPython: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/on-error.html][エラーになったときには: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/program_src.html][プログラム と ソースコード: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/notebook-cell.html][コードセルとテキストセル: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/next-sample.html][ばえるPython: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/next-sample2.html][はたらくPython: ゼロからのPython入門講座 - python.jp]]
+
+*** Todo python で集合を使う [0/2]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python -  Qiita]]
+
