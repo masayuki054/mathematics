@@ -1,0 +1,9 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* 講義アンケート
+
+1. https://forms.gle/PPtyt7yBhZfKZchW6
+
+2. https://forms.gle/J8qFCqCSRTzvPWVu6
