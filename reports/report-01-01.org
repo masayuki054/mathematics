@@ -1,0 +1,27 @@
+| a0324002.pdf  | s |   |
+| e0124004.docx | s |   |
+| e0324012.docx | a |   |
+| e0424001.docx | a |  | 
+| e0424010.docx | a | |
+| s0124030.pdf | s | 講義ノートに書き込み | 
+| s0124057.docx | s | wordでメモとれる？       | 
+| s0224001.docx | a | 感想が良いねぇ | 
+| s0224004.gdoc | a  | Google Doc が自動で開かない | 
+| s0224005.gdoc | s | 興味の巾がひろい | 
+| s0224017.jpeg | a | screen shot? | 
+| s0224023.jpeg | a | screen shot? | 
+| s0324032.pdf | a | AtCoderに興味あり | 
+| s0524005.jpg | b | 手書きノートの写真 | 
+| s0524033.jpeg | a | 手書きノートの写真 | 
+| s0524061.pdf | b |  | 
+| s0622064.pdf | a | GoogleDriveへのリンク有，アクセス許可なし | 
+| s0624002.pdf | c | |
+| s0624007.pdf | c | |
+| s0624008.pdf | s | 講義ノートに書き込み | 
+| s0624029.pdf | b | zfc::wikipedia リンク有 |
+| s0624032.pdf | a | | 
+| s0624034.jpeg | a | 手書きノートの写真, 代数学の基本定理 | 
+| s0624059.pdf | c | | 
+| s0822051.pdf | a |思考技術に興味大  | 
+| s0824012.pdf | c | | 
+
