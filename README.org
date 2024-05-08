@@ -2,5 +2,113 @@
 #+title:
 #+author masayuki
 * 数理のひろがり 2024
+** 毎回の講義
+[[./01.org]]
+[[./02.org]]
+[[./03.org]]
 
+** Done 講義のねらい
+CLOSED: [2024-05-07 火 16:26]
 
+*** 知っておきたかった数学のこと (前回説明済)
+
+- 「数学は言葉」だということ
+- 集合と無限 (位相空間)
+- 数学基礎論の存在 (数理論理学)
+- 離散系の数学
+- 図の数学
+- 直観的な微分と積分の理解
+- ベクトルと行列の意味
+
+*** 大学数学ことはじめ
+
+- [[https://www.utp.or.jp/book/b437932.html][大学数学ことはじめ - 東京大学出版会]]
+
+*** 考えることとその数学的解釈 (前回説明済)
+
+- 論理的思考方法の数学的視点
+- 知的思考の7つのステップ
+- アイディアのつくり方
+- わかるとはどういうことか
+- 新説情報リテラシー
+- マインドマップ
+
+*** 数理情報処理の紹介
+コンピュータによる数学支援，情報処理支援
+
+**** Webページ閲覧
+
+**** プログラミング言語と数学
+python にしました。
+
+皆さんは Googleアカウントを持っているので，
+
+[[https://colab.research.google.com/drive/1zeEsqVCK_Xmmiy0jlR5iTluFyu6FAiB1][python-tutorial.ipynb - Colaboratory]]
+
+**** 数学ソフトウェア
+- wolfram alpha
+
+  [[https://ja.wolframalpha.com/][Wolfram|Alpha 日本語版：計算知能]]
+  
+- cocalc/sagemath on the Web
+
+  [[https://cocalc.com/][Collaborative Calculation and Data Science]]
+
+  すばらしい，Linux, 各種プログラミング言語(システム)，
+  確率統計，数式処理，。。。 いろんなことができるし，
+  自分のノートブックにもできそう。
+
+  講師自身もこれから勉強してみたいと思います。
+
+**** Mindmap 
+
+*** デジタルノート
+次のどちらかにしようと思います:
+
+- [[https://colab.research.google.com/][Colaboratory へようこそ - Colab]] にしようと思います。
+
+- [[https://cocalc.com/][Collaborative Calculation and Data Science]]
+
+*** 持ち込み PC の目的 (再確認)
+
+- 自身での講義ページの表示，
+- 自身での講義内容の検索，
+- ノートではなく，デジタルなメモ
+
+手書き入力機能があれば，
+- ノートテイキングは，手書きがいいと思いますが
+- リンクが貼り付けられるものがいいと思います。
+  
+**** まとめとレポート作成用
+数学的文書の作成
+- jupyter note book
+- Visual Studio Code (VSCode)
+- テキストエディタ 各種
+  markdown, LaTeX, ...
+  
+** Done 教科書・参考書 
+CLOSED: [2024-05-07 火 16:27]
+
+[[./texts/text.org]]
+
+** 関連文書など
+[[./Docs]]
+** Done 詳細計画
+CLOSED: [2024-05-07 火 16:27]
+[[./schedule.org]]
+
+** Done 数理情報処理
+CLOSED: [2024-05-07 火 16:27]
+[[./contents/ict.org]]
+
+** Doing 講義アンケート
+[[./enq.org]]
+
+** レポート
+[[./reports]]
+
+** ict関連
+[[./contents]]
+
+** memo (作業メモ)
+[[./memo]]

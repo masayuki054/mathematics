@@ -16,23 +16,23 @@
 ** Mindmap 
 
 *** xmind アプリ
-
 **** try
  - [[https://xmind.ai/?utm_source=ggsem&utm_campaign=jp&gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU3usolHEFnahVK37lH5k7nYWeaaDh42XFEItL-vD9KzbdMyKfbXuo4aAhTpEALw_wcB][Xmind AI：AIによるブレインストーミング＆マインドマップでのリアルタ
     イム協働]]
-
    web app., idが必要，
 
   - [[https://jp.xmind.net/][Xmind のマッピングソフトウェア]]
 
-***** 
-- 講義メモを取るアプリ
-
-- alpha, geogebra, ...
-
-
-
 * someday
+
+** wolfram alpha
+
+[[https://ja.wolframalpha.com/examples/mathematics/elementary-math][Wolfram|Alpha Examples: 初歩的な計算]]
+
+** geogebra
+- [[https://www.geogebra.org/about?lang=ja][GeoGebra について - GeoGebra]]
+- [[https://www.geogebra.org/materials?lang=ja][教材集 – GeoGebra]]
+
 ** Someday cocalc を (とりあえず)デジタルノートにしてみよう
 CLOSED: [2024-04-24 水 14:47]
 
@@ -42,6 +42,11 @@ CLOSED: [2024-04-24 水 14:47]
 
 cocalc は，色んな事ができそうですが，日本語との相性が悪そうです。
 もうすこし調査が必要そうです。
+
+
+[[https://murabitoleg.com/cocalc/][[超便利]CoCalcとは：CloudでLaTex,Jupyter,shell +α使えるぞ！！！｜てく
+てくぷれいす]]
+
 
 ** Someday jupyter ノートブックの使い方
 CLOSED: [2024-04-24 水 14:47]
