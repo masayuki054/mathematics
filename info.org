@@ -1,0 +1,39 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+
+* 04-数理情報処理
+
+** Todo colabo ノート  [0/3]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/introduction/terms-of-use/][HWBの概要 | はいぱーワークブック]]
+  - 東京大学の情報リテラシ教育の自習書
+  - 情報基礎に相当する
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/information/text/colab/][Colabを使った演習 | はいぱーワークブック]]
+- [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/][LaTeX | はいぱーワークブック]]
+  - [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/5min/][Colabで数式を書く | はいぱーワークブック]]
+  - [ ] [[https://hwb.ecc.u-tokyo.ac.jp/hwb2023/applications/latex/math/][数式の書き方 (1) | はいぱーワークブック]]
+    
+*** markdown の書き方
+
+https://colab.research.google.com/drive/1qVG54m8uxJl3ugDbCtfdDdY9PAd-PtMD?usp=sharing  
+
+** python入門 (1) [0/2]
+- [ ] [[https://www.python.jp/][プログラミング言語 Python 総合情報サイト - python.jp]]
+- [ ]  [[https://www.python.jp/pages/about.html][プログラミング言語 Pythonの紹介 - python.jp]]
+    
+*** [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]] [0/9]
+- [ ] [[https://www.python.jp/train/experience/index.html][Python初体験: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/colab.html][Google Colab の準備: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/exec-python1.html][はじめてのPython: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/on-error.html][エラーになったときには: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/program_src.html][プログラム と ソースコード: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/notebook-cell.html][コードセルとテキストセル: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/next-sample.html][ばえるPython: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/experience/next-sample2.html][はたらくPython: ゼロからのPython入門講座 - python.jp]]
+
+** Todo python で集合を使う [0/2]
+SCHEDULED: <2024-04-24 水>
+- [ ] [[https://qiita.com/shi_ei/items/c3ea9f45bf7ab171ec8d][Pythonのset型（集合型）の使い方をコードを用いて解説 #Python -  Qiita]]
+

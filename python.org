@@ -1,0 +1,122 @@
+* [[file:index.html][ゼロからのPython入門講座]]
+[[https://colab.research.google.com/][GoogleColaboratory(Colab)]]
+
+[[https://colab.research.google.com/][Colab]]は、Google社が提供する、Webブラウザからプログラミング言語Pythonを
+実行できるサービスです。Colabは無料で使えますし、めんどうな環境設定な
+しに、いきなりプログラミングを体験できますから、これからプログラミング
+をやってみたい、という方にはおすすめの学習環境です。
+
+** [[file:experience/index.html][Python初体験]]
+
+Colabの使い方と、Pythonの実行方法を学びます
+- [X] [[file:experience/index.html][Python初体験]]
+- [X] [[file:experience/colab.html][Google Colab の準備]]
+- [X] [[file:experience/exec-python1.html][はじめてのPython]]
+- [ ] [[file:experience/on-error.html][エラーになったときには]]
+- [ ] [[file:experience/program_src.html][プログラム と ソースコード]]
+- [ ] [[file:experience/notebook-cell.html][コードセルとテキストセル]]
+- [ ] [[file:experience/next-sample.html][ばえるPython]]
+- [ ] [[file:experience/next-sample2.html][はたらくPython]]
+- [ ] [[file:experience/next-step.html][この章のまとめ]]
+
+** [[file:type_and_func/index.html][Python基礎の基礎]]
+
+Pythonのデータと式の基礎を学びます
+
+- [ ] [[file:type_and_func/index.html][Python基礎の基礎]]
+- [ ] [[file:type_and_func/calc1.html][れんしゅうもんだい]]
+- [ ] [[file:type_and_func/float.html][整数と実数]]
+- [ ] [[file:type_and_func/variable.html][変数]]
+- [ ] [[file:type_and_func/comment.html][コメント]]
+- [ ] [[file:type_and_func/function.html][関数]]
+- [ ] [[file:type_and_func/modules.html][モジュールとimport]]
+
+** [[file:string/index.html][文字列と入出力]]
+
+Pythonのテキストデータと簡単な入力・出力方法を学びます
+
+- [[file:string/index.html][文字列と入出力]]
+- [[file:string/string.html][文字列]]
+- [[file:string/string_oper.html][文字列の演算子]]
+- [[file:string/string_and_num.html][文字列と数値]]
+- [[file:string/print_func.html][print() 関数]]
+- [[file:string/input.html][input() 関数]]
+- [[file:string/method.html][メソッド]]
+
+** [[file:if_condition/index.html][条件式と分岐]]
+
+if文を使って、データに応じた処理を行う方法を紹介します
+
+- [[file:if_condition/index.html][条件式と分岐]]
+- [[file:if_condition/comp_op.html][比較演算子]]
+- [[file:if_condition/string_compare.html][文字列の比較]]
+- [[file:if_condition/if_statement.html][if 文 による条件分岐]]
+- [[file:if_condition/else_clause.html][else 節]]
+- [[file:if_condition/other_condition.html][比較以外の条件式]]
+- [[file:if_condition/elif_clause.html][elif 節]]
+
+** [[file:logical_oper/index.html][ ブール型と論理演算子]]
+
+論理演算の基礎を解説します
+
+- [[file:logical_oper/index.html][ブール型と論理演算子]]
+- [[file:logical_oper/bool_type.html][ブール型]]
+- [[file:logical_oper/bool_oper.html][論理演算子]]
+- [[file:logical_oper/and_oper.html][and 演算子]]
+- [[file:logical_oper/or_oper.html][or 演算子]]
+- [[file:logical_oper/not_oper.html][not 演算子]]
+
+** [[file:loop/index.html][ while文による繰り返し]]
+
+while文による処理の繰り返しを解説します
+
+- [[file:loop/index.html][while文によるループ]]
+- [[file:loop/break-statement.html][break文による中断]]
+- [[file:loop/assign_equal.html][代入文と等号]]
+- [[file:loop/continue.html][continue文]]
+
+** [[file:function/index.html][関数の定義]]
+
+独自の関数の作成と、呼び出し方を学びます
+
+- [[file:function/index.html][関数の定義]]
+- [[file:function/local_var.html][ローカル変数とグローバル変数]]
+- [[file:function/function_args.html][関数の呼び出し方]]
+
+** [[file:list/index.html][オブジェクトとリスト]]
+
+リストを使って、一連のデータを操作する方法を紹介します
+
+- [[file:list/index.html][Pythonの型とオブジェクト]]
+- [[file:list/list.html][リスト]]
+- [[file:list/list_oper.html][リストの操作]]
+- [[file:list/list_loop.html][while文を使ったリストのループ処理]]
+- [[file:list/list_forloop.html][for文によるループ]]
+
+** [[file:dict/index.html][辞書オブジェクト]]
+
+辞書を使ったデータ検索を紹介します
+
+- [[file:dict/index.html][辞書]]
+- [[file:dict/dict_oper.html][辞書の操作]]
+- [[file:dict/oper-in.html][in 演算子]]
+
+** [[file:tuple/index.html][タプルとコレクション]]
+
+タプルオブジェクトの使い方を紹介します
+
+- [[file:tuple/index.html][タプル]]
+- [[file:tuple/collection.html][コレクション]]
+- [[file:tuple/sequence.html][シーケンス]]
+- [[file:tuple/unpack.html][コレクションのアンパック]]
+
+  
+** [[file:exercise/index.html][演習]]
+
+これまでに紹介した知識を使って、簡単なプログラムを書いてみましょう
+
+- [[file:exercise/index.html][スイカ割りゲームを作ってみよう]]
+- [[file:exercise/refactor.html][リファクタリング -- マジックナンバーを避ける]]
+- [[file:exercise/refactor-proper-type.html][適切なデータ型を使う]]
+- [[file:exercise/refactor-function.html][関数を活用する]]
+
