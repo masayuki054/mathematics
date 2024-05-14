@@ -50,12 +50,15 @@ SCHEDULED: <2024-05-15 水>
 考えをマップにまとめてみてください。
 
 「わかるとはどういうことか」本の章立て
-- file:Maps/わかるとはどういうことか.xmind
+- [[./Maps/わかるとはどういうことか.xmind]]
 
-「わかるとはどういうことか」本の講師の読書メモ  
-- [[file:Maps/わかるとは.xmind]]
+  (ダウンロードして，開いてみてください)
 
-[[https://masayuki054.github.io/ict_literacy_for_thinking_and_memo/#outline-container-orgd833c9b][メモと思考のためのICTの活用]] も参考にしてください。
+「わかるとはどういうことか」の講師の読書メモ  
+- [[./Maps/わかるとは.xmind]]
+  (ダウンロードして，開いてみてください)
+
+ [[https://masayuki054.github.io/ict_literacy_for_thinking_and_memo/#outline-container-orgd833c9b][メモと思考のためのICTの活用]] も参考にしてください。
 
 ** 本日の成果物
 - Mindmap の使い方
