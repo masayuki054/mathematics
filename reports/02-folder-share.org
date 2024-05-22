@@ -1,0 +1,53 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* 5/21 共有アイテムから
+
+https://drive.google.com/open?id=1c5CZ0ulQcMIVfP4AgbOq4n2iQCrNKVYt&usp=drive_copy
+https://drive.google.com/open?id=1E-Il1qkRdfshZH8Baa9eVi8elyESjPmt&usp=drive_copy
+https://drive.google.com/open?id=1GsqTh0gAehDNwUg3ncf1gfrmPNyQHz-l&usp=drive_copy
+https://drive.google.com/open?id=1byjc7ZBqSD2PmhiH4gMrMA5_SUo4Nmj5&usp=drive_copy
+https://drive.google.com/open?id=1uhJPvU7YQeS1dSV8iWWx_TH1RfUfLF6l&usp=drive_copy
+https://drive.google.com/open?id=1zDJkBC9I135uDC0MZGCPDSkAf8gNWWTo&usp=drive_copy
+https://drive.google.com/open?id=1pZF2vwoqVbKCxDjtCfOF1dXQwiV_sDIZ&usp=drive_copy
+https://drive.google.com/open?id=1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y&usp=drive_copy
+https://drive.google.com/open?id=1ms7CVUHN_n4ODPl6kvG0Wv26Gl4PLin8&usp=drive_copy
+https://drive.google.com/open?id=1lVC_7yB53rlUZ2dw414oBsBWh29UrNDhe2VcYlvSWaY&usp=drive_copy
+https://drive.google.com/open?id=1pda22-C-eSsaiQgDISioJCdU2AiFjmFK&usp=drive_copy
+
+
+* 5/15 数理のひろがり共有フォルダ
+
+[[https://drive.google.com/drive/u/1/shared-with-me][共有アイテム - Google ドライブ]]
+
+** ch1 saka さん  [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]]
+
+** a0324002 [[https://drive.google.com/drive/u/1/folders/1byjc7ZBqSD2PmhiH4gMrMA5_SUo4Nmj5][数理のひろがり - Google ドライブ]]
+- 分るとは.xmind
+- python入門，集合
+
+** e0124021 [[https://drive.google.com/drive/u/1/folders/1pZF2vwoqVbKCxDjtCfOF1dXQwiV_sDIZ][数理のひろがり - Google ドライブ]]
+SCHEDULED: <2024-05-20 月>
+- 無題のドキュメント gdoc 4回目の講義のまとめ 評価B
+  
+** e0424010  [[https://drive.google.com/drive/u/1/folders/1uhJPvU7YQeS1dSV8iWWx_TH1RfUfLF6l][数理のひろがり - Google ドライブ]]
+SCHEDULED: <2024-05-20 月>
+- report-01 A
+  
+  
+
+** s0324032 [[https://drive.google.com/drive/u/1/folders/1E-Il1qkRdfshZH8Baa9eVi8elyESjPmt][数理のひろがり - Google ドライブ]]
+SCHEDULED: <2024-05-20 月>
+- report-01 pdf
+- python 許可なし
+- わかるとは  xmind 独自のまとめ
+  
+
+** s0624008 [[https://drive.google.com/drive/u/1/folders/1GsqTh0gAehDNwUg3ncf1gfrmPNyQHz-l][数理のひろがり - Google ドライブ]]
+SCHEDULED: <2024-05-20 月>
+- python入門
+
+  
+** s0624005 [[https://drive.google.com/drive/u/1/folders/1zDJkBC9I135uDC0MZGCPDSkAf8gNWWTo][数理のひろがり - Google ドライブ]]
+SCHEDULED: <2024-05-20 月>

@@ -97,18 +97,20 @@ CLOSED: [2024-05-07 火 16:27]
 CLOSED: [2024-05-07 火 16:27]
 [[./schedule.org]]
 
-** Done 数理情報処理
+** Done 数理情報処理 [[./ICT]]
 CLOSED: [2024-05-07 火 16:27]
-[[./contents/ict.org]]
+[[./ICT/ict.org]]
+[[./ICT/python.org]]
+
+** 思考について
+[[./think.org]]
 
 ** Doing 講義アンケート
-[[./enq.org]]
-
+- [[./Enqs/enq.org]]
+- [[./Enqs/0515.org]]
+  
 ** レポート
 [[./reports]]
-
-** ict関連
-[[./contents]]
 
 ** memo (作業メモ)
 [[./memo]]

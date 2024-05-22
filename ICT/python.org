@@ -12,6 +12,8 @@
 ** [[https://www.python.jp/train/experience/next-sample.html][ばえるPython: ゼロからのPython入門講座 - python.jp]]
 ** [[https://www.python.jp/train/experience/next-sample2.html][はたらくPython: ゼロからのPython入門講座 - python.jp]]
 
+
+
 * [[https://atmarkit.itmedia.co.jp/ait/subtop/features/di/pybasic_index.html][Python入門 - ＠IT]] 目次
 
 ** pyton モジュール
