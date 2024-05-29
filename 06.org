@@ -1,0 +1,98 @@
+#+startup: indent show2levels
+#+title: 今日の講義
+#+author masayuki
+* 関連ページ
+過去の講義 [[./01.org]] [[./02.org]] [[./03.org]] [[./04.org]]
+
+関連ページ [[./README.org]] [[./notes/][講義ノートフォルダ]] [[./Enqs][アンケートフォルダ]] [[./reports/][レポート
+フォルダ]] [[./ICT]] [[./think.org]] 
+
+* 06 2024-05-29
+** 毎回のこと
+- Webclass で出席登録してください。
+- 出席登録できかった人は，suzuki@iwate-u.ac.jpにメールしてください。
+
+* 06-お知らせ
+- GoogleDrive 「数理のひろがり」フォルダを共有できた人は，
+  [[file:reports/share-folders.org]]
+
+  記載のない人，学外アカウントの人，講義後あるいはメールで連絡ください。
+   
+
+- 5/29の時点での提出者は，[[./reports/report-01-01.org]] です。
+  提出したのに記載のない人は，お知らせください。
+  
+* 06-数理情報処理
+** 06-数理のひろば用先生との情報共有フォルダの作成
+
+まだ先生とフォルダの共有ができていない人は下記のことをおこなってくださ
+い:
+
+- GoogleDriveの自分のマイドライブに，
+- 「数理のひろがり」フォルダを作成し，
+- suzuki@iwate-u.ac.jp と
+- リンクを知る人が閲覧できるモードで共有してください。
+
+共有フォルダには，
+- 自分の学びや作業の成果物をアップしてください。
+  内容が分るファイル名にしてください。
+- index.ipynb or index.gdoc で，フォルダ内のファイルなどの
+  一覧と内容説明を，markdown 形式で記述してください。
+
+皆さんの合意が取れれば，このフォルダを数理のひろがりのレポート提出フォ
+ルサにしましょう。
+  
+
+** 06-デジタルノート
+*** colab で markdown 書式を使う
+
+[[https://colab.research.google.com/?hl=ja][Colaboratory へようこそ - Colab]] で自分のノートブック一覧を開く
+
+[[https://www.yutaka-note.com/entry/markdown][Markdownの使い方｜一緒に覚えておきたいhtml付き！ - YutaKaのPython教室]]
+を読んで，いろいろな書式が使えるようになりましょう。
+
+[[https://colab.research.google.com/drive/1J3ZSEoVtNuHLr4d3yVn-bjukvMFTOzGf][Markdown.ipynb のコピー - Colab]]
+
+- ダブルクリックして，中身を見て，編集し，どんな体裁になるのか，試して
+  みましょう。
+
+** python入門 (2)
+
+*** pythonのサイト紹介
+
+どんな情報があるのか眺めてみてください：
+
+- [[https://www.python.jp/][プログラミング言語 Python 総合情報サイト - python.jp]]
+- [[https://www.python.jp/pages/about.html][プログラミング言語 Pythonの紹介 - python.jp]]
+    
+*** python入門 (2)
+[[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+
+自分の python練習用colabノートを作成 (先週作成できてるかも) )し，
+やっていない所から，できるところまでやってみてください。
+
+- [[https://colab.research.google.com/?hl=ja][Colaboratory へようこそ - Colab]] で自分のノートブック一覧を開き，
+  まだなければ，python練習用のノートブックを作成しましょう。
+
+- [[https://www.python.jp/train/type_and_func/index.html][Python基礎の基礎: ゼロからのPython入門講座 - python.jp]] を見ながら，
+  今日は，計算式，変数，コメントを使ってみましょう。
+  
+  - 20分ほど，自習してください。
+  - わからないところを質問してください。
+  - 自宅で自習できるようになってください。
+    
+  ノートブックには，プログラムだけでなく，テキストブロックを使って，
+  学びの流れと説明を書いていきましょう。
+  
+* 06-離散系数学 (集合と関係)
+** 集合と関係，
+- [[file:notes/math-1.2.3-同値関係.pdf]]  
+
+*** 大切なこと
+- 同値関係とは何か
+- 同値関係による分類と代表集合(商集合)による構造化
+
+* 06-学修後アンケート
+
+https://forms.gle/1GnihTeqdp8W6JVbA
+

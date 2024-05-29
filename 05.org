@@ -96,6 +96,8 @@
 [[https://colab.research.google.com/drive/1qVG54m8uxJl3ugDbCtfdDdY9PAd-PtMD?usp=sharing][colabでmarkdownを使う]] を読んで，いろいろな書式が使えるようになりましょ
 う。
 
+[[https://colab.research.google.com/drive/1J3ZSEoVtNuHLr4d3yVn-bjukvMFTOzGf][Markdown.ipynb のコピー - Colab]]
+
 ** colab で latex 書式を使う
 
 数式を書きたくなった人は，読んでみてください。

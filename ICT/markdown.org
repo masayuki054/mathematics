@@ -1,0 +1,21 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* markdown
+
+** what
+マークアップ言語は，文書の構造と文書の内容を記述するための，言語。
+markdown は，非常にシンプルなマークアップ言語の一つ。
+テキストのみで記述する。
+
+** why markup
+文書自身が，文書の中身と構造を持つことで，
+処理アプリ等に依存せず，
+
+** how
+[[https://www.yutaka-note.com/entry/markdown][Markdownの使い方｜一緒に覚えておきたいhtml付き！ - YutaKaのPython教室]]
+
+* colabノートで markdown
+
+[[https://colab.research.google.com/drive/1J3ZSEoVtNuHLr4d3yVn-bjukvMFTOzGf][Markdown.ipynb のコピー - Colab]]
