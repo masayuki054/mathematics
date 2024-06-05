@@ -13,10 +13,11 @@
 - 出席登録できかった人は，suzuki@iwate-u.ac.jpにメールしてください。
 * 07-お知らせ
 - GoogleDrive 「数理のひろがり」フォルダを共有できた人は，
-  [[file:reports/share-folders.org]] です。
+  [[file:reports/share-folders-0603.org]] です。
   記載のない人，学外アカウントの人，講義後あるいはメールで連絡ください。
 
-- 講義に関して講師に伝えたいことは，https://forms.gle/YSFixa28PPTbTixMA
+- 講義に関して講師に伝えたいことは，
+  https://forms.gle/YSFixa28PPTbTixMA
   に書いてください。
 
 - 07-数理のひろがり用先生との情報共有フォルダの利用
@@ -151,11 +152,20 @@ CLOSED: [2024-06-05 水 09:59]
 今日は，関数の呼び出し，モジュールを使ってみましょう。
 
 - [[https://www.python.jp/train/type_and_func/function.html][関数: ゼロからのPython入門講座 - python.jp]]
-- [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]    
-    
+- [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]
+
   - 20分ほど，自習してください。
   - わからないところを質問してください。
   - 自宅で自習できるようになってください。
+  - 時間内に終らない箇所は，自習してください。
+
+  python 組み込み関数一覧
+  - [[https://docs.python.org/ja/3/library/functions.html][組み込み関数 — Python 3.12.3 ドキュメント]]
+  - [[https://note.nkmk.me/python-dir-builtins/][Pythonの組み込み関数の一覧を確認するdir(__builtins__) |
+    note.nkmk.me]]
+
+  [[./ICT/python-func.org]] で関数を定義していますが，
+  おこなっていることは理解できますか？
 
 [[https://www.python.jp/train/string/index.html][文字列と入出力: ゼロからのPython入門講座 - python.jp]]
 は宿題とします。
