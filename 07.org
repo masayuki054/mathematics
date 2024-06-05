@@ -1,0 +1,196 @@
+#+startup: indent show2levels
+#+title: 今日の講義
+#+author masayuki
+* 関連ページ
+過去の講義 [[./01.org]] [[./02.org]] [[./03.org]] [[./04.org]]  [[./05.org]]  [[./06.org]] 
+
+関連ページ [[./README.org]] [[./notes/][講義ノートフォルダ]] [[./Enqs][アンケートフォルダ]] [[./reports/][レポート
+フォルダ]] [[./ICT]] [[./think.org]] 
+
+* 07 2024-06-05
+** 毎回のこと
+- Webclass で出席登録してください。
+- 出席登録できかった人は，suzuki@iwate-u.ac.jpにメールしてください。
+* 07-お知らせ
+- GoogleDrive 「数理のひろがり」フォルダを共有できた人は，
+  [[file:reports/share-folders.org]] です。
+  記載のない人，学外アカウントの人，講義後あるいはメールで連絡ください。
+
+- 講義に関して講師に伝えたいことは，https://forms.gle/YSFixa28PPTbTixMA
+  に書いてください。
+
+- 07-数理のひろがり用先生との情報共有フォルダの利用
+
+  共有フォルダ内の成果物で，講義への関心・理解・取り組み姿勢を判断し，
+  評価したいと思います。
+
+  情報共有フォルダの利用については，以下のように考えています。
+  
+  - 一回目のレポートは，共有フォルダにも入れてください
+
+  - 共有フォルダで共有するものの方針は以下です:
+    
+    - 学びや演習の成果物 :: 自分の学びや作業の成果物をアップしてください。内容が分
+      るファイル名にしてください。
+
+    - 成果物へのリンク一覧と説明 :: index.ipynb or index.gdoc で，フォ
+      ルダ内のファイルなどの一覧と内容説明を，markdown 形式で記述して
+      ください。
+
+    - python フォルダ :: pythonの演習作業用ノートを入れる
+
+* 07-数理情報処理
+** Done 06-数理のひろがり用先生との情報共有フォルダの作成
+CLOSED: [2024-06-05 水 09:55]
+
+まだ先生とフォルダの共有ができていない人は下記のことをおこなってくださ
+い:
+
+- GoogleDriveの自分のマイドライブに，
+- 「数理のひろがり」フォルダを作成し，
+- suzuki@iwate-u.ac.jp と
+- リンクを知る人が閲覧できるモードで共有してください。
+
+共有フォルダには，
+- 自分の学びや作業の成果物をアップしてください。
+  内容が分るファイル名にしてください。
+- index.ipynb or index.gdoc で，フォルダ内のファイルなどの
+  一覧と内容説明を，markdown 形式で記述してください。
+
+このフォルダを数理のひろがりのレポート提出フォルサにします。
+どうしても，この方法を使いたくない人は，アンケートにその旨記入してくだ
+さい。アンケートが使えない人は，suzuki@iwate-u.ac.jp 宛にメールしてく
+ださい。
+
+Googleドライブの容量を使い切ったという人は，OneDriveに共有フォルダを，
+GoogleDrive同様に，作成し，共有リンクを，suzuki@iwate-u.ac.jp宛にメー
+ルしてください。
+  
+** 07-デジタルノート
+
+*** 講師のデジタルノート
+講師の，数理のひろがり用の，デジタルノートは，
+[[https://github.com/masayuki054/mathematics][GitHub - masayuki054/mathematics: 岩手大学講義 数理のひろがりのためのリポジトリ]]
+です。
+
+- github.com という Web上の，リポジトリ・サービスを用いて，フォルダ，
+  ファイルを保存し，文書間のリンクと，文書の表示をおこなってもらってい
+  ます。
+    
+- 自分の，デジタル文書は，Emacs org-mode という形式で書いています。
+
+- 手書きのノートは画像pdfで，Mindmap はそのままで，
+
+- 他の人が書いた文書等は，リンクで共有させてもらっています。
+
+*** colab で markdown 書式を使う
+
+- [[https://colab.research.google.com/?hl=ja][Colaboratory へようこそ - Colab]] で自分のノートブック一覧を開く
+
+- [[https://www.yutaka-note.com/entry/markdown][Markdownの使い方｜一緒に覚えておきたいhtml付き！ - YutaKaのPython教室]]を
+  読んで，いろいろな書式が使えるようになりましょう。 [0/0]
+- [ ] 見出し #，##， 。。。
+- [ ] 段落
+- [ ] 箇条書き
+- [ ] 引用
+- [ ] リンク
+- [ ] 画像
+- [ ] 表
+
+  講師の [[https://colab.research.google.com/drive/1J3ZSEoVtNuHLr4d3yVn-bjukvMFTOzGf][Markdown.ipynb のコピー - Colab]]
+  - ダブルクリックして，中身を見て，編集し，どんな体裁になるのか，試し
+    てみましょう。
+
+*** colab で，自分の作成ドキュメント一覧と説明を作成しよう
+- 自分の数理のひろがりの共有フォルダに，
+- README.md という名前の colab ノートを作成し，
+- 共有フォルダに作成したドキュメント一覧を説明付きで，作成してくださ
+  い:
+  - ドキュメント名とURLリンク
+  - 最終更新日付と完成度
+  - ドキュメント内容説明
+  - アピールポイント
+
+* python入門 (3)
+
+*** Done pythonのサイト紹介
+CLOSED: [2024-06-05 水 09:59]
+
+どんな情報があるのか眺めてみてください：
+
+- [[https://www.python.jp/][プログラミング言語 Python 総合情報サイト - python.jp]]
+- [[https://www.python.jp/pages/about.html][プログラミング言語 Pythonの紹介 - python.jp]]
+    
+*** Done python入門 (2)
+CLOSED: [2024-06-05 水 09:59]
+[[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+
+自分の python練習用colabノートを作成 (先週作成できてるかも) )し，
+やっていない所から，できるところまでやってみてください。
+
+- [[https://colab.research.google.com/?hl=ja][Colaboratory へようこそ - Colab]] で自分のノートブック一覧を開き，
+  まだなければ，python練習用のノートブックを作成しましょう。
+
+- [[https://www.python.jp/train/type_and_func/index.html][Python基礎の基礎: ゼロからのPython入門講座 - python.jp]] を見ながら，
+  今日は，計算式，変数，コメントを使ってみましょう。
+  
+  - 20分ほど，自習してください。
+  - わからないところを質問してください。
+  - 自宅で自習できるようになってください。
+    
+  ノートブックには，プログラムだけでなく，テキストブロックを使って，
+  学びの流れと説明を書いていきましょう。
+  
+*** python入門 (3)
+
+[[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+
+- ノートブックには，プログラムだけでなく，テキストブロックを使って，学び
+  の流れと説明を書いていきましょう。
+
+今日は，関数の呼び出し，モジュールを使ってみましょう。
+
+- [[https://www.python.jp/train/type_and_func/function.html][関数: ゼロからのPython入門講座 - python.jp]]
+- [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]    
+    
+  - 20分ほど，自習してください。
+  - わからないところを質問してください。
+  - 自宅で自習できるようになってください。
+
+[[https://www.python.jp/train/string/index.html][文字列と入出力: ゼロからのPython入門講座 - python.jp]]
+は宿題とします。
+
+*** Todo python入門学習ノートのアップロード
+- 共有フォルダに中に，pythonフォルダを作成し，
+- python入門学習で作成した colab ノートを入れてくださし。
+- この共有フォルダが，pythonに関するレポートの提出場所にします。
+  
+* 07-離散系数学 (集合と関係)
+** 集合，関数，関係，論理の振り返り
+
+- 集合，関数，関係についてのまとめ
+  [[file:Maps/集合.xmind]]
+  - 集合，関数，関係と思考やプログラミングとの係りについて
+  
+- 論理については，
+  - [[http://web.sfc.keio.ac.jp/~hagino/logic21/][Fundermentals of Logic Spring 2021]]
+    - 論理学の目的
+    - 証明と推論規則
+  - [[file:notes/math-1.1-補足-集合と論理.pdf]]
+
+  - 推論規則とは何か、どんな規則があるか
+  - 証明とは
+    - 定義や真な論理式の集合を用いて，
+    - 出発の論理式から結論を導く，
+    - 推論規則の適用列 (証明図)
+    
+*** 思考，関係と集合 (書きかけ)
+- 集合による対象範囲の限定
+- 対象全体の構造化
+  - 関係によるグループ化
+  - グループの代表的な名前
+  - 順序，依存関係による繋り
+    
+
+  
+  

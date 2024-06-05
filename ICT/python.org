@@ -12,6 +12,43 @@
 ** [[https://www.python.jp/train/experience/next-sample.html][ばえるPython: ゼロからのPython入門講座 - python.jp]]
 ** [[https://www.python.jp/train/experience/next-sample2.html][はたらくPython: ゼロからのPython入門講座 - python.jp]]
 
+* [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]  
+** [[https://www.python.jp/train/type_and_func/index.html][Python基礎の基礎: ゼロからのPython入門講座 - python.jp]]
+
+*** 式と値 [[https://www.python.jp/train/type_and_func/float.html][整数と実数: ゼロからのPython入門講座 - python.jp]]
+- 数 は 整数と実数，値となる
+- 数 は 式
+- 式 演算子 式 は式，計算を表わす
+- 式は，計算グラフ，計算結果の値をもつ
+
+*** 変数 [[https://www.python.jp/train/type_and_func/variable.html][変数: ゼロからのPython入門講座 - python.jp]]
+- 計算した値を記憶する場所(名前)
+- 変数を初めて使った時に，変数が生れる
+- 変数も式，記憶した値が，式の値
+  
+*** [[https://www.python.jp/train/type_and_func/comment.html][コメント: ゼロからのPython入門講座 - python.jp]]
+- プログラム中のメモ
+
+*** [[https://www.python.jp/train/type_and_func/function.html][関数: ゼロからのPython入門講座 - python.jp]]
+- 関数の名前(引数, ... )
+  - 名前が付けられた計算の呼び出し
+  - その計算結果が，関数呼び出しの，計算結果
+
+*** [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]
+- あらかじめ用意された関数の集りをモジュールと言う。
+- 機能ごとに分類されている
+  - math モジュールは，数学関連の機能
+
+- モジュールの利用: import
+  #+begin_src python :session *python* :result output
+import math
+math.sin(3.14)
+  #+end_src
+
+  #+RESULTS:
+  : 0.0015926529164868282
+
+*** 
 
 
 * [[https://atmarkit.itmedia.co.jp/ait/subtop/features/di/pybasic_index.html][Python入門 - ＠IT]] 目次

@@ -20,3 +20,108 @@ SCHEDULED: <2024-04-24 水>
 - [ ] 7-新情報リテラシー
 
 
+
+* 思考技術  
+** 関係を見る
+
+*** 抽象化と詳細化
+
+    [[https://www.youtube.com/watch?v=RROOmvwUZMo][(104) 抽象思考を身に着けるための簡単な2つのトレーニング - YouTube]]
+
+    - これはだめな説明の例
+
+    [[http://wiki.cis.iwate-u.ac.jp/~suzuki/lects/commons/abstraction.html#outline-container-sec-1][suzuki@cis.iwate-u.ac.jp 抽象化のための手続き]]
+
+
+*** 抽象化と詳細化
+
+*** 図的思考
+- [[https://books.google.co.jp/books/about/%E5%9B%B3%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B_%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E3%81%AA%E3%82%8B.html?id=DSY6DwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false][図で考える。シンプルになる｡ - 櫻田潤 - Google ブックス]]
+- [[https://www.youtube.com/watch?v=SWsS_sF3EDw][(105) 【図解思考】思考を整理しまとめる「９つの基本形」 - YouTube]]
+
+*** マインドマップ
+    [[https://www.youtube.com/watch?v=RPKuF0g6UTY][(105) 【仕事術】凡人でも「一流の仕事」が出来る魔法のツール - YouTube]]
+
+**** マインドマッの学校
+     [[https://www.mindmap-school.jp/][考える力と創造する力を楽しく分かりやすく学ぶ - マインドマップの学校]]
+     - ここの about MindMap の マインドマップの分類がいい
+     - [[https://www.mindmap-school.jp/mindmap/what/][マインドマップとは? - マインドマップの学校]]  
+     - [[https://www.mindmap-school.jp/mindmap/head/][脳の特性を活用する頭の使い方 - マインドマップの学校]]  
+       わかるとはと共通することが多い
+    - [[file:~/howm/org-docs/mind-map.org][file:~/howm/org-docs/mind-map.org]]
+
+**** アウトライナー
+
+    文章の関係を見る・作る
+
+    - [[https://www.youtube.com/watch?v=y6WpHdxpLT0][(105) #Udemy 資料作成を効率化! アウトライナー(Dynalist)を使った知的生産術 - YouTube]]
+
+    - [[https://www.youtube.com/watch?v=5IUJ-xXOEsI][(104) 【3分で分かる】アウトライナーを使うメリット #Udemy #無料体験 - YouTube]]
+
+
+** 情報リテラシーと思考とメモ
+*** メモ
+- [[https://studyhacker.net/how-to-take-notes][わかりやすいノートの取り方・6つのルール - STUDY HACKER｜これからの学びを考える、勉強法のハッキングメディア]]
+
+- 思考の記録
+  - 思考過程の保存
+  - 記憶の保存
+       
+*** わかるとは
+- [[file:Maps/わかるとは.xmind][file:~/COMM/Lects/BCUniv/2020/Maps/わかるとは.xmind]]
+- [[file:Maps/わかるとはどういうことか.xmind]]
+
+- 刺激から，イメージを作り，同定し，記憶する
+- 同定してイメージ記憶に記号を対応させる (連想記憶)
+- 記憶と記憶の間のネットワークを作り，
+
+*** 思考とは
+
+情報から理解を得る過程
+
+- 抽象化と詳細化が基本
+- 読み解く (既存の情報から)
+  - 論理的思考
+  - 批判的思考
+- 発想 (新たな情報を生む)
+  - 発想するとは
+    - 既存の事柄から，新らしい関係を見付けること
+  - 発想法
+    - 水平思考
+    - mindmap (放射思考)
+    - 抽象化と招提化
+*** 思考の向き
+- 垂直思考
+- 水平思考
+
+*** 思考技術
+- 目的の探索
+  - 抽象化と詳細化，適切な目的のレベル
+- 情報収集
+  - もれなくダブリなく収集
+  - 関連性による収集
+- 発想
+  - 抽象化
+  - 詳細化
+  - 関係付
+- グループ化
+  - 抽象化
+  - 詳細化
+  - 関係付
+- 構造化
+  - 関係付
+  - 抽象化    
+- 決定
+  - 既知の知識との関係
+- 表現
+  - 客観化
+*** 情報リテラシー技術と思考技術の相違
+コンピュータとインターネット技術を用いた，思考技術が情報リテラシー
+
+*** 継続するためのメンタル技術
+安定した精神状態
+- 9つのストレス対処法
+- GTD (Getting Things Done)
+
+
+* 推論規則と思考

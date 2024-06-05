@@ -12,16 +12,212 @@
 : /System/Volumes/Data/nas/home/masayuki/COMM/Lects/mathematics/lect-2024/reports 
 
 #+begin_src ruby :session *ruby* :tangle folder-share.rb :results output
-File.open("./share-folders.org","w") do |out|
+File.open("./share-folders-0603.org","w") do |out|
+  lines = []
   File.open("./02-folder-share.org").each do |line|
     next if line !~ /^\*\* /
+    lines << line
+  end
+  lines.sort.each do |line|
     out.write(line)
   end
 end
 
+
+
 #+end_src
 
 #+RESULTS:
+
+* 6/3 おかしなこと
+
+** e0324021 [[https://docs.google.com/document/d/14zxcPySMg0V5ZVFcAAiIqp-WD4lIKf9Q/edit][数理の広がり (1).docx - Google ドキュメント]]
+  共有フォルダの中に入っていない
+
+** ta.oga.hi [[https://drive.google.com/drive/u/1/folders/1FsKptVTPpMqzCSCMYhzx4-v_NDNQDC-4][数理の広がり - Google ドライブ]]
+学内のアカウントではない
+
+** hatsuki_ さんの共有リクエスト
+共有フォルダが開けない [2024-06-03 月]
+
+  
+* 6/2~3 suzuki@iwate-u.ac.jpへの共有リクエスト
+
+**  s0824012 [[https://drive.google.com/drive/u/1/folders/19_MUK5KW0M39PMct2DZo69lpPh19XJ7U][数理のひろがり - Google ドライブ]]
+
+*** [2024-06-03 月]
+- B [[https://docs.google.com/document/d/1WxJAh3Tn-MNc7CGFdTPqSA2JA9vLPagSDkQZ_Rs4-k8/edit][数理のひろがり - Google ドキュメント]] 一回目のレポート
+
+** e0424002 [[https://drive.google.com/drive/u/1/folders/1OsFl-UEnglBx8cqm2xeQcxCW8ktZiRLq][数理のひろがり - Google ドライブ]] 
+
+*** 空 [2024-06-03 月] 
+
+** s0722028 [[https://drive.google.com/drive/u/1/folders/1N4Y9l2BJpUMbYIV4cGsd8e9WXiF7gmfj][数理のひろがり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- C [[https://docs.google.com/document/d/1TXpRisqvqn2c9-AbOQODQrKK4SnP3PhBebi_HMIEaHw/edit][レポート１ - Google ドキュメント]]
+
+** s0124030 [[https://drive.google.com/drive/u/1/folders/12NKlft0QIX2j4_Xvq1jBu_acZZqx4naz][数理の広がり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- A [[https://docs.google.com/document/d/1rP1x7oHLzquXf19bqNT2NP8nT9j0EL3oWLCGa4s_BF8/edit][数理の広がり 第1回 レポート - Google ドキュメント]]
+- S [[https://docs.google.com/document/d/12OEyysu1CBZj5waNnLSLIT8wrrQpU1Ti/edit][数理の広がり 第5回 レポート.docx - Google ドキュメント]]
+
+** s0524059 [[https://drive.google.com/drive/u/1/folders/1tXM_ooL2vFysjFM5FnZE6JjWuXeM_jgH][数理の広がり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- A [[https://colab.research.google.com/drive/1xJeZQNRVn50zInRBJAS3NHE3-sHP99BL?authuser=1][数理の広がり⑥ - Colab]] 6回目のpython入門
+
+** s0424019 [[https://drive.google.com/drive/u/1/folders/1oIMQL_Gu8R5IKTDz2uMCnEL6D9Cm78FR][数理のひろがり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- A [[https://docs.google.com/document/d/14MBwMj4_GrNskV2Vkr9Xe0S3lXtwQ39cw_O1z-KpFRg/edit#heading=h.vydniszftb1n][レポート - Google ドキュメント]]
+- [[https://colab.research.google.com/drive/1oJAAyYmM6MiQIzGJtvXLqKcf9xK0eqG1?authuser=1][Markdown.ipynb のコピー - Colab]]
+- [[https://colab.research.google.com/drive/1eHJNjRYiB9r6hIxlWCvud5UgVkqW1KzB?authuser=1][数理のひろがり ノート - Colab]] 
+
+
+** s0624066 [[https://drive.google.com/drive/u/1/folders/1C-0EGnLApVL9wvzKSZMV_feg6JQaqTwL][数理のひろがり - Google ドライブ]]
+
+*** [2024-06-03 月]
+- わかるとは.xmind
+  
+** e0324012 [[https://drive.google.com/drive/u/1/folders/1oAJ5vECQuCUD2yOd0IJisujiyJk-U_K_][数理のひろがり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- かきかけ [[https://colab.research.google.com/drive/14wrfi-AC6FWoJ6L74vv5T6spGoE_sPN4?authuser=1][Untitled0.ipynb - Colab]]
+  
+** s0624027 [[https://drive.google.com/drive/u/1/folders/1STBndKIB88AxLuW0aI809HgNYMKYiROv][数理の広がり - Google ドライブ]] 
+
+*** 空 [2024-06-03 月]
+
+** s0624007 [[https://drive.google.com/drive/u/1/folders/1eFlhWW8G3RwzIhdO3YQ5PBymnGyZbYj9][数理のひろがり - Google ドライブ]] 
+- B [[https://docs.google.com/document/d/1-IwgzE5FAJUiE4AuUv9xh_zQtj8XpZFA0JPnvzbfRb8/edit][第一回 レポート - Google ドキュメント]]
+- A [[https://colab.research.google.com/drive/1gubMtLY6l591TxwwfhKkrYFhe8VGwcW3?authuser=1][python入門.ipynb - Colab]]
+- A [[https://colab.research.google.com/drive/1WkwXRCzmGH-kJBa7LnYOedi192DDzKhy?authuser=1][Untitled2.ipynb - Colab]] python入門(2)
+- A [[https://colab.research.google.com/drive/1co6ZiI0bxl6Ox7P2el7kA1DTaZSW849l?authuser=1][python集合.ipynb - Colab]]
+  
+
+** s0224005 [[https://drive.google.com/drive/u/1/folders/1ghNL_2_4iCmCDVK3ohoZLKfG_572-r8m][数理のひろがり - Google ドライブ]] 
+*** 空 [2024-06-03 月] 
+
+
+
+** s0624032 [[https://drive.google.com/drive/u/1/folders/1VxHaYXfA-s0lvUWG04SwWffrhdA5vA20][数理のひろがり - Google ドライブ]] 
+
+*** [2024-06-03 月]
+- A [[https://colab.research.google.com/drive/16SkqLNg7-OMruryG3yJpbmBjNfj_HMUa?authuser=1][Colabを使った演習 第４回自習 - Colab]]
+- A [[https://colab.research.google.com/drive/13CGIwO3j-GuBFaTUSLcSP9sc8Zw-5IJ2?authuser=1][python練習用colabノート 第4回 - Colab]]
+- A [[https://colab.research.google.com/drive/1SxNsX30bBnwc97xDqmqDCg9tQiMBWf5I?authuser=1][python練習用colabノート 第６回 - Colab]]
+- A [[https://colab.research.google.com/drive/1SxNsX30bBnwc97xDqmqDCg9tQiMBWf5I?authuser=1][python練習用colabノート 第６回 - Colab]]
+- A [[https://colab.research.google.com/drive/17ZK8ZUrjo7Saz9FbJDPZ5Tgz6yLjked1?authuser=1][集合のプログラミング 第４回自習 - Colab]]
+  
+
+** s0324016 [[https://drive.google.com/drive/u/1/folders/1RRxkADW-wfwVG7GTlUx7Y1Je-zl5VkO-][数理の広がり - Google ドライブ]] 
+*** 空 [2024-06-03 月] 
+
+** s0624066 [[https://drive.google.com/drive/u/1/folders/1C-0EGnLApVL9wvzKSZMV_feg6JQaqTwL][数理のひろがり - Google ドライブ]] 
+
+- わかるとは.xmind [2024-06-03 月]
+  
+** e0324021 [[https://drive.google.com/drive/u/1/folders/1wR1-8oLaxiri_iUwvgcjdS_JYX4dgwwK][数理の広がり - Google ドライブ]] 
+*** 空 [2024-06-03 月] 
+** s0224023 [[https://drive.google.com/drive/u/1/folders/14w1mUfxYBCVLawbYTkuSTJvo247a4jsg][数理のひろがり - Google ドライブ]] 
+*** 空 [2024-06-03 月] 
+** s0224017 [[https://drive.google.com/drive/u/1/folders/19WnAAkSypL-x4saW8Y_HPfF4pbTR0GuB][数理のひろがり - Google ドライブ]] 
+*** 空 [2024-06-03 月] 
+
+** s0624059 [[https://drive.google.com/drive/u/1/folders/1FQaByixI04wN-P_SpgQzHHgr2ck9Mnt7][数理のひろがり s0624059 - Google ドライブ]] 
+- B [[https://docs.google.com/document/d/10UBGGWdXmr-gHZKUQZyFUru_dY4OYNM8Pqfmsqfrp9U/edit][1回目レポート - Google ドキュメント]]
+- A [[https://colab.research.google.com/drive/1kA-nuu7cln_SjaFYWntwpOaf-69Ez1tM?authuser=1][python入門.ipynb - Colab]]
+- A [[https://colab.research.google.com/drive/1XQ65ge7f-v4eyW9jzKb7BBBZPW3WiVPr?authuser=1][python（計算式，変数，コメント）.ipynb - Colab]]
+
+** s0624002 [[https://drive.google.com/drive/u/1/folders/17hU-WWi6zXtF4jTh-VWuhckGZCUpt8UL][数理のひろがり - Google ドライブ]] 
+
+*** 中身
+- A [[https://colab.research.google.com/drive/1lDrzDYgcYDtucMVjWT0Bt4_cQVPM28yi?authuser=1][Python 入門 - Colab]] 
+- A [[https://colab.research.google.com/drive/12mSSZlTzgVr0bWxE8TVSx73BIBE4mRSH?authuser=1][Google Colab]] python 式，変数
+  
+  
+** s0524032 [[https://drive.google.com/drive/u/1/folders/1SMS2fvtiumibAHN_D2GoiOIPS3HFomtK][数理のひろがり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー s0524032
+最終更新 2024/05/29 s0524032 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/29
+ダウンロードの許可 閲覧者はダウンロード可
+
+*** 中身
+- B [[https://docs.google.com/document/d/13-y258BZPWjwznXFpLJ3hdBpVI7P0SzFfwatWKdOpl8/edit][数理のひろがり １ - Google ドキュメント]] 
+  
+
+** s0824051 [[https://drive.google.com/drive/u/1/folders/1rV_CNstY0GZooMv0trvGyHfnT04gDpjr][数理の広がり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー s0824051
+最終更新 2024/05/29 s0824051 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/29
+ダウンロードの許可 閲覧者はダウンロード可
+
+*** 中身
+- A [[https://docs.google.com/document/d/1cl0Aubfh4c5oJzZlZxoyk8OeQ_AEQWYg8ijEvRAVGY8/edit][０１ レポート - Google ドキュメント]]
+- https://drive.google.com/open?id=1oN-dJIyWWiF4NnJsp4wyuCr3F2bFbs2M&usp=drive_copy
+- https://drive.google.com/open?id=1o6hH6Fpas7ZIVlbCtXlfQOpwbhEONYAa&usp=drive_copy
+- https://drive.google.com/open?id=1Nlp-S0aBpCQHIdmrDX_tqy2aFacVmIiu&usp=drive_copy
+- https://drive.google.com/open?id=144WvTCBiygSyXpZXSyKI-KoT3YeUPNsQ&usp=drive_copy
+
+** s0524033 [[https://drive.google.com/drive/u/1/folders/1Mlkit0bCdLGlmGgFcypbBqrhfAkNlS6I][数理のひろがり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー s0524033
+最終更新 2024/05/29 s0524033 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/22
+ダウンロードの許可 閲覧者はダウンロード可
+
+*** 中身
+- .JPG https://drive.google.com/file/d/14-2p5ie4_UqtMLwwapJ9JcZj6jajO6ac/view?usp=drive_link
+  論理のノートの写真
+
+** s0524005 [[https://drive.google.com/drive/u/1/folders/1r4Ac-yCTfo4Gt-QKFz6Ct-XfzI39RvPY][数理の広がり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー s0524005
+最終更新 2024/05/29 s0524005 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/29
+ダウンロードの許可 閲覧者はダウンロード可
+
+*** 中身
+- 手書きノートの写真，ななめって読めない
+  
+
+** h0119075 [[https://drive.google.com/drive/u/1/folders/1w9AkQ_WZFu-K2UZ5UFzDbjeN8KfIN8va][数理のひろがり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー h0119075
+最終更新 2024/05/29 h0119075 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/22
+ダウンロードの許可 閲覧者はダウンロード可
+
+*** 中身
+- python集合
+- python入門
+
+** s0624063 [[https://drive.google.com/drive/u/1/folders/140nu5IznK6OLlTv0gEJl8MzvHjZoH9B0][数理のひろがり - Google ドライブ]] 
+
+*** フォルダの詳細
+オーナー s0624063
+最終更新 2024/05/29 s0624063 さん
+最終閲覧 2024/06/02（自分）
+作成日 2024/05/22
+
+*** 中身
+からっぽ
+
+
 
 
 * 5/27 suzuki@iwate-u.ac.jpへの共有リクエスト
