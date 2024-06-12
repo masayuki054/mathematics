@@ -1,0 +1,149 @@
+#+startup: indent show2levels
+#+title: 今日の講義
+#+author masayuki
+* 関連ページ
+過去の講義 [[./01.org]] [[./02.org]] [[./03.org]] [[./04.org]]  [[./05.org]]  [[./06.org]] [[./07.org]] 
+
+関連ページ [[./README.org]] [[./notes/][講義ノートフォルダ]] [[./Enqs][アンケートフォルダ]] [[./reports/][レポート
+フォルダ]] [[./ICT]] [[./think.org]] 
+
+* 08 2024-06-12
+** 毎回のこと
+- Webclass で出席登録してください。
+- 出席登録できかった人は，suzuki@iwate-u.ac.jpにメールしてください。
+- 前回のアンケートの意見などは，[[./Enqs/0605.org]] にまとめました。参考に
+  してください。
+
+  - ((s-:)) 気になる質問や意見へのコメントを書きかけています。[2024-06-12 水]
+
+* 08-お知らせ
+- GoogleDrive 「数理のひろがり」フォルダを共有できた人は，
+  [[file:reports/share-folders-0610.org]] です。
+
+  ?印が付いている人，学外アカウントの人，講義後あるいはメールで連絡ください。
+
+- 講義に関して講師に伝えたいことは，
+  https://forms.gle/znXYiG8acBkEGHjR8
+  に書いてください。
+
+* 数理のひろがり用先生との情報共有フォルダの利用
+
+共有フォルダ内の成果物で，講義への関心・理解・取り組み姿勢を判断し，評
+価したいと思います。
+
+情報共有フォルダの利用については，以下のように考えています。
+  
+  - 一回目のレポートは，共有フォルダにも入れてください
+
+  - 共有フォルダで共有するものの方針は以下です:
+    
+    - 学びや演習の成果物 :: 自分の学びや作業の成果物をアップしてください。内容が分
+      るファイル名にしてください。
+
+    - 成果物へのリンク一覧と説明 :: index.ipynb or index.gdoc で，フォ
+      ルダ内のファイルなどの一覧と内容説明を，markdown 形式で記述して
+      ください。
+    - python フォルダ :: pythonの演習作業用ノートを入れる
+
+* 数理情報処理
+** デジタルノート
+
+*** 講師のデジタルノート
+講師の，数理のひろがり用の，デジタルノートは，
+[[https://github.com/masayuki054/mathematics][GitHub - masayuki054/mathematics: 岩手大学講義 数理のひろがりのためのリポジトリ]]
+です。
+
+*** 講師の colab ノート共有フォルダ
+
+[[https://drive.google.com/drive/folders/1zQ50hPPDVsYxshg18FUqTmUZjVnJxmKT][Colab Notebooks - Google ドライブ]]
+
+*** colab で，自分の作成ドキュメント一覧と説明を作成しよう
+
+
+- 自分の数理のひろがりの共有フォルダに，
+- README.md という名前の colab ノートを作成し，
+- 共有フォルダに作成したドキュメント一覧を説明付きで，作成してくださ
+  い:
+  - ドキュメント名とURLリンク
+  - 最終更新日付と完成度
+  - ドキュメント内容説明
+  - アピールポイント
+    - 興味や驚きをもてた事，
+    - 新たに獲得した視点や知識や技術
+
+* python入門 (4)
+
+*** python入門 (4)
+
+[[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+
+- ノートブックには，プログラムだけでなく，テキストブロックを使って，学び
+  の流れと説明を書いていきましょう。
+
+今日は，関数の呼び出し，モジュールを使ってみましょう。
+
+- [X] [[https://www.python.jp/train/type_and_func/function.html][関数: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/function/index.html][関数の定義: ゼロからのPython入門講座 - python.jp]]
+
+条件による場合分けが書けるようになりましょう：  
+- [ ] [[https://www.python.jp/train/if_condition/index.html][条件式と分岐: ゼロからのPython入門講座 - python.jp]]
+- [ ] [[https://www.python.jp/train/logical_oper/index.html][ブール型と論理演算子: ゼロからのPython入門講座 - python.jp]]
+  
+  - 20分ほど，自習してください。
+  - わからないところを質問してください。
+  - 自宅で自習できるようになってください。
+  - 時間内に終らない箇所は，自習してください。
+
+  python 組み込み関数一覧
+  - [[https://docs.python.org/ja/3/library/functions.html][組み込み関数 — Python 3.12.3 ドキュメント]]
+  - [[https://note.nkmk.me/python-dir-builtins/][Pythonの組み込み関数の一覧を確認するdir(__builtins__) |
+    note.nkmk.me]]
+
+  [[./ICT/python-func.org]] で関数を定義していますが，
+  おこなっていることは理解できますか？
+
+[[https://www.python.jp/train/string/index.html][文字列と入出力: ゼロからのPython入門講座 - python.jp]]
+は宿題とします。
+
+*** Todo python入門学習ノートのアップロード
+- 共有フォルダに中に，pythonフォルダを作成し，
+- python入門学習で作成した colab ノートを入れてくださし。
+- この共有フォルダが，pythonに関するレポートの提出場所にします。
+
+
+* 08-離散系数学 (集合と関係)
+** 集合，関数，関係，論理の振り返り
+
+- 集合，関数，関係についてのまとめ
+  - [[file:Maps/集合.xmind]]
+  - 集合，関数，関係と思考やプログラミングとの係りについて
+
+  - 講師の colabノート 
+  
+- 論理については，
+  - [[file:notes/math-1.1-補足-集合と論理.pdf]]
+  - [[http://web.sfc.keio.ac.jp/~hagino/logic21/][Fundermentals of Logic Spring 2021]]
+    - 論理学の目的
+    - 証明と推論規則
+
+  - 推論規則とは何か、どんな規則があるか
+  - 証明とは
+    - 定義や真な論理式の集合を用いて，
+    - 出発の論理式から結論を導く，
+    - 推論規則の適用列 (証明図)
+
+  - [[https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB][形式体系 - Wikipedia]]
+  - [[https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%AB%96%E8%A6%8F%E5%89%87][推論規則 - Wikipedia]]
+  - [[http://www.kogures.com/hitoshi/webtext/stat-ronri/index.html][論理学の基礎＜統計・確率＜Ｗｅｂ教材＜木暮仁]]
+    
+*** 思考，関係と集合 (書きかけ)
+- 集合による対象範囲の限定
+- 対象全体の構造化
+  - 関係によるグループ化
+  - グループの代表的な名前
+  - 順序，依存関係による繋り
+    
+
+  
+  

@@ -12,7 +12,7 @@
 : /System/Volumes/Data/nas/home/masayuki/COMM/Lects/mathematics/lect-2024/reports 
 
 #+begin_src ruby :session *ruby* :tangle folder-share.rb :results output
-File.open("./share-folders-0603.org","w") do |out|
+File.open("./share-folders-0610.org","w") do |out|
   lines = []
   File.open("./02-folder-share.org").each do |line|
     next if line !~ /^\*\* /
@@ -23,18 +23,33 @@ File.open("./share-folders-0603.org","w") do |out|
   end
 end
 
-
-
 #+end_src
 
 #+RESULTS:
+
+* 6/10
+
+** s0224004 [[https://drive.google.com/drive/u/1/folders/1QywRdIiEc5ylV7DFeD4QGKD8PhTpDqmu][数理のひろがり - Google ドライブ]] 
+
+*** 空 [2024-06-10 月]
+
+** s0124015 [[https://drive.google.com/drive/u/1/folders/1MyqnF6KH97DekDFCIN2ml3wzrCvlI5LL][数理のひろがり - Google ドライブ]] 
+
+** s0524001 [[https://drive.google.com/drive/u/1/folders/1DEE1itrB3Jr6vs70KvGpIPgeS6YAy99z][数理のひろがり - Google ドライブ]] 
+
+** s0224001 [[https://drive.google.com/drive/u/1/folders/1A-VdK1Nvbrj-vv4wbRw6W_GbuzF1CqrP][数理のひろがり - Google ドライブ]] 
+
+*** [2024-06-10 月] 空
+
+** s0524030 [[https://drive.google.com/drive/u/1/folders/14_LegwVYjbyT3mR83IW-UYOUlY1a9Wsb][数理のひろがり - Google ドライブ]]
+
 
 * 6/3 おかしなこと
 
 ** e0324021 [[https://docs.google.com/document/d/14zxcPySMg0V5ZVFcAAiIqp-WD4lIKf9Q/edit][数理の広がり (1).docx - Google ドキュメント]]
   共有フォルダの中に入っていない
 
-** ta.oga.hi [[https://drive.google.com/drive/u/1/folders/1FsKptVTPpMqzCSCMYhzx4-v_NDNQDC-4][数理の広がり - Google ドライブ]]
+**   ta.oga.hi [[https://drive.google.com/drive/u/1/folders/1FsKptVTPpMqzCSCMYhzx4-v_NDNQDC-4][数理の広がり - Google ドライブ]]
 学内のアカウントではない
 
 ** hatsuki_ さんの共有リクエスト
@@ -43,7 +58,7 @@ end
   
 * 6/2~3 suzuki@iwate-u.ac.jpへの共有リクエスト
 
-**  s0824012 [[https://drive.google.com/drive/u/1/folders/19_MUK5KW0M39PMct2DZo69lpPh19XJ7U][数理のひろがり - Google ドライブ]]
+** s0824012 [[https://drive.google.com/drive/u/1/folders/19_MUK5KW0M39PMct2DZo69lpPh19XJ7U][数理のひろがり - Google ドライブ]]
 
 *** [2024-06-03 月]
 - B [[https://docs.google.com/document/d/1WxJAh3Tn-MNc7CGFdTPqSA2JA9vLPagSDkQZ_Rs4-k8/edit][数理のひろがり - Google ドキュメント]] 一回目のレポート
@@ -371,7 +386,7 @@ mindmap
   
 ** s0524032 [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWMpXdTZTcjSFmlxkgDnF][共有されたドキュメント: 「数理のひろがり １」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
 
-** hatsuki [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWFzpnNCbxZhwgwLblgbV][共有されたドキュメント: 「無題のドキュメント」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
+**   hatsuki [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWFzpnNCbxZhwgwLblgbV][共有されたドキュメント: 「無題のドキュメント」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
 ** s0624059 [[https://docs.google.com/document/d/10UBGGWdXmr-gHZKUQZyFUru_dY4OYNM8Pqfmsqfrp9U/edit][1回目レポート - Google ドキュメント]]
 ** s0624007 [[https://docs.google.com/document/d/1-IwgzE5FAJUiE4AuUv9xh_zQtj8XpZFA0JPnvzbfRb8/edit][数理の広がり - Google ドキュメント]]
 ** s0524061 [[https://drive.google.com/drive/u/1/folders/1c5CZ0ulQcMIVfP4AgbOq4n2iQCrNKVYt][数理の広がり s0524061 - Google ドライブ]]
@@ -428,7 +443,7 @@ https://drive.google.com/open?id=1zDJkBC9I135uDC0MZGCPDSkAf8gNWWTo&usp=drive_cop
 ** e0124021 [[https://drive.google.com/drive/u/1/folders/1pZF2vwoqVbKCxDjtCfOF1dXQwiV_sDIZ][数理のひろがり - Google ドライブ]]
 https://drive.google.com/open?id=1pZF2vwoqVbKCxDjtCfOF1dXQwiV_sDIZ&usp=drive_copy
 
-** 1087nazar [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]]
+**   1087nazar [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]]
 https://drive.google.com/open?id=1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y&usp=drive_copy
 
 ** s0624033 [[https://drive.google.com/drive/u/1/folders/1ms7CVUHN_n4ODPl6kvG0Wv26Gl4PLin8][数理のひろがり - Google ドライブ]]
@@ -467,7 +482,7 @@ https://drive.google.com/open?id=1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y&usp=drive_cop
 
 [[https://drive.google.com/drive/u/1/shared-with-me][共有アイテム - Google ドライブ]]
 
-** ch1 saka さん  [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]]
+**   ch1 saka さん  [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]]
 
 ** a0324002 [[https://drive.google.com/drive/u/1/folders/1byjc7ZBqSD2PmhiH4gMrMA5_SUo4Nmj5][数理のひろがり - Google ドライブ]]
 - 分るとは.xmind
