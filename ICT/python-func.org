@@ -4,6 +4,8 @@
 
 * python 関数 IT
 
+** 階乗関数の再帰的計算
+
 階乗を計算する関数を定義し，100の階乗を計算する
 
 #+begin_src python :session *python* :result output
@@ -24,6 +26,12 @@ fact(100)
   - return 値(式)
     
 - if 文の書き方
+
+
+** 組合せの数の計算
+
+_nC_k = _{n-1}C_{k-1} + _{n-1} C {k-1}
+_n C_0 = _n C_n = 1
 
   #+begin_src python :session *python* :result output
 def combination(n, k):

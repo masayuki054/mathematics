@@ -135,5 +135,13 @@ SCHEDULED: <2024-04-24 水>
 - 9つのストレス対処法
 - GTD (Getting Things Done)
 
+** 論理的思考とグラフ， 数理ICT入門 (Mindmap)
+- [[https://masayuki054.github.io/tools_for_thinking_and_memo/talk.html][メモと思考とデジタルツール]]
+  - 知的思考の7つのステップ
+  - GTD方式の情報管理
+    
+- [[https://www.riken.jp/press/2023/20230417_2/index.html][グラフが論理的思考力を高める | 理化学研究所]]
 
 * 推論規則と思考
+- 演繹
+- 帰納
