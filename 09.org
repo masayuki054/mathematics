@@ -21,6 +21,17 @@
   https://forms.gle/znXYiG8acBkEGHjR8
   に書いてください。
 
+- 2回目のレポートの提出 [[./reports/02-logic.org]]
+  - 2週間後 (7月3日)をメドに，提出してください。
+  - レポートの名前は，report-logic.拡張子
+  - レポートの形式は，(画像,文書)のpdf and/or colabノート
+  - 共有フォルダに入れてください。
+  - 提出文書の説明文書 index.{md,ipynb}の文書内にリンクを作成してください。
+  
+  - 課題問題は，計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]]
+    参考書の，練習問題 3.5，3.7，3.8，3.9を解き，
+    レポートにして提出してください。
+  
 * 数理のひろがり用先生との情報共有フォルダの利用
 
 共有フォルダ内の成果物で，講義への関心・理解・取り組み姿勢を判断し，評

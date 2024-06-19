@@ -1,38 +1,52 @@
-* ファイル共有のリクエスト
-
-** a [[https://docs.google.com/document/d/1lVC_7yB53rlUZ2dw414oBsBWh29UrNDhe2VcYlvSWaY/edit#heading=h.sd5edbacbhu2][s0524044レポート課題一回目（提出済） - Google ドキュメント]]
-** hatsuki [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWFzpnNCbxZhwgwLblgbV][共有されたドキュメント: 「無題のドキュメント」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
-
-** s0524032 [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWMpXdTZTcjSFmlxkgDnF][共有されたドキュメント: 「数理のひろがり １」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
-
-** s0624062 [[https://drive.google.com/file/d/1sZ-Tnh6YZyi8Gwo0lN55ap8OF9x2-OtV/view?ts=664db43a][数理の広がり４～理解～.xmind - Google ドライブ]]
-
 
 * 学外からのリクエスト
+- [2024-06-11 火] 自分の共有フォルダはありませんか？ あれば，知らせて
+  ください。
+  
+** lip06130603 [[https://colab.research.google.com/drive/1NvhsDxwJ-zTATQ-CbMG9JC8asuLVqtvT?authuser=1][Untitled0.ipynb - Colab]]
+** LIP LIP さん [[https://colab.research.google.com/drive/1NvhsDxwJ-zTATQ-CbMG9JC8asuLVqtvT?authuser=1][Untitled0.ipynb - Colab]] 6/12
+** 1087nazar [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]] e0124013 e0124038 と共有
+** ch1 saka さん  [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]] 1087e0124013 e0124038 と共有
+** ta.oga.hi [[https://drive.google.com/drive/u/1/folders/1FsKptVTPpMqzCSCMYhzx4-v_NDNQDC-4][数理の広がり - Google ドライブ]] ?
+** hatsuki [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWFzpnNCbxZhwgwLblgbV][共有されたドキュメント: 「無題のドキュメント」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
 
-* 共有フォルダ (6/3の時点でのリクエスト)
+* 共有フォルダ一覧
+
+? が付いている人は，状況を知らせてください。
 
 ** a0324002 [[https://drive.google.com/drive/u/1/folders/1byjc7ZBqSD2PmhiH4gMrMA5_SUo4Nmj5][数理のひろがり - Google ドライブ]]
 ** e0122013 [[https://drive.google.com/drive/u/1/folders/1-73XRRHVOfrCIoA9xU0LTz8LodcY7qlW][数理のひろがり - Google ドライブ]]
+** e0124004 ？
 ** e0124021 [[https://drive.google.com/drive/u/1/folders/1pZF2vwoqVbKCxDjtCfOF1dXQwiV_sDIZ][数理のひろがり - Google ドライブ]]
+** e0124038 ?
 ** e0324012 [[https://drive.google.com/drive/u/1/folders/1oAJ5vECQuCUD2yOd0IJisujiyJk-U_K_][数理のひろがり - Google ドライブ]] 
 ** e0324021 [[https://drive.google.com/drive/u/1/folders/1wR1-8oLaxiri_iUwvgcjdS_JYX4dgwwK][数理の広がり - Google ドライブ]] 
 ** e0424001 [[https://drive.google.com/drive/u/1/folders/1CsMyMkhf4LQBaZthLz1E4FnN0Ltmt5Bq][数理のひろがり - Google ドライブ]] - [2024-05-27 月]
 ** e0424002 [[https://drive.google.com/drive/u/1/folders/1OsFl-UEnglBx8cqm2xeQcxCW8ktZiRLq][数理のひろがり - Google ドライブ]] 
-** e0424010  [[https://drive.google.com/drive/u/1/folders/1uhJPvU7YQeS1dSV8iWWx_TH1RfUfLF6l][数理のひろがり - Google ドライブ]]
-** h0119075 [[https://drive.google.com/drive/u/1/folders/1w9AkQ_WZFu-K2UZ5UFzDbjeN8KfIN8va][数理のひろがり - Google ドライブ]] 
+** e0424010 [[https://drive.google.com/drive/u/1/folders/1uhJPvU7YQeS1dSV8iWWx_TH1RfUfLF6l][数理のひろがり 共有済 - Google ドライブ]]
+** h0119075 [[https://drive.google.com/drive/u/1/folders/1w9AkQ_WZFu-K2UZ5UFzDbjeN8KfIN8va][数理のひろがり - Google ドライブ]]
+** s0520037 ?
+** s0522031 ?
+** s0822051 ?
+
+** s0124015 [[https://drive.google.com/drive/u/1/folders/1MyqnF6KH97DekDFCIN2ml3wzrCvlI5LL][数理のひろがり - Google ドライブ]] 
 ** s0124030 [[https://drive.google.com/drive/u/1/folders/12NKlft0QIX2j4_Xvq1jBu_acZZqx4naz][数理の広がり - Google ドライブ]] 
 ** s0124051 [[https://drive.google.com/drive/u/1/folders/1P2g7NDm5aOvC460eRHptdnbtW-69EAMd][数理の広がり - Google ドライブ]]
 ** s0124057 [[https://drive.google.com/drive/u/1/folders/1y6CAH5yNv_i0lyi_eonxhGCr12HROHtk][数理のひろがり レポート提出 - Google ドライブ]]
+** s0224001 [[https://drive.google.com/drive/u/1/folders/1A-VdK1Nvbrj-vv4wbRw6W_GbuzF1CqrP][数理のひろがり - Google ドライブ]] 
+** s0224004 [[https://drive.google.com/drive/u/1/folders/1QywRdIiEc5ylV7DFeD4QGKD8PhTpDqmu][数理のひろがり - Google ドライブ]] 
 ** s0224005 [[https://drive.google.com/drive/u/1/folders/1ghNL_2_4iCmCDVK3ohoZLKfG_572-r8m][数理のひろがり - Google ドライブ]] 
-** s0224017 [[https://drive.google.com/drive/u/1/folders/19WnAAkSypL-x4saW8Y_HPfF4pbTR0GuB][数理のひろがり - Google ドライブ]] 
-** s0224023 [[https://drive.google.com/drive/u/1/folders/14w1mUfxYBCVLawbYTkuSTJvo247a4jsg][数理のひろがり - Google ドライブ]] 
-** s0324016 [[https://drive.google.com/drive/u/1/folders/1RRxkADW-wfwVG7GTlUx7Y1Je-zl5VkO-][数理の広がり - Google ドライブ]]  ??
+** s0224017 [[https://drive.google.com/drive/u/1/folders/19WnAAkSypL-x4saW8Y_HPfF4pbTR0GuB][数理のひろがり - Google ドライブ]]
+** s0224023 [[https://drive.google.com/drive/u/1/folders/14w1mUfxYBCVLawbYTkuSTJvo247a4jsg][数理のひろがり - Google ドライブ]]
+** s0324012 ?
+** s0324015 [[https://drive.google.com/drive/u/1/folders/1RRxkADW-wfwVG7GTlUx7Y1Je-zl5VkO-][数理の広がり - Google ドライブ]] 
 ** s0324030 [[https://drive.google.com/drive/u/1/folders/1Hqs_EPV6YNgwpNyZgov6mBZWI6cmNcsi][数理のひろがり - Google ドライブ]]
-** s0324032 [[https://drive.google.com/drive/u/1/folders/1E-Il1qkRdfshZH8Baa9eVi8elyESjPmt][数理のひろがり - Google ドライブ]] 
-** s0424019 [[https://drive.google.com/drive/u/1/folders/1oIMQL_Gu8R5IKTDz2uMCnEL6D9Cm78FR][数理のひろがり - Google ドライブ]] 
-** s0524001 [[https://drive.google.com/drive/u/1/folders/1DEE1itrB3Jr6vs70KvGpIPgeS6YAy99z][数理のひろがり - Google ドライブ]]
+** s0324032 [[https://drive.google.com/drive/u/1/folders/1E-Il1qkRdfshZH8Baa9eVi8elyESjPmt][数理のひろがり - Google ドライブ]]
+** s0424019 [[https://drive.google.com/drive/u/1/folders/1oIMQL_Gu8R5IKTDz2uMCnEL6D9Cm78FR][数理のひろがり - Google ドライブ]]
+** s0424050 ?
+** s0524001 [[https://drive.google.com/drive/u/1/folders/1DEE1itrB3Jr6vs70KvGpIPgeS6YAy99z][数理のひろがり - Google ドライブ]] 
 ** s0524005 [[https://drive.google.com/drive/u/1/folders/1r4Ac-yCTfo4Gt-QKFz6Ct-XfzI39RvPY][数理の広がり - Google ドライブ]] 
+** s0524030 [[https://drive.google.com/drive/u/1/folders/14_LegwVYjbyT3mR83IW-UYOUlY1a9Wsb][数理のひろがり - Google ドライブ]]
 ** s0524032 [[https://drive.google.com/drive/u/1/folders/1SMS2fvtiumibAHN_D2GoiOIPS3HFomtK][数理のひろがり - Google ドライブ]] 
 ** s0524033 [[https://drive.google.com/drive/u/1/folders/1Mlkit0bCdLGlmGgFcypbBqrhfAkNlS6I][数理のひろがり - Google ドライブ]] 
 ** s0524044 [[https://drive.google.com/drive/u/1/folders/1ApO40OB8MxRT9C0trWimDMIcZDlKr4pO][数理のひろがりs0524044 - Google ドライブ]]
@@ -42,16 +56,21 @@
 ** s0622064 [[https://drive.google.com/drive/u/1/folders/1pda22-C-eSsaiQgDISioJCdU2AiFjmFK][S0622064_西山修平_数理のひろがり - Google ドライブ]]
 ** s0624002 [[https://drive.google.com/drive/u/1/folders/17hU-WWi6zXtF4jTh-VWuhckGZCUpt8UL][数理のひろがり - Google ドライブ]] 
 ** s0624005 [[https://drive.google.com/drive/u/1/folders/1zDJkBC9I135uDC0MZGCPDSkAf8gNWWTo][数理のひろがり - Google ドライブ]]
-** s0624007 [[https://drive.google.com/drive/u/1/folders/1eFlhWW8G3RwzIhdO3YQ5PBymnGyZbYj9][数理のひろがり - Google ドライブ]] 
+** s0624007 [[https://docs.google.com/document/d/1-IwgzE5FAJUiE4AuUv9xh_zQtj8XpZFA0JPnvzbfRb8/edit][数理の広がり - Google ドキュメント]]
 ** s0624008 [[https://drive.google.com/drive/u/1/folders/1GsqTh0gAehDNwUg3ncf1gfrmPNyQHz-l][数理のひろがり - Google ドライブ]]
-** s0624027 [[https://drive.google.com/drive/u/1/folders/1STBndKIB88AxLuW0aI809HgNYMKYiROv][数理の広がり - Google ドライブ]] 
+** s0624027 [[https://drive.google.com/drive/u/1/folders/1STBndKIB88AxLuW0aI809HgNYMKYiROv][数理の広がり - Google ドライブ]]
+** s0624029 [[https://drive.google.com/drive/u/1/folders/1z0rJip8gOMjTvChKkrsk4Fvbd8cwazIr][数理のひろがり - Google ドライブ]] 6/11
 ** s0624032 [[https://drive.google.com/drive/u/1/folders/1VxHaYXfA-s0lvUWG04SwWffrhdA5vA20][数理のひろがり - Google ドライブ]] 
 ** s0624033 [[https://drive.google.com/drive/u/1/folders/1ms7CVUHN_n4ODPl6kvG0Wv26Gl4PLin8][数理のひろがり - Google ドライブ]]
+** s0624034 [[https://drive.google.com/drive/u/1/folders/1SXAkog5IRvdo6ch_mRlxyPhs6orZCNrG][数理のひろがり - Google ドライブ]] 6/19
 ** s0624041 [[https://drive.google.com/drive/u/1/folders/1SfONqiAKm4onAKTiyyXVlCZb8rbq6xoO][数理のひろがり - Google ドライブ]]
 ** s0624059 [[https://drive.google.com/drive/u/1/folders/1FQaByixI04wN-P_SpgQzHHgr2ck9Mnt7][数理のひろがり s0624059 - Google ドライブ]] 
+** s0624062 [[https://drive.google.com/drive/u/1/folders/1O-c-chFXqGnNKNdlVJSY7Y_Hejy9Qdlr][数理の広がり - Google ドライブ]] 6/19
 ** s0624063 [[https://drive.google.com/drive/u/1/folders/140nu5IznK6OLlTv0gEJl8MzvHjZoH9B0][数理のひろがり - Google ドライブ]] 
+** s0624066 [[https://drive.google.com/drive/u/1/folders/1C-0EGnLApVL9wvzKSZMV_feg6JQaqTwL][数理のひろがり - Google ドライブ]]
 ** s0624066 [[https://drive.google.com/drive/u/1/folders/1C-0EGnLApVL9wvzKSZMV_feg6JQaqTwL][数理のひろがり - Google ドライブ]] 
-** s0722028 [[https://drive.google.com/drive/u/1/folders/1N4Y9l2BJpUMbYIV4cGsd8e9WXiF7gmfj][数理のひろがり - Google ドライブ]] 
+** s0722028 [[https://drive.google.com/drive/u/1/folders/1N4Y9l2BJpUMbYIV4cGsd8e9WXiF7gmfj][数理のひろがり - Google ドライブ]]
 ** s0824012 [[https://drive.google.com/drive/u/1/folders/19_MUK5KW0M39PMct2DZo69lpPh19XJ7U][数理のひろがり - Google ドライブ]]
 ** s0824019 [[https://drive.google.com/drive/u/1/folders/14gNATSvL2k8eyXEVV5m3L1vZEn91MXeV][数理の広がり - Google ドライブ]]
 ** s0824051 [[https://drive.google.com/drive/u/1/folders/1rV_CNstY0GZooMv0trvGyHfnT04gDpjr][数理の広がり - Google ドライブ]] 
+
