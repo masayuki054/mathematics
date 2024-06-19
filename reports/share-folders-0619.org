@@ -12,7 +12,8 @@
 
 * 共有フォルダ一覧
 
-? が付いている人は，状況を知らせてください。
+- 6.19 が付いている人は，新しく付け加えました。
+- ? が付いている人は，状況を知らせてください。
 
 ** a0324002 [[https://drive.google.com/drive/u/1/folders/1byjc7ZBqSD2PmhiH4gMrMA5_SUo4Nmj5][数理のひろがり - Google ドライブ]]
 ** e0122013 [[https://drive.google.com/drive/u/1/folders/1-73XRRHVOfrCIoA9xU0LTz8LodcY7qlW][数理のひろがり - Google ドライブ]]
