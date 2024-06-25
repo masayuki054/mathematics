@@ -3,12 +3,14 @@
 - [2024-06-11 火] 自分の共有フォルダはありませんか？ あれば，知らせて
   ください。
   
-** lip06130603 [[https://colab.research.google.com/drive/1NvhsDxwJ-zTATQ-CbMG9JC8asuLVqtvT?authuser=1][Untitled0.ipynb - Colab]]
 ** LIP LIP さん [[https://colab.research.google.com/drive/1NvhsDxwJ-zTATQ-CbMG9JC8asuLVqtvT?authuser=1][Untitled0.ipynb - Colab]] 6/12
 ** 1087nazar [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]] e0124013 e0124038 と共有
 ** ch1 saka さん  [[https://drive.google.com/drive/u/1/folders/1Z6YbIi1GruGHL5JsM9mDPD0NRiUKXk8Y][数理のひろがり - Google ドライブ]] 1087e0124013 e0124038 と共有
 ** ta.oga.hi [[https://drive.google.com/drive/u/1/folders/1FsKptVTPpMqzCSCMYhzx4-v_NDNQDC-4][数理の広がり - Google ドライブ]] ?
 ** hatsuki [[https://mail.google.com/mail/u/1/#inbox/FMfcgzGxTPDqWFzpnNCbxZhwgwLblgbV][共有されたドキュメント: 「無題のドキュメント」 - suzuki@iwate-u.ac.jp - 国立大学法人岩手大学 メール]]
+* 共有フォルダがないレポートの共有リクエスト
+** s0524015 6/19 レポート
+
 
 * 共有フォルダ一覧
 
@@ -46,7 +48,8 @@
 ** s0424019 [[https://drive.google.com/drive/u/1/folders/1oIMQL_Gu8R5IKTDz2uMCnEL6D9Cm78FR][数理のひろがり - Google ドライブ]]
 ** s0424050 ?
 ** s0524001 [[https://drive.google.com/drive/u/1/folders/1DEE1itrB3Jr6vs70KvGpIPgeS6YAy99z][数理のひろがり - Google ドライブ]] 
-** s0524005 [[https://drive.google.com/drive/u/1/folders/1r4Ac-yCTfo4Gt-QKFz6Ct-XfzI39RvPY][数理の広がり - Google ドライブ]] 
+** s0524005 [[https://drive.google.com/drive/u/1/folders/1r4Ac-yCTfo4Gt-QKFz6Ct-XfzI39RvPY][数理の広がり - Google ドライブ]]
+
 ** s0524030 [[https://drive.google.com/drive/u/1/folders/14_LegwVYjbyT3mR83IW-UYOUlY1a9Wsb][数理のひろがり - Google ドライブ]]
 ** s0524032 [[https://drive.google.com/drive/u/1/folders/1SMS2fvtiumibAHN_D2GoiOIPS3HFomtK][数理のひろがり - Google ドライブ]] 
 ** s0524033 [[https://drive.google.com/drive/u/1/folders/1Mlkit0bCdLGlmGgFcypbBqrhfAkNlS6I][数理のひろがり - Google ドライブ]] 

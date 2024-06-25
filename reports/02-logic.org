@@ -8,7 +8,7 @@
   - レポートの名前は，report-logic.拡張子
   - レポートの形式は，(画像,文書)のpdf and/or colabノート
   - 共有フォルダに入れてください。
-  - index.{md,ipynb}内にリンクを作成してください。
+  - =index.= README.{md,ipynb}内にリンクを作成してください。
 
 ** 課題問題
 計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]]の，練習問題 3.5，3.7，3.8,

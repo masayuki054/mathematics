@@ -58,9 +58,11 @@ math.sin(3.14)
 - 論理と集合と関連づけてください
 
 *** [[https://www.python.jp/train/function/index.html][関数の定義: ゼロからのPython入門講座 - python.jp]]
-
 *** [[https://www.python.jp/train/list/index.html][Pythonの型とオブジェクト: ゼロからのPython入門講座 - python.jp]]
-
+**** [[https://www.python.jp/train/list/list.html][リスト: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_oper.html][リストの操作: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_loop.html][while文を使ったリストのループ処理: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_forloop.html][for文によるループ: ゼロからのPython入門講座 - python.jp]]
 
 * [[https://atmarkit.itmedia.co.jp/ait/subtop/features/di/pybasic_index.html][Python入門 - ＠IT]]目次
 
