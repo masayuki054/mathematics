@@ -89,15 +89,16 @@
     - 新たに獲得した視点や知識や技術
 
 * 離散系数学 (集合と論理，集合と計数)
-** 集合，論理の振り返り
-*** 6/26 の内容 証明とは，推論とは
+** 6/26 の内容 証明とは，推論とは
 - 計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたり 
   推論規則と証明例について解説します。
+
+  講師の説明用資料です [[./notes/math-推論規則と証明例.pdf]] 
 
 - 証明図の説明
   [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/lecture5-dist.pdf][lecture5-dist.pdf]] / [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/][2023年度 数理論理学(学部)]] 新潟大学
 
-*** 前回から数回にわたって，話せなかった話やまとめをおこなうつもりです。[3/3]
+** 前回から数回にわたって，話せなかった話やまとめをおこなうつもりです。[3/3]
 
 - [X] 集合，関数，関係についてのまとめ
   - [[file:Maps/集合.xmind]] (開けない人は，連絡してください)
