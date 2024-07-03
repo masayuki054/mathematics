@@ -146,7 +146,7 @@
 - \( n \) 個の互いに異なる実数の列内の，下降列あるいは上昇列の長さの最長値 k は，
   \( k \geq \sqrt{n} \)
 
-  [[./memo/real_no_sequence.pdf]]
+  [[./memo/real_no_sequence.df]]
 
   
 - 格子点，(0,0) から (n,n) の経路の集合
@@ -169,8 +169,14 @@
 
 * 離散系数学 (集合と論理)
 ** 6/26・7/3 の内容 証明とは，推論とは
+今日は，[[file:exec/7-3.org::*7/3 練習問題][7/3 練習問題]] をやってみましょう。論理式や証明について考えましょ
+う。
 
-下記の資料を参照してください：
+計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたりの例3.3(証明)
+の 14番目の証明に質問されたので，[[./notes/math-証明図の例ー1ー14.pdf]] に
+講師の証明を掲載します。
+
+証明に関しては，下記の資料を参照してください：
 
 - 計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたり 
   推論規則と証明例について解説します。
@@ -178,8 +184,6 @@
 - 証明図の説明
   [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/lecture5-dist.pdf][lecture5-dist.pdf]] / [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/][2023年度 数理論理学(学部)]] 新潟大学
 
-今日は，[[file:exec/7-3.org::*7/3 練習問題][7/3 練習問題]] をやってみましょう。論理式や証明について考えましょ
-う。
 
 ** 前回から数回にわたって，話せなかった話やまとめをおこなうつもりです。[3/3]
 
@@ -218,9 +222,7 @@
   - 証明図の説明
     [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/lecture5-dist.pdf][lecture5-dist.pdf]] / [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/][2023年度 数理論理学(学部)]] 新潟大学
     
-
 *** 参考サイト
-
 - [[https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB][形式体系 - Wikipedia]]
 - [[https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%AB%96%E8%A6%8F%E5%89%87][推論規則 - Wikipedia]]
 
@@ -245,7 +247,7 @@
 - 組み合わせの数の定義と計算
 - 格子点上の道の数を数える
 - 部分集合を数える・生成する
-
+  
 *** 問題
 
 できそうか考えてみてください。
