@@ -62,6 +62,8 @@ def combination(n, k):
 *** (0,0) から (n,n)への道の総数
 count_path_1(n)
 
+
+
 *** (0,0) から (m,n)への道の総数
 count_path_2(m,n)
 

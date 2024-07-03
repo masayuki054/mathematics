@@ -1,0 +1,64 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* 微分積分 入門サイト 
+
+[[https://math-notes.info/cal/][微分積分 入門 - 大学数学の授業ノート]]
+- ホーム :: [[https://math-notes.info/][大学数学の授業ノート]]
+- 利用について :: [[https://math-notes.info/intro/][当サイト について - 大学数学の授業ノート]]
+
+* 内容
+
+1. [[https://math-notes.info/2022/03/16/cal-1/][数列の極限 (微分積分 入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/03/cal-1.pdf][cal-1.pdf]]
+2. [[https://math-notes.info/2022/03/21/cal-2/][級数 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/03/cal-2.pdf][cal-2.pdf]]
+
+3. [[https://math-notes.info/2022/03/30/cal-3/][関数の極限と連続性 (微分積分 入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/03/cal-3.pdf][cal-3.pdf]]
+   
+4. [[https://math-notes.info/2022/04/02/cal-4/][微分係数と導関数 (微分積分 入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/04/cal-4.pdf][cal-4.pdf]]
+
+5. [[https://math-notes.info/2022/04/04/cal-5/][導関数の性質 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/04/cal-5.pdf][cal-5.pdf]]
+
+6. [[https://math-notes.info/2022/04/08/cal-6/][逆関数 とその微分 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/04/cal-6.pdf][cal-6.pdf]]
+
+7. [[https://math-notes.info/2022/05/05/cal-9/][平均値の定理とロピタルの定理 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/05/cal-9.pdf][cal-9.pdf]]
+
+8. [[https://math-notes.info/2022/05/21/cal-11/][テイラーの定理とその応用 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/05/cal-11.pdf][cal-11.pdf]]
+
+9. [[https://math-notes.info/2022/05/27/cal-12/][テイラー展開 の性質と例 (微分積分入門) - 大学数学の授業ノート]]
+   [[https://math-notes.info/wp-content/uploads/2022/05/cal-12.pdf][cal-12.pdf]]
+
+10. [[https://math-notes.info/2023/05/30/cal-13/][不定積分 の定義と例 (微分積分入門) - 大学数学の授業ノート]]
+    [[https://math-notes.info/wp-content/uploads/2023/05/cal-13.pdf][cal-13.pdf]]
+
+11. [[https://math-notes.info/2023/06/12/cal-14/][リーマン和 と 定積分 (微分積分入門) - 大学数学の授業ノート]]
+    [[https://math-notes.info/wp-content/uploads/2023/06/cal-14.pdf][cal-14.pdf]]
+
+12. [[https://math-notes.info/2023/06/27/cal-15/][微分積分学の基本定理 (微分積分入門) - 大学数学の授業ノート]]
+    [[https://math-notes.info/wp-content/uploads/2023/06/cal-15.pdf][cal-15.pdf]]
+
+
+足りないのは，偏微分に関する資料
+
+*** 微分積分 入門サイト 偏微分
+[[https://manabitimes.jp/math/876][偏微分の意味と計算例・応用 | 高校数学の美しい物語]]
+
+
+*** 講師の微分積分講義の板書
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1-n0S7W2YrZ3t_1cgaYaTNpR4cpUrbECJ][calc-積分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1lY6qb2Z02iAD_WdesHNMpmsGecY3ynDa][図 - Google ドライブ]]
+
+*** 微分 積分 と python
+[[https://home.hirosaki-u.ac.jp/relativity/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E6%BC%94%E7%BF%92/python-%E3%81%A7%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E6%BC%94%E7%BF%92/sympy-%E3%81%A7%E5%BE%AE%E5%88%86%E7%A9%8D%E5%88%86%E3%83%BB%E6%96%B9%E7%A8%8B%E5%BC%8F%E3%81%AE%E8%A7%A3/][SymPy で微分積分・方程式の解 - 相対論の理解とその周辺]]
+
+
+

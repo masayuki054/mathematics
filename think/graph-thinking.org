@@ -1,8 +1,7 @@
+
 #+startup: indent show2levels
 #+title:
 #+author masayuki
-
-
 
 [[https://lot.or.jp/project/11662/][グラフ文書を教育に活用することで批判的思考能力が向上第132回オンラインシンポレポート・前半 | 超教育協会 Learning of Tomorrow]]
 
