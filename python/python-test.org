@@ -1,0 +1,92 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* リストで集合 [2024-07-10 水]
+
+[[https://colab.research.google.com/drive/1dhh3Ihsv_z08OuounVpF8lDyzTOV8g2N][リストによる集合プログラミング.ipynb - Colab]]
+- 講師の colab フォルダ [[https://drive.google.com/drive/folders/1zQ50hPPDVsYxshg18FUqTmUZjVnJxmKT][Colab Notebooks - Google ドライブ]]
+  
+** リストの作成と要素へのアクセス方法
+#+begin_src python :session *python* :results output
+ary = [0,1,2,3,4,5,6];
+print (ary) # 変数 ary の中身の値はリスト
+print (ary[0]) # 0番目の要素
+print (ary[-1])  # 最後の要素
+print (ary[1:])  # 1番目から残りすべての要素のリスト
+print (ary+[4])
+print (range(0,len(ary))) # 範囲を表す値 (rangeオブジェクト)
+
+# 繰り返し文
+
+for i in range(1,len(ary)-1):
+    print(ary[i])
+    
+#+end_src
+
+#+RESULTS:
+#+begin_example
+[0, 1, 2, 3, 4, 5, 6]
+0
+6
+[1, 2, 3, 4, 5, 6]
+[0, 1, 2, 3, 4, 5, 6, 4]
+range(0, 7)
+1
+2
+3
+4
+5
+#+end_example
+
+** すべての部分集合の生成
+- 集合をリストで表す
+
+  集合とリストの処理  
+  - s_all = [s_1, ..., s_n] <=> [s_1] + s_rest
+    - s_all, s_rest は集合を表すリスト(データ構造)
+    - s_1, ..., s_n は 集合の要素
+    - [s_1]は，要素 s_1 だけから成る 集合 (リスト)
+    - s_rest は [s_2, ..., s_n]
+  - s_1 = s_all[0] リストの0番目の要素
+  - s_n = s_all[-1] 最後の要素
+  - 集合の要素数は，len(s_all)
+  - s_rest = s_all[1:-1] s_1 以外の要素を含む集合
+
+- 再帰的に考える
+  - 空集合は，空りすと []
+  - 与えられた集合sの全ての部分集合を作る関数 subset(s)
+
+    - 空集合のsubset([]) = []
+    - sの全ての部分集合は，
+      - s_restの全ての部分集合と
+      - s[0]を，s_restの全ての各部分集合に要素として追加した集合の集合
+        を
+      - 合併して
+      できた{集合の集合}
+
+#+begin_src python :session *python* :results output
+def subset(s):
+    if len(s)==0:
+        return [[]]
+    else:
+        s_rest = s[1:]
+        ss = subset(s_rest)
+        sss = ss
+        for i in range(0,len(ss)):
+            sm = [s[0]] + ss[i]
+            sss =  sss + [sm]
+        return sss
+print(subset([]))
+print(subset([1]))
+print(subset([1,2,3]))
+print(len(subset([1,2,3,4,5,6])))
+
+#+end_src
+
+#+RESULTS:
+: [[]]
+: [[], [1]]
+: [[], [3], [2], [2, 3], [1], [1, 3], [1, 2], [1, 2, 3]]
+: 64
+

@@ -1,0 +1,226 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* リストによる集合プログラミング 7/10
+
+- [[file:~/COMM/Lects/mathematics/lect-2024/python/python-test.org::*リストで集合 \[2024-07-10 水\]][リストで集合 [2024-07-10 水]​]] を表す
+- [[file:~/COMM/Lects/mathematics/lect-2024/python/python-test.org::*すべての部分集合の生成][すべての部分集合の生成]]するための再帰的考え方とプログラム (講師の解) 
+  - colabへ移植版 [[https://colab.research.google.com/drive/1dhh3Ihsv_z08OuounVpF8lDyzTOV8g2N][リストによる集合プログラミング.ipynb - Colab]]
+    自分で，colab でノートを作成する人は，参考にしてください。
+    
+  - chatGPTにも聞いてみました
+
+    chatGPTの解 [[file:~/COMM/Lects/mathematics/lect-2024/python/chatGPT.org::*すべての部分集合の生成 chatGTP][すべての部分集合の生成 chatGTP]] には，
+    講師の欲かったやり方は，なかったです。
+
+    もっとシンプルなものが欲かってです。
+    
+    
+
+
+
+
+
+
+* 入門
+
+
+
+** [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+- 共有フォルダに中に，pythonフォルダを作成し，python入門学習で作成した
+  colab ノートを入れてくださし。
+- ノートブックには，プログラムだけでなく，テキストブロックを使って，学び
+  流れと説明を書いていきましょう。
+
+** [todo|自習] [[./ICT/python.org]] の while によるループのプログラミング
+
+**** [[https://www.python.jp/train/list/index.html][Pythonの型とオブジェクト: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list.html][リスト: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_oper.html][リストの操作: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_loop.html][while文を使ったリストのループ処理: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_forloop.html][for文によるループ: ゼロからのPython入門講座 - python.jp]]
+
+** doing 数学関数の定義と計算 [[./ICT/python-func.org]] 
+
+- 階乗関数の定義と計算
+- 組み合わせの数の定義と計算
+- 格子点上の道の数を数える
+- 部分集合を数える・生成する
+  
+*** 問題
+
+できそうか考えてみてください。
+
+以下を計算する python のプログラム考えてみてください
+(1) 数学的な定義を記述する
+(2) 数学的な定義にもとづき計算するプログラム
+
+**** (0,0) から (n,n)への道の総数
+
+***** (0,0) から (n,n)への道の総数
+count_path_1(n)
+
+***** (0,0) から (m,n)への道の総数
+count_path_2(m,n)
+
+***** (0,0) から (n,n) の道のうち，
+(i,j) i<=j を通る道の総数をカウントする
+count_path_3(n) 
+
+
+**** 部分集合の数を数える no_of_subsets(set)
+
+**** 全ての部分集合を生成する make_subsets(n)
+
+* [[https://www.python.jp/][プログラミング言語 Python 総合情報サイト - python.jp]]
+
+* [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/index.html][Python初体験: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/colab.html][Google Colab の準備: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/exec-python1.html][はじめてのPython: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/on-error.html][エラーになったときには: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/program_src.html][プログラム と ソースコード: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/notebook-cell.html][コードセルとテキストセル: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/next-sample.html][ばえるPython: ゼロからのPython入門講座 - python.jp]]
+** [[https://www.python.jp/train/experience/next-sample2.html][はたらくPython: ゼロからのPython入門講座 - python.jp]]
+
+* [[https://www.python.jp/train/index.html][ゼロからのPython入門講座 - python.jp]]  
+** [[https://www.python.jp/train/type_and_func/index.html][Python基礎の基礎: ゼロからのPython入門講座 - python.jp]]
+
+*** 式と値 [[https://www.python.jp/train/type_and_func/float.html][整数と実数: ゼロからのPython入門講座 - python.jp]]
+- 数 は 整数と実数，値となる
+- 数 は 式
+- 式 演算子 式 は式，計算を表わす
+- 式は，計算グラフ，計算結果の値をもつ
+
+*** 変数 [[https://www.python.jp/train/type_and_func/variable.html][変数: ゼロからのPython入門講座 - python.jp]]
+- 計算した値を記憶する場所(名前)
+- 変数を初めて使った時に，変数が生れる
+- 変数も式，記憶した値が，式の値
+  
+*** [[https://www.python.jp/train/type_and_func/comment.html][コメント: ゼロからのPython入門講座 - python.jp]]
+- プログラム中のメモ
+
+*** [[https://www.python.jp/train/type_and_func/function.html][関数: ゼロからのPython入門講座 - python.jp]]
+- 関数の名前(引数, ... )
+  - 名前が付けられた計算の呼び出し
+  - その計算結果が，関数呼び出しの，計算結果
+
+*** [[https://www.python.jp/train/type_and_func/modules.html][モジュールとimport: ゼロからのPython入門講座 - python.jp]]
+- あらかじめ用意された関数の集りをモジュールと言う。
+- 機能ごとに分類されている
+  - math モジュールは，数学関連の機能
+
+- モジュールの利用: import
+  #+begin_src python :session *python* :result output
+import math
+math.sin(3.14)
+  #+end_src
+
+  #+RESULTS:
+  : 0.0015926529164868282
+
+*** 自習 [[https://www.python.jp/train/string/index.html][文字列と入出力: ゼロからのPython入門講座 - python.jp]] 
+
+
+*** 自習 [[https://www.python.jp/train/if_condition/index.html][条件式と分岐: ゼロからのPython入門講座 - python.jp]]
+
+*** 自習 [[https://www.python.jp/train/logical_oper/index.html][ブール型と論理演算子: ゼロからのPython入門講座 - python.jp]]
+- 論理と集合と関連づけてください
+
+*** [[https://www.python.jp/train/function/index.html][関数の定義: ゼロからのPython入門講座 - python.jp]]
+*** [[https://www.python.jp/train/list/index.html][Pythonの型とオブジェクト: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list.html][リスト: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_oper.html][リストの操作: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_loop.html][while文を使ったリストのループ処理: ゼロからのPython入門講座 - python.jp]]
+**** [[https://www.python.jp/train/list/list_forloop.html][for文によるループ: ゼロからのPython入門講座 - python.jp]]
+
+* [[https://atmarkit.itmedia.co.jp/ait/subtop/features/di/pybasic_index.html][Python入門 - ＠IT]]目次
+
+** pyton モジュール
+[[https://atmarkit.itmedia.co.jp/ait/articles/1907/02/news009.html][［Python入門］モジュールの使い方：Python入門（1/3 ページ） - ＠IT]]
+
+
+** python クラス定義
+*** [[https://atmarkit.itmedia.co.jp/ait/articles/1907/26/news020.html][［Python入門］クラスの基礎知識：Python入門（1/2 ページ） - ＠IT]]
+
+#+begin_src python :session *python* :result output
+type('a')
+#+end_src
+
+#+RESULTS:
+: <class 'str'>
+
+#+begin_src python :session *python* :result output
+from math import sqrt
+
+class Point:
+    def __init__(self, x=0.0, y=0.0):
+        self.x = x
+        self.y = y
+    def difference(self, point=None):
+        if not point:
+            point = Point()
+        return sqrt((self.x - point.x) **2
+                    + (self.y - point.y)**2)
+    
+#+end_src
+
+#+RESULTS:
+#+begin_src python :session *python* :result output
+p1 = Point(10.0,10.0)
+p1.difference()
+
+#+end_src
+
+#+RESULTS:
+: 14.142135623730951
+
+#+begin_src python :session *python* :result output
+Point
+
+#+end_src
+
+#+RESULTS:
+: <class '__main__.Point'>
+
+#+begin_src python :session *python* :result output
+
+#+end_src
+
+
+
+** python directory
+
+[[https://atmarkit.itmedia.co.jp/ait/articles/1910/25/news021.html][［Python入門］ディレクトリ操作の基本：Python入門（1/3 ページ） - ＠IT]]
+
+
+** python アプリの起動
+
+[[https://mori-memo.hateblo.jp/entry/2023/05/12/172512][【python】外部アプリケーションを操作する方法を解説！RPA入門！ -
+morikomorou’s blog]]
+
+#+begin_src python :session *python* :result output
+import subprocess
+subprocess.Popen('/Applications/Emacs.app/Contents/MacOS/Emacs', shell=true)
+#+end_src
+
+#+RESULTS:
+
+
+* python 関数 IT
+[[https://atmarkit.itmedia.co.jp/ait/articles/1905/17/news020.html][［Python入門］関数の基本：Python入門（1/2 ページ） - ＠IT]]
+
+#+begin_src python :session *python* :result output
+def fact(n):
+    if n==1:
+       return 1
+    else:
+       return n*fact(n-1)
+
+fact(100)
+#+end_src
+
+#+RESULTS:
+: 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000

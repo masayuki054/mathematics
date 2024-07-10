@@ -76,4 +76,40 @@ count_path_3(n)
 
 ** 全ての部分集合を生成する make_subsets(n)
 
+#+begin_src python  :session *python* :result output
+
+def subsets(s):
+   if len(s)==0:
+      return []
+   else:
+      m = s.pop(0)
+      s1 = subsets(s)
+      map(lambda ss: 
+      
+      
+end
+
+#+end_src
+
+
+#+begin_src python  :session *python* :result output
+
+def generate_subsets_recursive(nums):
+    def backtrack(start, path, subsets):
+        subsets.append(path)
+        for i in range(start, len(nums)):
+            backtrack(i + 1, path + [nums[i]], subsets)
+
+    subsets = []
+    backtrack(0, [], subsets)
+    return subsets
+
+# 使用例
+example_nums = [1, 2, 3]
+all_subsets = generate_subsets_recursive(example_nums)
+print(all_subsets)
+
+
+#+end_src
+
 

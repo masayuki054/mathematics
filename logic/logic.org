@@ -1,0 +1,16 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+
+計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたりの例3.3(証明)
+の 14番目の証明に質問されたので，[[./notes/math-証明図の例ー1ー14.pdf]] に
+講師の証明を掲載します。
+
+証明に関しては，下記の資料を参照してください：
+
+- 計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたり 
+  推論規則と証明例について解説します。
+
+- 証明図の説明
+  [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/lecture5-dist.pdf][lecture5-dist.pdf]] / [[http://www.nue.ie.niigata-u.ac.jp/~aoto/lecture/Logic/][2023年度 数理論理学(学部)]] 新潟大学
