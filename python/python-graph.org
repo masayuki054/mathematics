@@ -1,0 +1,13 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+
+[[https://zenn.dev/yuichiyazaki/articles/615b14fc9f62a9][Google Colab上で、Graphvizを用いてグラフ描画をする際、日本語が文字化け
+しないようにする]]
+
+[[https://blacktanktop.hatenablog.com/entry/2021/10/12/064540][Graphvizを用いたニューラルネットのGraph構造の作図 - くろたんく雑記帳]]
+
+** ノード列と木
+
+[[https://qiita.com/jimeJIME/items/427c0f91d5d5bd51a9ce][Google Colaboratoryで二分木のビジュアライズ(with graphviz) #Python - Qiita]]

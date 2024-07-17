@@ -1,0 +1,19 @@
+」#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* python フォルダ
+#+begin_src shell :results output
+ls
+#+end_src
+
+
+* [[./python.org]]
+  - [[file:python.org::*リストによる集合プログラミング 7/10][リストによる集合プログラミング 7/10]]
+  - [[file:python.org::*入門][入門]]
+
+** [[./python-test.org]]
+   べき集合の再帰的生成
+***  [[./python-test.md]] マークダウン版 colab 用
+***  [[./chatGPT.org]] chatGPTが答えた三つのプログラム
+

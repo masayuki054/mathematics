@@ -1,0 +1,115 @@
+#+startup: indent show2levels
+#+title:
+#+author masayuki
+
+* python 関数 IT
+
+** 階乗関数の再帰的計算
+
+階乗を計算する関数を定義し，100の階乗を計算する
+
+#+begin_src python :session *python* :result output
+def fact(n):
+    if n==1:
+       return 1
+    else:
+       return n*fact(n-1)
+
+fact(100)
+#+end_src
+
+#+RESULTS:
+: 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
+
+- 関数の定義方法
+  - def 関数名 (引数リスト)
+  - return 値(式)
+    
+- if 文の書き方
+
+
+** 組合せの数の計算
+
+_nC_k = _{n-1}C_{k-1} + _{n-1} C {k-1}
+_n C_0 = _n C_n = 1
+
+  #+begin_src python :session *python* :result output
+def combination(n, k):
+    if k==0:
+        return 1
+    else:
+        if k==n:
+            return 1
+        else:
+            return combination(n-1, k)+combination(n-1, k-1)
+
+[combination(10,5),combination(9,5),combination(9,4)]
+
+  #+end_src
+
+  #+RESULTS:
+  | 252 | 126 | 126 |
+
+
+* 問題
+
+以下を計算する python のプログラム考えてみてください
+(1) 数学的な定義を記述する
+(2) 数学的な定義にもとづき計算するプログラム
+
+** (0,0) から (n,n)への道の総数
+
+*** (0,0) から (n,n)への道の総数
+count_path_1(n)
+
+
+
+*** (0,0) から (m,n)への道の総数
+count_path_2(m,n)
+
+*** (0,0) から (n,n) の道のうち，
+(i,j) i<=j を通る道の総数をカウントする
+count_path_3(n) 
+
+
+** 部分集合の数を数える no_of_subsets(set)
+
+** 全ての部分集合を生成する make_subsets(n)
+
+#+begin_src python  :session *python* :result output
+
+def subsets(s):
+   if len(s)==0:
+      return []
+   else:
+      m = s.pop(0)
+      s1 = subsets(s)
+      map(lambda ss: 
+      
+      
+end
+
+#+end_src
+
+
+#+begin_src python  :session *python* :result output
+
+def generate_subsets_recursive(nums):
+    def backtrack(start, path, subsets):
+        subsets.append(path)
+        for i in range(start, len(nums)):
+            backtrack(i + 1, path + [nums[i]], subsets)
+
+    subsets = []
+    backtrack(0, [], subsets)
+    return subsets
+
+# 使用例
+example_nums = [1, 2, 3]
+all_subsets = generate_subsets_recursive(example_nums)
+print(all_subsets)
+
+
+#+end_src
+
+
