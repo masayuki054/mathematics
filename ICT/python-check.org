@@ -1,4 +1,4 @@
-* [[file:index.html][ゼロからのPython入門講座]]
+C* [[file:index.html][ゼロからのPython入門講座]]
 [[https://colab.research.google.com/][GoogleColaboratory(Colab)]]
 
 [[https://colab.research.google.com/][Colab]]は、Google社が提供する、Webブラウザからプログラミング言語Pythonを
