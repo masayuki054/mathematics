@@ -29,12 +29,12 @@
   - y は f からの出力
   - f は x を使った操作や計算 f(x)の詳細
 
-- 関数の変化 \( \Delta y = f(x+\Delta x) - f(x) `$
-  - 入力の変化量 \( \Delta x `$ が生む，出力の変化 \( \Delta y `$
+- 関数の変化 $` \Delta y = f(x+\Delta x) - f(x) `$
+  - 入力の変化量 $` \Delta x `$ が生む，出力の変化 $` \Delta y `$
 
 - 入力の変化に対する出力の変化
 
-  \( \Delta y = f(x+\Delta x) - f(x)  = \mbox{直線の傾き} \times \Delta x `$
+  $` \Delta y = f(x+\Delta x) - f(x)  = \mbox{直線の傾き} \times \Delta x `$
   
 * 関数の三つの捉え方
 
