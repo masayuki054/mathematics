@@ -28,7 +28,6 @@ Y = [i**2 for i in range(6)]
 plot_list(X, Y);
 
 
-
 #+end_src
 
 #+RESULTS:
