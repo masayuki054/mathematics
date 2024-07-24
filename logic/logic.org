@@ -7,6 +7,8 @@
 の 14番目の証明に質問されたので，[[./notes/math-証明図の例ー1ー14.pdf]] に
 講師の証明を掲載します。
 
+問題 3.7, 3.8, 3.9 の講師の証明図を掲載します。[[./計算論理-問題3.789.pdf]]
+
 証明に関しては，下記の資料を参照してください：
 
 - 計算論理学講義ノート [[https://abelard.flet.keio.ac.jp/person/mitsu/pdf/comp_theory120921.pdf][comp_theory120921.pdf]] pp.19~25あたり 

@@ -36,6 +36,7 @@
 
   $` \Delta y = f(x+\Delta x) - f(x)  = \mbox{直線の傾き} \times \Delta x `$
   
+
 * 関数の三つの捉え方
 
 - 操作的 (箱モデル)， $` f: X \to Y `$
@@ -50,6 +51,7 @@
 - 代数的
   - 振舞いを計算法により定義する。多項式なと。
   - 値が計算できる
+
 
 * 関数のグラフ
 
@@ -68,6 +70,10 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
   - 出力の連続性 R
   - 連続な入力に対し，連続性な出力が得られる
 
+  - Fig::連続数直線
+  - Fig::数直線上の連続 (一筆書き)
+  - Fig::連続関数の図    
+
 - 極限による表現
 
   - 論理式による表現
@@ -83,12 +89,16 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
   - 数学記号的記法
     - $` f(x) \to  f(a) `$  $`(x \to a)`$
     - $` \lim_{x \to a} f(x) = f(a)`$
-  
+
+  - Fig::連続関数の図 ( $`\delta`$-$`\epsilon`$)
+          
 * 関数の変化
 
-- 一区間での区間端点での差
+- 一区間での区間端点での差 $`
 
   傾きを極限化して，微分係数につながる
+
+  
 
 - 2区間での区間端点での差
 
@@ -126,7 +136,7 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
 
 - 微分係数の図の $`dx`$ と $`dy`$ の依存関係を逆にみる
 
-- $`y = f^{-1}(x) `$の意味を f(x) で書く
+- $`y = f^{-1}(x) `$ の意味を $` f(x) `$ で書く
   - $` f(y) = x `$ がその意味
 
   
@@ -134,7 +144,7 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
 
 合成関数の図
 
-- $` y = f(g(x)) `$ の意味を，$`f(x)`$, $`g(x)`$で書く
+- $` y = f(g(x)) `$ の意味を，$`f(x)`$, $` g(x) `$ で書く
   - $` y = f(u) `$, $` u = g(x) `$ が同時に成り立っているということ。
 
     
@@ -180,10 +190,79 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
 * 平均値の定理
 
 微分係数，導関数で，最も重要な定理だと思う。
-
-- $` \frac{f(b) - f(a)}{b-a} = f'(c) `$, $` a<c<b `$
+- $` \frac{f(b) - f(a)}{b-a} = f'(c) `$, $` a < c < b `$
 
 
 - $` f(x) = f(a) + f'(c) (x -a ) `$, $` a<c<x `$
+
   
+* 微積分学の基本定理
+- リーマン和と定積分 [[https://math-notes.info/wp-content/uploads/2023/06/cal-14.pdf][cal-14.pdf]]
+
+  $$ R(f,\triangle_n,\{x_i\}) = \sum_{k=1}^{n} f(x_i)\Delta, \ \ \Delta=(b-a)/n $$
+
+  - $`1/n`$ 区間巾の長方形の面積の合計和
+    
+  
+- 原始関数
+  $` f(x) `$ に対し， $` F'(x) = f(x) `$ を満す，$` F(x) `$ のこと
+
+    $$  F'(x) = f(x) $$
+
+  -  $` F(x) = \int_a^x f(t) dt  `$
+
+* 偏微分
+[[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/index.html][偏微分]] (金沢工業大学)
+
+** 2変数関数
+- [[https://w3e.kanazawa-it.ac.jp/math/category/kansuu/tahensuu/henkan-tex.cgi?target=/math/category/kansuu/tahensuu/2hennsuu_kansuu.html][2変数関数]] (金沢工業大学)
+- [[https://w3e.kanazawa-it.ac.jp/math/category/kansuu/henkan-tex.cgi?target=/math/category/kansuu/kansuu_no_renzokusei.html][関数の連続性]] (金沢工業大学)
+
+** 2変数関数の変化
+- [[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/henbibun-keisuu.html][偏微分係数]]
+
+  -  [[https://drive.google.com/file/d/1dDjqMmyyKD_VKOqjCYktbFBji9nQv7c8/view?usp=sharing][2変数関数の変化の図]] / [[https://drive.google.com/drive/folders/1-HCAUWUyjGwSd3XZ-UUsF-GWyyZZOTzW][図 - Google ドライブ]]
+
+- $` d(f(x,y)) = f_x dx + f_y dy `$
+
+
+** 偏導関数
+
+- [[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/henbibun-doukansuu.html][偏導関数]] (金沢工業大学)
+
+  区間内の任意の点で，偏微分係数を与える関数
+
+** 全微分
+
+*** [[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/zenbibun-kanou.html][全微分可能]]
+- 連続で滑らか
+- 接平面が唯一に決る
+
+*** [[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/zenbibun.html][全微分の定義]]
+- $` d(f(x,y)) = f_x dx + f_y dy `$
+
+  -  [[https://drive.google.com/file/d/1dDjqMmyyKD_VKOqjCYktbFBji9nQv7c8/view?usp=sharing][2変数関数の変化の図]]
+
+  - $` f(x+dx,y+dy) -  f(x,y) \approx f_x dx + f_y dy `$    
+
+- 接平面を表す式と考えられる
+
+*** [[https://w3e.kanazawa-it.ac.jp/math/category/bibun/henbibun/henkan-tex.cgi?target=/math/category/bibun/henbibun/henbibun-junnjokoukan.html][偏微分の順序交換]]
+$` f_{xy} = f_{yx} `$
+-  [[https://drive.google.com/file/d/1dDjqMmyyKD_VKOqjCYktbFBji9nQv7c8/view?usp=sharing][2変数関数の変化の図]] より明か
+
+** 2階の全微分 全微分の全微分
+
+- $` d(f(x,y)) = f_x dx + f_y dy `$
+
+- $` d(d(f(x,y))) = d(f_x dx) + d(f_y dy) `$
+
+  - $` d(f_x dx) = f_{xx} (dx)^2 + f_{xy} dy dx `$
+  - $` d(f_y dy) = f_{yx} dx dy + f_{yy} {dy}^2 `$
+
+- $` d(d(f(x,y))) =   f_{xx} (dx)^2 + 2 f_{xy} dx dy + f_{yy} {dy}^2 `$
+  - 何故なら $` f_{xy} = f_{yx} `$
+
+  -  [[https://drive.google.com/file/d/1dDjqMmyyKD_VKOqjCYktbFBji9nQv7c8/view?usp=sharing][2変数関数の変化の図]] から明らか
+
 
