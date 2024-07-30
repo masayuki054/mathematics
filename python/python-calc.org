@@ -10,16 +10,18 @@
 - sympy (記号計算) パッケージの機能を使う [[https://docs.sympy.org/latest/index.html][SymPy 1.13.1 documentation]]
 - sympy の一文字変数 [[https://docs.sympy.org/latest/modules/abc.html][abc - SymPy 1.13.1 documentation]]
  
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 from sympy import *
 from sympy.abc import *
 
 #+end_src
 
+#+RESULTS:
+
 ** 関数の定義
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 def f(x):
     return x**2+2*x+1
@@ -35,7 +37,7 @@ print(factor(f(x)))
 
 ** 定数 $` i, e, \pi `$
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 from sympy import I, pi, E
 
@@ -44,7 +46,7 @@ from sympy import I, pi, E
 #+RESULTS:
 
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 print(E**(I*pi) + 1)
 
@@ -54,7 +56,7 @@ print(E**(I*pi) + 1)
 : 0
 
 ** 初等関数
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 print(sin(pi/6))
 print(cos(pi/6))
 print(sqrt(x**2))
@@ -73,7 +75,7 @@ print(log(E**2))
 : 2
 
 *** 三角関数の公式
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 print (expand(sin(x+y), trig=True))
 print (expand(cos(x+y), trig=True))
 print (expand(tan(x+y), trig=True))
@@ -101,7 +103,7 @@ print (expand(tan(3*x), trig=True))
 
 ** 微分
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 print(
     Eq (
@@ -117,7 +119,7 @@ print(
 
 [[https://docs.sympy.org/latest/modules/simplify/simplify.html#module-sympy.simplify.hyperexpand][Simplify - SymPy 1.13.1 documentation]]
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 
 print(
     diff(log(x+sqrt(x**2+1)))
@@ -139,7 +141,7 @@ print(
 
 
 ** 積分
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 print (
     integrate(x**2*cos(x) + 2*x*sin(x), x)
 )
@@ -148,7 +150,7 @@ print (
 #+RESULTS:
 : x**2*sin(x)
 
-#+begin_src python :session *py* :results output
+#+begin_src python :session *py* :results output :exports both
 print (
     integrate(1/(x**2+1),x)
 )
