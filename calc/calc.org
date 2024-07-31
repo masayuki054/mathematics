@@ -207,7 +207,7 @@ $` \{ (x, f(x)) | x \in I \} `$, $` I `$は定義域
 - 原始関数
   $` f(x) `$ に対し， $` F'(x) = f(x) `$ を満す，$` F(x) `$ のこと
 
-    $$  F'(x) = f(x) $$
+    $`  F'(x) = f(x) `$
 
   -  $` F(x) = \int_a^x f(t) dt  `$
 
@@ -265,45 +265,86 @@ $` f_{xy} = f_{yx} `$
 
   -  [[https://drive.google.com/file/d/1dDjqMmyyKD_VKOqjCYktbFBji9nQv7c8/view?usp=sharing][2変数関数の変化の図]] から明らか
 
-
-
-* テイラー展開
+* マクローリン展開
 
 関数を，折れ線グラフモデルから，連続関数に切り替える。
+- 常に高次の微分係数を考慮することになる
 
-$' f(x+dx) - f(x) = \sum_{i=1}^{\infty} f^{(i)}(x)(dx)^i `$
+- 一微小区間の変化は，折れ線グラフモデルでの考察により，以下となる:
 
-$` f(dx) - f(0) 
+   $' f(x+dx) - f(x) = \sum_{i=1}^{\infty} f^{(i)}(0)(dx)^i `$
 
+- 上の式を，区間 $` [0, t] `$ でリーマン和を考えることにより，
+
+  $` f(t) - f(0) = \sum_{i=1}^{\infty} \int_0^{t} f^{(i)}(0)(dx)^i `$
+
+  $` f(t) =  f(0) + \sum_{i=1}^{\infty} f^{(i)}(0) t^i / (i!) `$
+
+ $` \int_0^{t} (dx)^i  = 1/(n!) `$ (n次元三角錐の体積)
+  
 ** 1変数関数の求積
 - 微積分学の基本定理
   
 ** 平均値の定理とテイラー展開  
 
-** 微分公式，微分方程式と不定積分 (1変数関数)
+* 微分公式，微分方程式と不定積分 (1変数関数)
 
-y=f(x) が満す  y と y' の関係から，f(x)を見付ける
+$` y=f(x) `$ が満す  $` y `$ と $` y' `$ の関係から，$` f(x) `$を見付ける
 
-*** 線形一次
-- y = y'
-- y = a y'
-- y = a(x) y'
+*** 線形一次の関係 (微分方程式)
+- $` y = y' `$
+- $` y = a y' `$
+- $` y = a(x) y' `$
 
-- y - a(x) y' = q(x)
-  - y -a(x) y' = 0 の一般解 p_0(x) は，
-    y - a(x) y' = q(x) の特殊解 p(x) に加えても，解になる
+- $` y - a(x) y' = q(x) `$
+  - $` y -a(x) y' = 0 `$ の一般解 $` p_0(x) `$ は，
+    $` y - a(x) y' = q(x) `$ の特殊解 $` p(x) `$ に加えても，解になる
 
 *** 線形2次
-微分作用素Dで， A(D,x) y = 0と表し，
-A(D,x)を因数分解して，線形一次の微分方程式に分解できる
 
-** g(y) = f(x) => g'(y)dy = f'(x)dx の両辺を不定積分
+- 同次形 :: 微分作用素 ($` D = d/dx `$)で， 微分方程式を $` A(D,x) y = 0 `$
+  と表し，A(D,x)を因数分解して，線形一次の微分方程式に分解できる。
 
-*** f(x,y) = c => f_x dx + f_y dy = 0
+  後は，線形一次の場合に帰着できる。
+
+- 非同時形 :: 同時形の一般解を求め，もとの方程式に代入することで，
+  より簡単な微分方程式が得られる。
+
+*** 変数分離 $` g'(y)dy = f'(x)dx `$
+
+- $`g'(y)dy = f'(x)dx `$ の両辺を不定積分
+- $` g(y) = f(x) `$
   
+*** $` P(x,y) dx + Q(x, y) dy = 0  `$
 
+- $` f(x,y) = 0`$ の全微分 $` f_x dx + f_y dy `$,
+  と対応を見つける
+  
 ** 2 (多)変数
 
 *** 多変数とベクトル，行列
 
 *** 重積分
+
+
+* 図なと
+- [[https://drive.google.com/drive/folders/1OaXwOVavOt3koXM9VpJgvpPiZC94cAlY][calc-微分の板書 - Google ドライブ]]
+- [[https://drive.google.com/drive/folders/1lY6qb2Z02iAD_WdesHNMpmsGecY3ynDa][図 - Google ドライブ]]
+
+  関数
+  - [[https://drive.google.com/file/d/1I58K1a7LxtnJa3T0QgQvTvaOVKeYv0dO/view][合成関数のグラフの描画法.JPG - Google ドライブ]]
+
+  微分
+  - [[https://drive.google.com/file/d/1F8PKdI7P2BQS6TvdPsBsXBR6un8ySU6B/view][微分と積分-折れ線グラフと棒グラフのコピー.pdf - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1psL6x_Rf0jaqZWW9jpcD7RukcXqiGKD4/view][微分とは.JPG - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1EUEQW_Pkj0qwCr_pHasq-EjeglMiNOwK/view][2区間の微分.JPG - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1lLG00yFQlzOQxhMxjv_U9CrYPtrxAh0E/view][2階微分とは.jpg - Google ドライブ]]
+
+  偏微分
+  - [[https://drive.google.com/file/d/1OTjqqp1FB-EoyHMQXNd1o4JfpqIHqxwH/view][偏微分-曲面.JPG - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1fQArJOfn_lEkfQIOefm9fElUC2f3eQEl/view][偏微分-平面近似-fxy=fyx.jpg - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1eGZD5SrfylB8otWg9c0MInkxU3iYcG51/view][偏微分-接平面.jpg - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1h5Of22-boX3jjQ8E3QgzzURAhpExSQGw/view][2020-11th-02-偏微分の説明のための折れ面グラフ.pdf のコピー - Google ドライブ]]
+  - [[https://drive.google.com/file/d/1bJsMycpyyaV3qhBc15pBaGXMzIq8W3Ih/view][2変数関数の2階微分.jpg - Google ドライブ]]
+
+- [[https://drive.google.com/drive/folders/1-n0S7W2YrZ3t_1cgaYaTNpR4cpUrbECJ][calc-積分の板書 - Google ドライブ]]
